@@ -5,7 +5,7 @@ _Enter the name of your lab here._
 _Provide a short description of your lab. This will be used for the Github repository's description._
 
 # Scope of Lab
-_Enter the scope of the lab and how it fits within Hyprledger's mission._
+_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
