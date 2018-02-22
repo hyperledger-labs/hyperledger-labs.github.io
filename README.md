@@ -3,7 +3,7 @@ Hyperledger Labs provides  a space (i.e., GitHub repos) where work can easily be
 
 ## Process to propose a new lab
 
-Fork this respository.
+Fork the [hyperledger-labs.github.io](https://github.com/hyperledger-labs/hyperledger-labs.github.io) repository.
 
 Fill out the [Proposal Template](https://github.com/hyperledger-labs/hyperledger-labs.github.io/blob/master/proposal-template.md) and save it into the labs subdirectory under the name of your lab, such as mynewlab.md. It is expected that your lab repository will have the same name so keep that in mind.
 
