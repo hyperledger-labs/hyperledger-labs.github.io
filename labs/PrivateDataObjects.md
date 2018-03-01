@@ -8,7 +8,7 @@ The Private Data Objects lab provides technology for
 confidentiality-preserving, off-chain smart contracts.
 
 A private data object (PDO) is a stateful "smart contract" that
-implements a set of access and update policies on confidentail data
+implements a set of access and update policies on confidential data
 shared between individuals or organizations. The contract defines a set
 of message handlers that act on the state of the contract; handlers can
 modify state, perform some computation over the state, and/or generate
