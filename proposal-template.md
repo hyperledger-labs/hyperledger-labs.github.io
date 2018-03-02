@@ -11,7 +11,7 @@ _Enter the scope of the lab. This should include enough information to allow the
 _Enter the Github IDs for the set of initial committers._
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
+_Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
