@@ -50,7 +50,7 @@ a "Global Synchronization Log".
 
 # Sponsor
 
-Dan Middleton
+Dan Middleton (dan.middleton@intel.com)
 
 # Pre-existing repository
 
