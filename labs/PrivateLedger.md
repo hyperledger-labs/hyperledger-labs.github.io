@@ -16,4 +16,4 @@ shefy.gurary@intel.com, yoni.wolf@intel.com, oron.lenz@intel.com, ronen.shem-tov
 # Sponsor
 shefy.gurary@intel.com 
 # Pre-existing repository
-No pre-existing repository in gitgub. Files would be added manually. 
+No pre-existing repository in github. Files would be added manually. 
