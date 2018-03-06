@@ -8,7 +8,7 @@ The purpose of the software we develop (“Private Ledger”) is to provide a me
  
 
 # Scope of Lab
-This hyperledger lab project scope is to develop and test the creation of a private ledger application, that works with Intel's SGX technology.
+This Hyperledger lab project scope is to develop and test the creation of a private ledger application, that works with Intel's SGX technology.
 
 # Initial Committers
 shefy.gurary@intel.com, yoni.wolf@intel.com, oron.lenz@intel.com, ronen.shem-tov@intel.com, idan.sorski@intel.com (others might be added later on)
