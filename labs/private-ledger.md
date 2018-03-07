@@ -14,6 +14,7 @@ This Hyperledger lab project scope is to develop and test the creation of a priv
 shefy.gurary@intel.com, yoni.wolf@intel.com, oron.lenz@intel.com, ronen.shem-tov@intel.com, idan.sorski@intel.com (others might be added later on)
 
 # Sponsor
-shefy.gurary@intel.com 
+dan.middleton@intel.com
+
 # Pre-existing repository
 No pre-existing repository in github. Files would be added manually. 
