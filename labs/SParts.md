@@ -12,8 +12,8 @@ The initial focus is to track the open source from which today's manufactured pr
 
 # Initial Committers
 
-* Mark Gisi (Mark.Gisi@windriver.com)
-* Sameer Ahmed (SameerAhmed@windriver.com)
+* Mark Gisi (MarkGisi, Mark.Gisi@windriver.com)
+* Sameer Ahmed (SamAhm, SameerAhmed@windriver.com)
 
 # Sponsor
 
