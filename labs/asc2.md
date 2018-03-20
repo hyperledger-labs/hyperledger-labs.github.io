@@ -24,3 +24,6 @@ _ Skills-depot (adrian.alvarez@skills-depot.com)._
 
 # Pre-existing repository
 _Existing repository is internal to Berrylabs. Berrylabs. We plan to transfer to Hyperledger github upon receiving required HL and BerryLabs  internal approvals._
+
+
+Signed-off-by:  m3m3m3m3  <albertocuriel@protonmail.ch>
