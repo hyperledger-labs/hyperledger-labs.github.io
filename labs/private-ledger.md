@@ -11,10 +11,10 @@ The purpose of the software we develop (“Private Ledger”) is to provide a me
 This Hyperledger lab scope is to develop and test the creation of a private ledger application, that works with Intel's SGX technology.
 
 # Initial Committers
-shefy.gurary@intel.com, yoni.wolf@intel.com, oron.lenz@intel.com, ronen.shem-tov@intel.com, idan.sorski@intel.com (others might be added later on)
+sgurary - shefy.gurary@intel.com, yoni-wolf - yoni.wolf@intel.com, oron.lenz@intel.com, ronen.shem-tov@intel.com, idan.sorski@intel.com (others might be added later on)
 
 # Sponsor
-dan.middleton@intel.com
+dcmiddle  - dan.middleton@intel.com
 
 # Pre-existing repository
 No pre-existing repository in github. Files would be added manually. 
