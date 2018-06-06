@@ -11,7 +11,7 @@ This is a Fabric Chrome extension paired with a Javascript API. Users should be 
 Internship Project
 
 # Initial Committers
-
+Daniel McSheehy
 
 # Sponsor
 Sheehan Anderson, Binh Nguyen 
