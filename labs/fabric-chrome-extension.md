@@ -14,7 +14,8 @@ This project is similar to MetaMask, which works with Ethereum: https://metamask
 Internship Project
 
 # Initial Committers
-Daniel McSheehy
+Daniel McSheehy (DanielMcSheehy, dsm140130@utdallas.edu)
 
 # Sponsor
-Sheehan Anderson, Binh Nguyen 
+Sheehan Anderson (srderson, sranderson@gmail.com)
+Binh Nguyen (binhn, binh1010010110@gmail.com)
