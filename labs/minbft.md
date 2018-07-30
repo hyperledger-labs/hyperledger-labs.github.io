@@ -27,14 +27,14 @@ leverage it in different practical use cases.
 
 # Initial Committers
 
-- sergefdrv
-- luthlee
-- ynamiki
-- Naoya-Horiguchi
+- https://github.com/sergefdrv
+- https://github.com/luthlee
+- https://github.com/ynamiki
+- https://github.com/Naoya-Horiguchi
 
 # Sponsor
 
-- Kelly Olson (Intel Labs)
+- Kelly Olson (kelly.m.olson@intel.com)
 
 # Pre-existing repository
 
