@@ -24,5 +24,3 @@ Nate DiNiro - Healthcare Working Group Chair
 
 # Pre-existing repository
 We do not have a pre-existing repository
-
-Signed-off-by: Marissa Iannarone <mari.iannarone@gmail.com>
