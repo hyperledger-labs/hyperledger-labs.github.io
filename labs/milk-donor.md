@@ -16,13 +16,14 @@ The scope of the lab is to develop a proof of concept (POC) for a blockchain-bas
 
 This list will grow with time: 
 
-Dr. Angela Courtney - acourtney2015
+Dr. Angela Courtney - acourtney2015e https://github.com/acourtney2015
 
-Marissa Iannarone - MariLeigh
+Marissa Iannarone - MariLeigh https://github.com/MariLeigh
 
 # Sponsor
 
-Nate DiNiro - Healthcare Working Group Chair
+Nate DiNiro: - Healthcare Working Group Chair
+email: nate@youbase.io
 
 # Pre-existing repository
 We do not have a pre-existing repository
