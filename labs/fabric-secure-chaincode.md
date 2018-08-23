@@ -30,10 +30,10 @@ this lab is to discuss and refine the proposed architecture involving
 the Hyperledger community.
 
 # Initial Committers
-- Marcus Brandenburger (bur@zurich.ibm.com)
-- Christian Cachin (cca@zurich.ibm.com)
+- https://github.com/mbrandenburger Marcus Brandenburger (bur@zurich.ibm.com)
+- https://github.com/cca88 Christian Cachin (cca@zurich.ibm.com)
 - Rüdiger Kapitza (kapitza@ibr.cs.tu-bs.de)
-- Alessandro Sorniotti (aso@zurich.ibm.com)
+- https://github.com/ale-linux Alessandro Sorniotti (aso@zurich.ibm.com)
 
 # Sponsor
-Gari Sighn (garis@us.ibm.com)
+https://github.com/mastersingh24 Gari Sighn (garis@us.ibm.com)
