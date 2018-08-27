@@ -32,7 +32,7 @@ the Hyperledger community.
 # Initial Committers
 - https://github.com/mbrandenburger Marcus Brandenburger (bur@zurich.ibm.com)
 - https://github.com/cca88 Christian Cachin (cca@zurich.ibm.com)
-- Rüdiger Kapitza (kapitza@ibr.cs.tu-bs.de)
+- https://github.com/rrkapitz Rüdiger Kapitza (kapitza@ibr.cs.tu-bs.de)
 - https://github.com/ale-linux Alessandro Sorniotti (aso@zurich.ibm.com)
 
 # Sponsor
