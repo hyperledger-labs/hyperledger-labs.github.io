@@ -36,4 +36,4 @@ the Hyperledger community.
 - https://github.com/ale-linux Alessandro Sorniotti (aso@zurich.ibm.com)
 
 # Sponsor
-https://github.com/mastersingh24 Gari Sighn (garis@us.ibm.com)
+https://github.com/mastersingh24 Gari Singh (garis@us.ibm.com)
