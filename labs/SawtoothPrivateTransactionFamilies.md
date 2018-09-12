@@ -1,10 +1,10 @@
 # Lab Name
 
-Private Data Objects
+ Sawtooth Private Transaction Families
 
 # Short Description
 
-The Private Data Objects lab provides technology for
+The  Sawtooth Private Transaction Families lab provides technology for
 confidentiality-preserving, off-chain smart contracts.
 
 A private data object (PDO) is a stateful "smart contract" that
