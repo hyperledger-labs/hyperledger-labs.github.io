@@ -1,11 +1,11 @@
 # Lab Name
-Hyperledger Community Tools
+Hyperledger Community Management Tools
 
 # Short Description
-Tools for the Hyperledger Community
+Hyperledger Community Management Tools
 
 # Scope of Lab
-This lab will contain tools that can be used by the Hyperledger Community, including:
+This lab will contain tools that can be used to manage and evaluate the Hyperledger Community, including:
 - project reporting tools
 - contributor statistic tools
 - contributor diversity tools
@@ -14,6 +14,7 @@ This lab will contain tools that can be used by the Hyperledger Community, inclu
 Github IDs for the set of initial committers.
 - [christo4ferris](https://github.com/christo4ferris) - Chris Ferris
 - [davidwboswell](https://github.com/davidwboswell) - David Boswell
+- [esplinr](https://github.com/esplinr) - Richard Esplin
 - [ryjones](https://github.com/ryjones) - Ry Jones
 - [tkuhrt](https://github.com/tkuhrt) - Tracy Kuhrt
 
