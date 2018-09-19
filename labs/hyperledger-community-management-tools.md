@@ -10,6 +10,8 @@ This lab will contain tools that can be used to manage and evaluate the Hyperled
 - contributor statistic tools
 - contributor diversity tools
 
+All tools will be documented fully so that anyone in the community can run them. In addition, all tools will contain a `--help` option to provide help from the command line.
+
 # Initial Committers
 Github IDs for the set of initial committers.
 - [christo4ferris](https://github.com/christo4ferris) - Chris Ferris
