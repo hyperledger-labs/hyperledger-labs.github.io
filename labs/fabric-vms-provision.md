@@ -10,12 +10,12 @@ This does not take advantage of the distributed capibilities of fabric, since if
 
 Two examples are provided.
 The first shows how to bring up the most minimal functioning Fabric network, a single peer and a single solo orderer.
-The purpose of this example it to highlight the artifacts (correct certificates, yaml config files, and enviroment variables) required to have a working peer and orderer.
+The purpose of this example is to highlight the artifacts (correct certificates, yaml config files, and enviroment variables) required to have a working peer and orderer.
 It also shows how to use the provided Fabric tools `cryptogen` and `configtxgen` to generate these artifacts.
 
 Using the template of the first example, the second example creates a fully distributed Fabric network.
 Since this would be an extremely error prone process if done manually, an ansible playbook is provided instead, addressing the numerous roles required for the network.
-The Fabric conponents run on seperate vms, which are provided by softlayer.)
+The Fabric conponents run on seperate vms, which are provided by softlayer.
 
 # Initial Committers
 - https://github.com/jdsheehan
