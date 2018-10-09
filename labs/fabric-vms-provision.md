@@ -22,7 +22,7 @@ The Fabric conponents run on seperate vms, which are provided by softlayer.
 - https://github.com/eragnoli
 
 # Sponsor
-- https://github.com/christo4ferris  Christopher Ferris (chrisfer@us.ibm.com) - Role ("Member of Hyperledger board")
+- https://github.com/christo4ferris  Christopher Ferris (chrisfer@us.ibm.com) - Role ("Member of Hyperledger TSC")
 
 # Pre-existing repository
 - https://github.com/jdsheehan/fabric-vms-provision
