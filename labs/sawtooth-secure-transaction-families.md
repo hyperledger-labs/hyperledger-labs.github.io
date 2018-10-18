@@ -1,10 +1,10 @@
 # Lab Name
 
-Private Data Objects
+Sawtooth Secure Transaction Families
 
 # Short Description
 
-The Private Data Objects lab provides technology for
+The Sawtooth Secure Transaction Families lab provides technology for
 confidentiality-preserving, off-chain smart contracts.
 
 A private data object (PDO) is a stateful "smart contract" that
@@ -40,13 +40,13 @@ a "Global Synchronization Log".
 
 # Initial Committers
 
-* andmiele1 (andrea.miele@intel.com)
-* bvavala (bruno.vavala@intel.com)
-* byron-marohn (byron.marohn@intel.com)
-* cmickeyb (cmickeyb@gmail.com)
-* EugeneYYY (yevgeniy.y.yarmosh@intel.com)
-* harmonh (holly.harmon@intel.com)
-* TomBarnes (thomas.j.barnes@intel.com)
+- andmiele1 (andrea.miele@intel.com)
+- bvavala (bruno.vavala@intel.com)
+- byron-marohn (byron.marohn@intel.com)
+- cmickeyb (cmickeyb@gmail.com)
+- EugeneYYY (yevgeniy.y.yarmosh@intel.com)
+- harmonh (holly.harmon@intel.com)
+- TomBarnes (thomas.j.barnes@intel.com)
 
 # Sponsor
 
