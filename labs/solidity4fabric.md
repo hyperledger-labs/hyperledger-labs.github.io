@@ -1,5 +1,5 @@
 # Lab Name
-solidity_to_js_chaincode
+solidity4fabric
 
 # Short Description
 This tool converts Solidity contract into Javascript chaincode through source-to-source translation for running them onto Hyperledger Fabric.
@@ -9,9 +9,8 @@ The purpose of the lab is to perform a source-to-source translation of Solidity 
 Hyperledger Fabric.
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
 - https://github.com/ahmadzafar
-- http://github.com/salmanbaset
+- https://github.com/salmanbaset
 
 # Sponsor
 
