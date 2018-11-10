@@ -1,5 +1,5 @@
 # Lab Name
-solidity4fabric
+solidity2chaincode
 
 # Short Description
 This tool converts Solidity contract into Javascript chaincode through source-to-source translation for running them onto Hyperledger Fabric.
