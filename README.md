@@ -24,7 +24,8 @@ By default the Lab stewards will create a new respository for you to
 start from but if you have an existing github repo you would like to
 bring to your proposed lab you have the option to request for that
 repo to be reused instead. This is however only possible if every
-commit in your existing repo is signed-off so there is no DCO related
-issues. If that is not the case, you will need to bring your code by
-squashing all of your commits into a single first commit made against
-your new lab repo with your sign-off.
+commit in your existing repo is signed-off so there is no 
+[DCO](https://developercertificate.org/) related issues. If that is 
+not the case, you will need to bring your code by squashing all of 
+your commits into a single first commit made against your new lab 
+repo with your sign-off.
