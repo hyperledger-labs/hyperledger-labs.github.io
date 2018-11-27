@@ -14,7 +14,7 @@ of Indy.
 # Scope of Lab
 Cordentity is a self-contained CorDapp that integrates Hyperledger
 Indy, for decentralized identity, with the R3 Corda Platform. This
-project creates interoperability of two purpose-built ledger
+lab creates interoperability of two purpose-built ledger
 technologies, each with a focus on privacy. Corda is designed to
 enable private transact and Indy is a ledger built specifically for
 self-sovereign identity. The integrated platforms reinforce each
