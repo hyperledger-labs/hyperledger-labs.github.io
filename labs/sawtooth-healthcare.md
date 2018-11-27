@@ -17,11 +17,11 @@ In addition I plan to add some load tests and provide comparative matrix and sum
 
 For now I'm the only person. Fill free to join and expand the community.
 
-https://github.com/AlexZhovnuvaty
+https://github.com/AlexZhovnuvaty Alexander Zhovnuvaty <a.zhovnuvaty@gmail.com>
 
 # Sponsor
 
-For now the project has no sponsor. Please let me know how and where to find him and who might be interested to attend?
+Richard Bloch <richardbloch@businesslearninginc.com>
 
 # Pre-existing repository
 
