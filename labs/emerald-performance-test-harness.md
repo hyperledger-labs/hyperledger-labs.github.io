@@ -60,7 +60,6 @@ The 'batching' is designed so that we can measure parallel throughput as well as
 For this reason we set up a number of test accounts and load each account with 1 million tokens. We then send a payment from each of the test accounts in each batch. We wait for the latency time to elapse before sending the next batch.
 An instance of the test harness runs against each node in the network and measures the end to end latency by recording the submission time and listening to received payments - this makes it quite different from a jmeter test where there is only usually one instance of the test harness.
 
-
 # Initial Committers
 - https://github.com/Bartman250
 
