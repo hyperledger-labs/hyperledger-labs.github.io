@@ -44,7 +44,7 @@ The third use case is what is measured by this benchmark.
 The overall scope is to have a ready made test harness which blockchain
 developers can use to test and tune their own payment solutions.
 
-# Integration with hyperledger projects.
+## Integration with hyperledger projects.
 
 An example test harness has been written in javascript that currently 
 calls a Corda implementation of the payments network.
@@ -52,7 +52,7 @@ The goal of this lab is to generacise this code so that it will
 work with all of the hyperledger blockchain platforms in the hyperledger
 project and if appropriate plug into the caliper test harness.
 
-# What does the current test harness do to measure performance?
+## What does the current test harness do to measure performance?
 
 The performance benchmark test sends batches of payments to random nodes in the payments network.
 The benchmark aims to find a stable latency between batches and constantly adjusts a target value to gradually find the optimum latency. This adjustment is 'smoothed' by a latency adjustment parameter so that we don't overload the nodes with too many payments too soon - think of it like turning up your central heating and waiting for the thermostat to click off at the target temperature.
