@@ -15,13 +15,13 @@ In addition I plan to add some load tests and provide comparative matrix and sum
 
 # Initial Committers
 
-For now I'm the only person. Fill free to join and expand the community.
+For now I'm the only person. Feel free to join and expand the community.
 
 https://github.com/AlexZhovnuvaty Alexander Zhovnuvaty <a.zhovnuvaty@gmail.com>
 
 # Sponsor
 
-Richard Bloch <richardbloch@businesslearninginc.com>
+Richard Bloch <richardbloch@businesslearninginc.com>, chair of Healthcare SIG
 
 # Pre-existing repository
 
