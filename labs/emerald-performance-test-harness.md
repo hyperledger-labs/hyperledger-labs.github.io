@@ -4,7 +4,7 @@ Performance Test Harness for Emerald Paymentd Benchmark.
 # Short Description
 This is a test harness designed to measure the performance of payments
 between peers on a blockchain network.
-This performance is measure against the Emerald benchmark which is 
+This performance is measured against the Emerald benchmark which is 
 specified here:  
 
 https://gitlab.com/emerald-platform/emerald/wikis/Emerald-Benchmark
@@ -64,6 +64,6 @@ An instance of the test harness runs against each node in the network and measur
 # Initial Committers
 - https://github.com/Bartman250
 
-# Sponsor
-mwagner at redhat dot com - Mark Wagner
+# Lab Sponsor
+Mark Wagner: chair of performance and scale WG & TSC member
 
