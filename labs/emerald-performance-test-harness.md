@@ -44,13 +44,13 @@ The third use case is what is measured by this benchmark.
 The overall scope is to have a ready made test harness which blockchain
 developers can use to test and tune their own payment solutions.
 
-## Integration with hyperledger projects.
+## Integration with Hyperledger projects.
 
 An example test harness has been written in javascript that currently 
 calls a Corda implementation of the payments network.
-The goal of this lab is to generacise this code so that it will
-work with all of the hyperledger blockchain platforms in the hyperledger
-project and if appropriate plug into the caliper test harness.
+The goal of this lab is to generalise this code so that it will
+work with all of the Hyperledger blockchain platforms in the Hyperledger
+project and if appropriate plug into the Caliper test harness.
 
 ## What does the current test harness do to measure performance?
 
