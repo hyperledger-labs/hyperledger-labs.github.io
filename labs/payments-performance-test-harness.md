@@ -1,5 +1,5 @@
 # Lab Name
-Performance Test Harness for Emerald Paymentd Benchmark. 
+Payments Performance Test Harness.
 
 # Short Description
 This is a test harness designed to measure the performance of payments
