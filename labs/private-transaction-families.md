@@ -27,3 +27,7 @@ Private-transaction-families operates as a Hyperledger Labs project and provided
 # Sponsor
 
 Dan Middleton (dan.middleton@intel.com)
+
+# Last Updated
+
+12/09/2018
