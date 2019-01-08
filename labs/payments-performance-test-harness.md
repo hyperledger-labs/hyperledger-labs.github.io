@@ -63,6 +63,10 @@ An instance of the test harness runs against each node in the network and measur
 # Initial Committers
 - https://github.com/Bartman250
 
+# Benchmark Code Repository
+
+- https://gitlab.com/cordite/benchmark
+
 # Lab Sponsor
 Mark Wagner: chair of performance and scale WG & TSC member
 
