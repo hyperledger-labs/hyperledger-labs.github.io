@@ -66,3 +66,7 @@ An instance of the test harness runs against each node in the network and measur
 # Lab Sponsor
 Mark Wagner: chair of performance and scale WG & TSC member
 
+# Project Repository
+
+- https://gitlab.com/cordite/benchmark
+
