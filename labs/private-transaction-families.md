@@ -1,12 +1,12 @@
 # Lab Name
 
-Private-transaction-families
+private-transaction-families
 
 # Short Description
 
-Private-transaction-families system provides a mechanism for privacy over Hyperledger Sawtooth by enforcing a policy of access control to the ledger.
+private-transaction-families system provides a mechanism for privacy over Hyperledger Sawtooth by enforcing a policy of access control to the ledger.
 
-This project provides benefits for both application developers seeking to define and implement privacy-preserving distributed ledgers, and for service providers seeking to provide blockchain services with access restriction to the ledger data.
+This lab provides benefits for both application developers seeking to define and implement privacy-preserving distributed ledgers, and for service providers seeking to provide blockchain services with access restriction to the ledger data.
 
 # Scope of Lab
 
@@ -14,7 +14,7 @@ The system is based on a generic distributed ledger infrastructure (Hyperledger 
 
 This solution supports encryption of information in transactions and blocks while allowing the ledger to validate the information in those transactions in all the nodes and allow them to reach a consensus on the current state of the ledger.
 
-Private-transaction-families operates as a Hyperledger Labs project and provided as a developer preview to demonstrate how privacy can be deployed on top of Hyperledger Sawtooth.
+private-transaction-families operates as a Hyperledger Lab and provided as a developer preview to demonstrate how privacy can be deployed on top of Hyperledger Sawtooth.
 
 # Initial Committers
 
