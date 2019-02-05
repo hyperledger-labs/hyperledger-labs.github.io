@@ -2,7 +2,7 @@
 
 Hyperledger Labs provides a space (i.e., GitHub repos) where work can
 easily be started without the creation of a project. Please refer to
-the [Hyperledger Labs wiki page](https://wiki.hyperledger.org/labs)
+the [Hyperledger Labs wiki page](https://wiki.hyperledger.org/display/labs)
 for additional information.
 
 ## Process to propose a new lab
