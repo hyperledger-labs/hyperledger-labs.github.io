@@ -11,7 +11,7 @@ Byantine-config provides an executable GUI application that greatly simplifies u
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
-- https://github.com/dpitt@keyholesoftware.com
+- https://github.com/dpitt
 
 
 # Sponsor
