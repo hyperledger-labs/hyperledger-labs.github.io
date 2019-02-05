@@ -1,11 +1,13 @@
 # Lab Name
-_byzantine-config_
+_Byzantine-Config_
 
 # Short Description
 _GUI based executable application that allows Hyperledger Fabric (HLF) configuration blocks to be viewed and updated transactions created for channel configuration, adding new organizations, and generating crypto material._
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+_Updating a Hyperledger Fabric network configuration and adding/updating organizations requires a configuration block to be defined, signed and then executed as an update config transaction. Doing this manually with CLI tools can be complex and cumbersome._
+
+Byantine-config provides an executable GUI application that greatly simplifies updating and adding Organizations. When invoked an initial connect screen will appear. You will need a network peer node address, Userid, access to your private key, and Fabric Binaries_
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
