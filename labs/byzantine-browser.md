@@ -7,15 +7,19 @@ _Byzantine-Browser is an open source analytics tool that gives developers and op
 
 # Scope of Lab
 _Blockchain Browser is a React/Node.js web application with which a persistent database is NOT required. The Blockchain Browser "browses" a HLF networks block store directly using the Fabric Node.js SDK. The browser will display blocks as they are added to the network, along with displaying real time charts that track transaction proposal rates and block additions.  
-Complete Configuration blocks and transation blocks can be viewed. 
+Complete Configuration blocks and transation blocks can be viewed._ 
+
+_See [https://byzantine-tools.com](https://byzantine-tools.com) for more info._
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/dpitt
+- https://github.com/thomas-kendall
+- https://github.com/arosenblum
 
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
+_No Sponsor at this time_
 - https://github.com/dpitt  
 - Email: dpitt@keyholesoftware.com
 
