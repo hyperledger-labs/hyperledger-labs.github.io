@@ -18,11 +18,9 @@ _Enter the Github IDs for the set of initial committers._
 - https://github.com/arosenblum
 
 
-
 # Sponsor
-_None at this time..._
-- https://github.com/dpitt  
-- Email: dpitt@keyholesoftware.com
+- Arnaud Le Hors lehors@us.ibm.com
+
 
 # Pre-existing repository
  **NOTE: Please refer to the README for additional information on existing repositories.**_
