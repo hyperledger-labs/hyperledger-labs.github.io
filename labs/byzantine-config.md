@@ -22,6 +22,10 @@ _Enter the Github IDs for the set of initial committers._
 
 
 # Pre-existing repository
+
  **NOTE: Please refer to the README for additional information on existing repositories.**_
+ 
+  We will compress and move to Hyperledger Lab repositories.
+  
 - https://github.com/in-the-keyhole/byzantine-config 
 - https://github.com/in-the-keyhole/byzantine-config-source
