@@ -14,8 +14,7 @@ _See [https://byzantine-tools.com](https://byzantine-tools.com) for more info._
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/dpitt
-- https://github.com/thomas-kendall
-- https://github.com/arosenblum
+
 
 
 # Sponsor
