@@ -16,8 +16,6 @@ _See [https://byzantine-tools.com](https://byzantine-tools.com) for more info._
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/dpitt
 
-
-
 # Sponsor
 - Arnaud Le Hors lehors@us.ibm.com
 
