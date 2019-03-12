@@ -11,6 +11,7 @@ Byantine-config provides an executable GUI application that greatly simplifies u
 
 _See [https://byzantine-tools.com](https://byzantine-tools.com) for more info._
 
+
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/dpitt
