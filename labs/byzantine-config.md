@@ -27,5 +27,5 @@ _Enter the Github IDs for the set of initial committers._
  
   We will compress and move to Hyperledger Lab repositories.
   
-- https://github.com/in-the-keyhole/byzantine-config 
-- https://github.com/in-the-keyhole/byzantine-config-source
+- https://github.com/in-the-keyhole/byzantine-config  Electron built binaries repository
+- https://github.com/in-the-keyhole/byzantine-config-source Source code 
