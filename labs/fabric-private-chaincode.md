@@ -1,8 +1,8 @@
 # Lab Name
-Hyperledger Fabric Secure Chaincode Execution
+Hyperledger Fabric Private Chaincode 
 
 # Short Description
-This lab enables Secure Chaincode Execution using Intel SGX for
+This lab enables the execution of chaincodes using Intel SGX for
 Hyperledger Fabric.
 
 The transparency and resilience gained from blockchain protocols ensure the
@@ -23,7 +23,7 @@ within an enclave.  Furthermore, Fabric extensions for chaincode enclave
 registration and transaction verification are provided.
 
 # Scope of Lab
-This lab proposes an architecture to enable Secure Chaincode Execution
+This lab proposes an architecture to enable Private Chaincode
 using Intel SGX for Hyperledger Fabric.  We provide an initial
 proof-of-concept implementation of the proposed architecture. The main goal of
 this lab is to discuss and refine the proposed architecture involving
