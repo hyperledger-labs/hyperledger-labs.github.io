@@ -245,3 +245,4 @@ console.log('console log: ticketRequest-CloseTicket');
     closeTicketEvent.troubleTicket = updateTicketReq.ticket;
     emit(closeTicketEvent);
 }
+
