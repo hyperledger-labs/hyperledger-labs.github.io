@@ -1,0 +1,73 @@
+rule NetworkAdminUser {
+    description: "Grant business network administrators full access to user resources"
+    participant: "org.hyperledger.composer.system.NetworkAdmin"
+    operation: ALL
+    resource: "**"
+    action: ALLOW
+}
+
+rule NetworkAdminSystem {
+    description: "Grant business network administrators full access to system resources"
+    participant: "org.hyperledger.composer.system.NetworkAdmin"
+    operation: ALL
+    resource: "org.hyperledger.composer.system.*"
+    action: ALLOW
+}
+
+rule NetworkAdminSystemAssettAccess {
+    description: "Grant business network administrators full access to system resources"
+    participant: "org.hyperledger.composer.system.NetworkAdmin"
+    operation: READ
+    resource: "org.tmforum.sla.*"
+    action: ALLOW
+}
+
+rule NetworkAdminSystemAssettAccess2 {
+    description: "Grant business network administrators full access to system resources"
+    participant: "org.hyperledger.composer.system.NetworkAdmin"
+    operation: ALL
+    resource: "org.tmforum.sla.*"
+    action: ALLOW
+}
+
+
+rule EverybodyCanReadEverything {
+    description: "Allow all participants read access to all resources"
+    participant: "org.tmforum.sla.*"
+    operation: READ
+    resource: "org.tmforum.sla.*"
+    action: ALLOW
+}
+
+rule EverybodyCanSubmitTransactions {
+    description: "Allow all participants to submit transactions"
+    participant: "org.tmforum.sla.*"
+    operation: CREATE
+    resource: "org.tmforum.sla.TroubleTicket"
+    action: ALLOW
+}
+
+rule OwnerHasFullAccessToTheirAssets {
+    description: "Allow all participants full access to their assets"
+    participant(p): "org.tmforum.sla.ServiceVendor"
+    operation: ALL
+    resource(r): "org.tmforum.sla.TroubleTicket"
+    condition: (r.SV.getIdentifier() === p.getIdentifier())
+    action: ALLOW
+}
+rule OwnerHasFullAccessToTheirAssets2 {
+    description: "Allow all participants full access to their assets"
+    participant(p): "org.tmforum.sla.ServiceProvider"
+    operation: ALL
+    resource(r): "org.tmforum.sla.TroubleTicket"
+    condition: (r.SP.getIdentifier() === p.getIdentifier())
+    action: ALLOW
+}
+rule OwnerHasFullAccessToTheirAssets3 {
+    description: "Allow all participants full access to their assets"
+    participant(p): "org.tmforum.sla.Customer"
+    operation: ALL
+    resource(r): "org.tmforum.sla.TroubleTicket"
+    condition: (r.C.getIdentifier() === p.getIdentifier())
+    action: ALLOW
+}

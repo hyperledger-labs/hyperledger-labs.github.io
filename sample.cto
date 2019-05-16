@@ -1,0 +1,115 @@
+namespace org.tmforum.sla
+
+enum Severity{
+  o P1
+  o P2
+  o P3
+  o P4
+  o P5
+  o P6
+}
+
+enum Role {
+  o Originator
+  o ServiceProvider
+  o Vendor
+}
+
+ concept Note {
+  o DateTime date
+  o String text
+}
+
+participant ServiceProvider identified by providerId {
+  o String providerId
+  o String name
+}
+
+participant ServiceVendor identified by vendorId {
+  o String vendorId
+  o String name
+}
+
+participant Customer identified by custId {
+  o String custId
+  o String name
+}
+
+
+asset TroubleTicket identified by incidentId {
+  o String incidentId
+  o String vendorTicketId optional
+  o String type
+  o Severity severity
+  o String description
+  o DateTime creationDate
+  o String status
+  o DateTime acknowledgedDate optional
+  o DateTime resolutionDate optional
+  o DateTime targetAcceptedTimestamp optional
+  o DateTime targetClosedTimestamp optional
+  o String acceptanceSLA optional
+  o String closureSLA optional
+  o Note[] note optional
+  -->ServiceProvider SP
+  -->ServiceVendor SV optional
+  -->Customer C
+}
+
+transaction CreateTicket{
+  --> Customer C
+  --> ServiceProvider SP
+  --> ServiceVendor SV
+  o String incidentId
+  o String type
+  o Severity severity
+  o String description
+  o DateTime creationDate
+  o String status
+  }
+
+transaction AssignVendor{
+  --> TroubleTicket ticket
+  -->ServiceVendor SV
+  o String status
+  o DateTime statusChangeDate
+  o String statusChangeReason
+}
+
+transaction UpdateTicket{
+  --> TroubleTicket ticket
+  o String status
+  o DateTime statusChangeDate
+  o String statusChangeReason
+}
+
+transaction ResolveTicket{
+  --> TroubleTicket ticket
+  o String status
+  o DateTime resolutionDate
+  o String statusChangeReason
+}
+
+
+transaction CloseTicket{
+  --> TroubleTicket ticket
+  o String status
+  o DateTime statusChangeDate
+  o String statusChangeReason
+}
+
+event AssignVendorEvent {
+  --> TroubleTicket troubleTicket
+}
+
+event UpdateTicketEvent {
+  --> TroubleTicket troubleTicket
+}
+
+event ResolveTicketEvent {
+  --> TroubleTicket troubleTicket
+}
+
+event CloseTicketEvent {
+  --> TroubleTicket troubleTicket
+}

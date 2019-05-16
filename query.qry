@@ -1,0 +1,31 @@
+/**
+ * New query file
+ */
+
+query getTicketByIncidentID {
+  description: "Get Single ticket"
+  statement:
+   SELECT org.tmforum.sla.TroubleTicket
+       WHERE (incidentId==_$incidentId)
+}
+
+query getTicketsByStatus {
+  description: "Get ticket based on status"
+  statement:
+   SELECT org.tmforum.sla.TroubleTicket
+       WHERE (status==_$status)
+}
+
+query getTicketsByAcceptanceSLA {
+  description: "Get ticket based on status"
+  statement:
+   SELECT org.tmforum.sla.TroubleTicket
+       WHERE (acceptanceSLA==_$acceptanceSLA)
+}
+
+query getTicketsByClosureSLA {
+  description: "Get ticket based on status"
+  statement:
+   SELECT org.tmforum.sla.TroubleTicket
+       WHERE (closureSLA==_$closureSLA)
+}
