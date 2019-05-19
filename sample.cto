@@ -33,6 +33,7 @@ participant ServiceVendor identified by vendorId {
 participant Customer identified by custId {
   o String custId
   o String name
+  
 }
 
 
@@ -98,6 +99,10 @@ transaction CloseTicket{
   o String statusChangeReason
 }
 
+transaction SetupDemo  {
+}
+
+
 event AssignVendorEvent {
   --> TroubleTicket troubleTicket
 }
@@ -113,4 +118,5 @@ event ResolveTicketEvent {
 event CloseTicketEvent {
   --> TroubleTicket troubleTicket
 }
+
 
