@@ -1,6 +1,7 @@
 /**
  * New script file
  */
+/* global getAssetRegistry getParticipantRegistry */
 
 /**
  * Assign Vendor
@@ -245,4 +246,41 @@ console.log('console log: ticketRequest-CloseTicket');
     closeTicketEvent.troubleTicket = updateTicketReq.ticket;
     emit(closeTicketEvent);
 }
+/**
+ * 
+ * @param {org.tmforum.sla.SetupDemo} setupdemo - SetupDemo transaction
+ * @transaction
+ */
+async function setupDemo(setupDemo) {  // eslint-disable-line no-unused-vars
+	const factory = getFactory();
+    const namespace = 'org.tmforum.sla';
 
+    // create the Customers
+    var customer1 = factory.newResource(namespace, 'Customer', 'c1');
+  	customer1.name= 'customer1';
+    var customer2 = factory.newResource(namespace, 'Customer', 'c2');
+  	customer2.name= 'customer2';
+
+  	const customerRegistry = await getParticipantRegistry('org.tmforum.sla.Customer');
+    await customerRegistry.addAll([customer1,customer2]);
+    
+  
+  
+    // create the ServiceProviders
+    var serviceprovider1 = factory.newResource(namespace, 'ServiceProvider', 'sp1');
+  	serviceprovider1.name= 'serviceprovider1';
+    var serviceprovider2 = factory.newResource(namespace, 'ServiceProvider', 'sp2');
+  	serviceprovider2.name= 'serviceprovider2';
+
+  	const serviceproviderRegistry = await getParticipantRegistry('org.tmforum.sla.ServiceProvider');
+    await serviceproviderRegistry.addAll([serviceprovider1,serviceprovider2]);
+  
+    // create the ServiceVendor1
+    var servicevendor1 = factory.newResource(namespace, 'ServiceVendor', 'sv1');
+  	servicevendor1.name= 'servicevendor1';
+    var servicevendor2 = factory.newResource(namespace, 'ServiceVendor', 'sv2');
+  	servicevendor2.name= 'servicevendor2';
+
+  	const servicevendorRegistry = await getParticipantRegistry('org.tmforum.sla.ServiceVendor');
+    await servicevendorRegistry.addAll([servicevendor1,servicevendor2]);
+}
