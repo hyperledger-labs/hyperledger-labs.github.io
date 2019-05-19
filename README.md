@@ -140,7 +140,7 @@ transaction CloseTicket{
 ```
 
 
-#Test:
+# Test:
 To test this Business Network Definition in the **Test** tab on the playground or in your Angular app:
 
 1- In the `Customer`, `ServiceProvider`, `ServiceVendor` participant registry, create new participants with appropriate input values.
