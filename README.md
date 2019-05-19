@@ -140,10 +140,12 @@ transaction CloseTicket{
 ```
 
 
-# Test:
+# Testing:
 To test this Business Network Definition in the **Test** tab on the playground or in your Angular app:
 
 1- In the `Customer`, `ServiceProvider`, `ServiceVendor` participant registry, create new participants with appropriate input values.
+
+Alternatvely, you can also use the `SetupDemo` tranaction which would populate the network with 2xCustomers, 2xServiceProviders, 2xServiceVendors.
 
 2- Creat a ticket using the `Submit Transaction` button and fill in the information based on the created participants. Uppon submission, you should see a new asset added to the assel lists under 'TroubleTicket'.
 
