@@ -1,22 +1,42 @@
 # Lab Name
-_Enter the name of your lab here._
+Hyperledger Fabric Lightweight Client
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+The project aims to enable lightweight (IoT) devices to act as a Lightweight (Hyperledger Fabric) 
+Client and communicate through a Proxy directly with the Hyperledger Fabric network. 
+The device implements and runs only part of the standard Fabric SDK, namely the functions needed 
+to form, hash, and sign the transaction proposals and transactions. The remaining part of the SDK 
+(communication with the endorsing and committing peers, etc.) is performed by a proxy.
+
+
+The topic was presented at the Hyperledger Global Forum in December.
+https://hgf18.sched.com/event/G8s7/sdk-proxy-hyperledger-fabric-identities-for-lightweight-iot-devices-gero-dittmann-jens-jelitto-ibm-research
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+The objective of the lab is to enable lightweight (IoT) devices to act as a Lightweight 
+(Hyperledger Fabric) Client and communicate through a Proxy directly with the Hyperledger Fabric network. 
+The solution allows the Lightweight Client to form and sign transactions with its preregistered 
+blockchain identity and to interact with the Hyperledger Fabric blockchain through a Proxy.
+
+This approach ensures that data (e.g. sensor data, access information, door lock state) that is 
+captured by the Lightweight Client will be wrapped and signed by the Lightweight Client, 
+thereby preventing non-authorized modification of the data, even by the Proxy that serves as the 
+interface between the device and the Hyperledger Fabric network. 
+The solution aims at extending the trust that is established with blockchain ledger technology 
+(e.g. irrefutability, immutability) all the way to the Lightweight Client.
+
+The Client side SDK Software (excluding any device specific crypto library) should be released as 
+C-code. This includes the transaction proposal and transaction forming steps of the Fabric SDK 
+functionality. The Open Source provisioning of the Client side SDK Software will enable providers 
+and users of lightweight (IoT) devices to establish device communication with Hyperledger Fabric 
+through the Proxy.
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
-- ...
+- https://github.com/JensJelitto
+- https://github.com/GeroDittmann
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+https://github.com/lehors - Arnaud J Le Hors - Senior Technical Staff Member, Web and Blockchain Open Technologies, IBM
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+
