@@ -39,5 +39,4 @@ through the Proxy.
 https://github.com/ale-linux - Alessandro Sorniotti - Research Stuff Member, Hyperledger Fabric Maintainer, IBM
 https://github.com/lehors - Arnaud J Le Hors - Senior Technical Staff Member, Web and Blockchain Open Technologies, IBM
 
-# Pre-existing repository
 
