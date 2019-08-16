@@ -15,7 +15,7 @@ https://github.com/amanrubalibm
 https://github.com/viprat
 
 # Sponsor
-Vipin Rathi: - Telecom Special Interest Group Chair email: vipin68_scs@jnu.ac.in
+Vipin Bharathan: - Identity WG chair email vipinsun@gmail.com
 
 # Pre-existing repository
 We do not have a pre-existing repository
