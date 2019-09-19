@@ -1,22 +1,30 @@
 # Lab Name
-_Enter the name of your lab here._
+Gardener
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+An open source Blockchain Oracle implementation. https://gardeneroracle.io/
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+Gardener already has some business value and you are welcome to [set it up yourself](https://gardener.readthedocs.io/en/latest/getting-started.html) or [test Gardener version deployed to Ropsten using our monitor](https://monitor.gardeneroracle.io/)
+
+Currently, Gardener is integrated with Ethereum. Integration with Hyperledger Fabric will be added soon. It also leverages Hexagonal Architecture (ports and adapters) which means that integrating with any other blockchain is easy.
+
+We also leverage `Intel SGX` . Currently, we [generate random values](https://gardener.readthedocs.io/en/latest/making-requests.html#random-datasource) in a secure way, leveraging Intel `SGX Remote Attestation` . In future, we are also planning to add `Intel SGX Sealing` to encrypt random data sent to blockchain. As a result, the only Third Trusted Party in entire RNG process will be `Intel`. 
+
+More complete roadmap is available [here](https://github.com/orgs/EspeoBlockchain/projects/1)
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
-- ...
+- https://github.com/kss-espeo
+- https://github.com/starspire
+- https://github.com/tcichowicz
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
 - https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+- https://github.com/EspeoBlockchain/gardener-server
+- https://github.com/EspeoBlockchain/gardener-smart-contracts
+- https://github.com/EspeoBlockchain/gardener-monitor
+- https://github.com/EspeoBlockchain/gardener-sgx-enclave
+- https://github.com/EspeoBlockchain/gardener-sgx-attestator
