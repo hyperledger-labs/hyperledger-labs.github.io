@@ -19,8 +19,7 @@ More complete roadmap is available [here](https://github.com/orgs/EspeoBlockchai
 - https://github.com/tcichowicz
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+- Dan Middleton dan.middleton@intel.com
 
 # Pre-existing repository
 - https://github.com/EspeoBlockchain/gardener-server
