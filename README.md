@@ -7,14 +7,24 @@ for additional information.
 
 ## Process to propose a new lab
 
-Fork the [hyperledger-labs.github.io](https://github.com/hyperledger-labs/hyperledger-labs.github.io) repository.
+1. Fork the [hyperledger-labs.github.io](https://github.com/hyperledger-labs/hyperledger-labs.github.io) repository.
 
-Fill out the [Proposal Template](https://github.com/hyperledger-labs/hyperledger-labs.github.io/blob/master/proposal-template.md)
+2. Fill out the [Proposal Template](https://github.com/hyperledger-labs/hyperledger-labs.github.io/blob/master/proposal-template.md)
 and save it into the labs subdirectory under the name of your lab,
 such as mynewlab.md. It is expected that your lab repository will have
 the same name so keep that in mind.
 
-Submit a Pull Request.
+Make sure your commit has proper sign-off. This means that your commit
+log message must contain a line that looks like the following one,
+with your actual name and email address:
+
+    Signed-off-by: John Doe <john.doe@example.com>
+
+Adding the `-s` flag to your `git commit` command will add that line
+automatically. You can also add it manually as part of your commit
+log message or add it afterwards with `git commit --amend -s`.
+
+3. Submit a Pull Request.
 
 The labs stewards will then review your proposal.
 
