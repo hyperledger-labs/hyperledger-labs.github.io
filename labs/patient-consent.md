@@ -29,7 +29,7 @@ Use case realizations with two frameworks, Hyperledger Fabric and Sawtooth
 
 # Sponsor
 
-- Richard Bloch <richardbloch@businesslearninginc.com>, chair of Healthcare SIG
+- Vipin Bharathan <vip@dlt.nyc>, chair of Identity WG
 
 # Pre-existing repository
 
