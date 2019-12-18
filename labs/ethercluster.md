@@ -1,5 +1,5 @@
 # Lab Name
-_Ethercluster_
+Ethercluster
 
 # Short Description
 Ethercluster is an open-source design specification for building scalable blockchain infrastructure using the latest infra-as-code tools such as Terraform, Kubernetes and Docker containers. 
