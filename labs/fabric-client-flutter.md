@@ -12,7 +12,7 @@ The lab implements [[FABN-895] Fabric SDK client signing](https://docs.google.co
 - https://github.com/5sWind
 
 # Sponsor
-- https://github.com/davidkhala or david-khala@hotmail.com - Hyperledger Technical Ambassador, Mentor of 2019 Hyperledger Mentorship Program.
+- https://github.com/dexhunter or dixingxu@gmail.com - Hyperledger Fabric Python SDK maintainer.
 
 # Pre-existing repository
 - https://github.com/5sWind/fabric-client-flutter
