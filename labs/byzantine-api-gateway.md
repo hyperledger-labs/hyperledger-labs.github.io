@@ -1,5 +1,5 @@
 # Lab Name
-byzantine api gateway
+Keyhole Fabric API Gateway
 
 # Short Description
 Enables client access to Hyperledger Fabric blockchain network through RESTful API's.
@@ -20,4 +20,4 @@ Enter the Github IDs for the set of initial committers.
 
 # Pre-existing repository
 If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**
-- https://github.com/in-the-keyhole/byzantine-api-gateway
+- https://github.com/in-the-keyhole/keyhole-fabric-api-gateway
