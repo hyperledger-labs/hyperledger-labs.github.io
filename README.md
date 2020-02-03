@@ -14,7 +14,12 @@ and save it into the labs subdirectory under the name of your lab,
 such as mynewlab.md. It is expected that your lab repository will have
 the same name so keep that in mind.
 
-3. Commit your changes with proper sign-off. This means that your commit
+3. In the Proposal Template, there is an entry for sponsor(s). The sponsor(s) are responsible for reviewing the proposal. Sponsors do not have a responsibility beyond this; ongoing work like contributing code or reviews is not tied to their role as sponsors. In reviewing the proposal, the sponsor(s) make sure that the proposal is cogent, and novel (in conception, proposed execution, or interested community). 
+To find sponsors 
+        a. the proposers can use their connections to existing projects and ask maintainers
+        b. find working groups or projects with affinities to the proposed lab and pitch the project (good to have the template already filled out) in associated channels and or mailing lists. The WG chairs emails, the maintainers contacts etc. can be found on the wiki or github. Make personal appeals if you can.
+
+4. Commit your changes with proper sign-off. This means that your commit
 log message must contain a line that looks like the following one,
 with your actual name and email address:
 
@@ -24,7 +29,7 @@ with your actual name and email address:
 automatically. You can also add it manually as part of your commit
 log message or add it afterwards with `git commit --amend -s`.
 
-4. Submit a Pull Request.
+5. Submit a Pull Request.
 
 The labs stewards will then review your proposal.
 
