@@ -11,7 +11,7 @@ Model a sample CBDC (eThaler) in TTF (Token Taxonomy Framework) and implement as
 
 Use the composable TTF token model and produce a eThaler definition in JSON.
 Use the eThaler definition to create all artifacts using available TTF tooling.
-Implement the interfaces and opther properties in Besu using an implementation standard of EIP 1155 or EIP 20.
+Implement the interfaces and other properties in Besu using an implementation standard of EIP 1155 or EIP 20.
 
 # Initial Committers
 
