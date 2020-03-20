@@ -18,5 +18,4 @@ the ability of HCS to deliver a set of ordered transactions from the public netw
 - https://github.com/christo4ferris - Hyperledger Technical Steering Committee Member
 
 # Pre-existing repository
-- https://github.com/hashgraph/fabric-samples-hcs/blob/feature/hcs/first-network
 - https://github.com/hashgraph/fabric-hcs/tree/feature/hcs
