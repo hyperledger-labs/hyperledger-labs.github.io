@@ -14,7 +14,7 @@ Allowing chaincode to be authored in Haskell also opens up the world of blockcha
 
 This lab will focus on providing support for developers to write chaincode in Haskell. This will be done through a native Haskell Shim. We aim to provide feature parity with the existing official languages for Fabric - Go, Java and JavaScript.
 
-This lab will also experiment with formal verification of the shim as well as user-defined chaincode. This work was presented at [Hyperledger Global Forum 2020](https://sched.co/ZdFh) and further details of this project can be found [here](https://www.youtube.com/watch?v=Y-vMHbH4vVI).
+This lab will also experiment with formal verification of the shim as well as user-defined chaincode. This work was presented at [Hyperledger Global Forum 2020](https://sched.co/ZdFh) and a [recording of the talk is now available](https://www.youtube.com/watch?v=Y-vMHbH4vVI).
 
 # Initial Committers
 
