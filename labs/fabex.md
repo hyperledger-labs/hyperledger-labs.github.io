@@ -2,10 +2,10 @@
 Fabex
 
 # Short Description
-The aim of this lab is to create a flexible block explorer written in Go.
+The aim of this lab is to create a flexible block explorer for Hyperledger Fabric written in Go.
 
 # Scope of Lab
-Fabex aims to contribute to the HLF audit ecosystem. It provides GRPC API and extensible database storage interface (MongoDB and CassandraDB implementations are now available). 
+Fabex aims to contribute to the Hyperledger Fabric audit ecosystem. It provides GRPC API and extensible database storage interface (MongoDB and CassandraDB implementations are now available). 
 This tool can be used as CLI or microservice. Simple API documented in [fabex.proto](https://github.com/VadimInshakov/fabex/blob/master/proto/fabex.proto). 
 
 MongoDB can be used as simple and convenient blocks storage. CassandraDB is the option for those who want column-oriented database for fast reads.
