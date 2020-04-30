@@ -2,7 +2,7 @@
 Fabex
 
 # Short Description
-The aim of this lab is to create a flexible block explorer for Hyperledger Fabric written in Go.
+The aim of this tool is to provide microservice which augments and index the ledger of Hyperledger Fabric and to provide additional set of complex queries APIs to extract provenance information out of the ledger.
 
 # Scope of Lab
 Fabex aims to contribute to the Hyperledger Fabric audit ecosystem. It provides GRPC API and extensible database storage interface (MongoDB and CassandraDB implementations are now available). 
