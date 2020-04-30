@@ -10,7 +10,7 @@ This tool can be used as CLI or microservice. Simple API documented in [fabex.pr
 
 MongoDB can be used as simple and convenient blocks storage. CassandraDB is the option for those who want column-oriented database for fast reads.
 
-More information is [here](https://github.com/vadimInshakov/fabex/blob/master/readme.md)
+More information can be found in the [readme](https://github.com/vadimInshakov/fabex/blob/master/readme.md)
 
 # Initial Committers
 - https://github.com/vadiminshakov
