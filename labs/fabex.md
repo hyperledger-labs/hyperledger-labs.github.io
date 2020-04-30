@@ -9,6 +9,7 @@ Fabex aims to contribute to the HLF audit ecosystem. It provides GRPC API and ex
 
 # Initial Committers
 - https://github.com/vadiminshakov
+- https://github.com/Mikelle
 
 # Sponsor
 - https://github.com/C0rWin - HLF maintainer 
