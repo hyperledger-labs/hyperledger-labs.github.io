@@ -5,12 +5,28 @@ Fabex
 The aim of this tool is to provide microservice which augments and index the ledger of Hyperledger Fabric and to provide additional set of complex queries APIs to extract provenance information out of the ledger.
 
 # Scope of Lab
-Fabex aims to contribute to the Hyperledger Fabric audit ecosystem. It provides GRPC API and extensible database storage interface (MongoDB and CassandraDB implementations are now available). 
-This tool can be used as CLI or microservice. Simple API documented in [fabex.proto](https://github.com/VadimInshakov/fabex/blob/master/proto/fabex.proto). 
+Fabex exposes set of GRPC APIs to execute provenance queries over ledger data, moreover it provides an abstract DB interface allowing to integrate different DB engines, whereas out of box supported:
 
-MongoDB can be used as simple and convenient blocks storage. CassandraDB is the option for those who want column-oriented database for fast reads.
+   - MongoDB
+ 
+   - CassandraDB
 
-More information can be found in the [readme](https://github.com/vadimInshakov/fabex/blob/master/readme.md)
+DB storage interface:
+
+```
+type Manager interface {
+	Connect() error
+	Insert(Tx) error
+	QueryBlockByHash(string) ([]Tx, error)
+	GetByTxId(string) ([]Tx, error)
+	GetByBlocknum(uint64) ([]Tx, error)
+	GetBlockInfoByPayload(string) ([]Tx, error)
+	QueryAll() ([]Tx, error)
+	GetLastEntry() (Tx, error)
+}
+```
+
+This tool could be integrated and deployed as a microservice, at the same time could be compiled into stand-alone command line tool.
 
 # Initial Committers
 - https://github.com/vadiminshakov
