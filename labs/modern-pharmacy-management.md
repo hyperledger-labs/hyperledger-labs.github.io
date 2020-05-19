@@ -2,22 +2,21 @@
 Modern Pharmacy Management
 
 # Short Description
-This project will focus on leveraging blockchain to transform and modernize prescriptions management by enabling flexibility and managing fraud.
+This Lab will focus on leveraging blockchain to transform and modernize prescriptions management by enabling flexibility and managing fraud.
 
 # Scope of Lab
 The scope of the lab is to develop a proof of concept (POC) for a blockchain-based presecription management solution that covers general use case in healthcare around prescriptions and its fullfilment.
-
-This repo will have a end user application and the blockchain built using hyperledger fabric. 
-
+This repo will have a end user application and the blockchain built using Hyperledger Fabric. 
 In addition we plan to leverage Joget open source platform for building applications visually. 
 
 # Initial Committers
-Initial Commiters 
 - https://github.com/dewanz
 - https://github.com/kentydotcom
 - Anyone is welcome to join. 
 
 # Sponsor
 Richard Bloch richardbloch@businesslearninginc.com, chair of Healthcare SIG
-Raveesh Dewan rdewan@joget.com, chair of Healthcare Payer Sub Group
-- https://github.com/dewanz
+
+# Pre-existing repository
+_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
+- None
