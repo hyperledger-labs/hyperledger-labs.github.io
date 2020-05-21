@@ -6,8 +6,7 @@ This Lab will focus on leveraging blockchain to transform and modernize prescrip
 
 # Scope of Lab
 The scope of the lab is to develop a proof of concept (POC) for a blockchain-based presecription management solution that covers general use case in healthcare around prescriptions and its fullfilment.
-This repo will have a end user application and the blockchain built using Hyperledger Fabric. 
-In addition we plan to leverage Joget open source platform for building applications visually. 
+This repo will have a end user application and the blockchain built using Hyperledger Fabric. The end user application using Hyperledger Composer will be created to showcase the use of POC created. 
 
 # Initial Committers
 - https://github.com/dewanz
