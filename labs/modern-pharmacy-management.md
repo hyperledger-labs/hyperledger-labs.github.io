@@ -17,5 +17,4 @@ This repo will have a end user application and the blockchain built using Hyperl
 Arnaud J Le Hors rlehors@us.ibm.com
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
 - None
