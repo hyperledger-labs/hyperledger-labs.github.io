@@ -14,7 +14,7 @@ This repo will have a end user application and the blockchain built using Hyperl
 - Anyone is welcome to join. 
 
 # Sponsor
-Arnaud J Le Hors rlehors@us.ibm.com
+Arnaud J Le Hors lehors@us.ibm.com
 
 # Pre-existing repository
 - None
