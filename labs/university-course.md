@@ -1,22 +1,15 @@
 # Lab Name
-_Enter the name of your lab here._
+Enterprise Blockchain Technologies - A University Course on Hyperledger Technologies
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+Build a university course on Hyperledger technologies, with emphasis on Hyperledger Fabric.
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+A growing part of our community is our partnership with academia. Hyperledger Fabric and other Hyperledger projects are being incorporated in to research and education in universities more and more all over the world. Hyperledger can aid the growth by preparing study materials, sample lab experiments and quizzes and tests that teach computer science students about distributed systems and consensus algorithms and cryptography. Hyperledger Umbra has streamlined the process of setting up a full Hyperledger Fabric network running on a single computer. It provides an ideal environment for students to learn Hyperledger Fabric administration as well as use it for running lab experiments and learning exercises, so it will be leveraged to teach advanced topics on Hyperledger Fabric. This project is focused on producing a "classroom-in-a-box" for an introductory computer science course on distributed systems and algorithms that can be offered to universities that wish to use Hyperledger Fabric in their curriculum.
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
-- ...
+https://github.com/RafaelAPB (maintainer)
+https://github.com/dhuseby (maintainer)
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
-
-# Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+https://github.com/dhuseby
