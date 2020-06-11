@@ -1,5 +1,5 @@
 # Lab Name
-Enterprise Blockchain Technologies - A University Course on Hyperledger Technologies
+Enterprise Blockchain Technologies - A University Course on Hyperledger Fabric
 
 # Short Description
 Build a university course on Hyperledger technologies, with emphasis on Hyperledger Fabric.
