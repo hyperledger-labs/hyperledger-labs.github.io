@@ -1,22 +1,19 @@
 # Lab Name
-_Enter the name of your lab here._
+Hyperledger Fabric on Production Kubernetes
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+CI/CD pipeline using Jenkins, Packer, Ansible, Terraform and Spinnaker to create one click deployment of production grade Hyperledger Fabric network on Kubernetes.
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+Setup a production grade DevOps pipeline which can deploy a Kubernetes cluster, deploy applications using helm charts, manage the deployment using Spinnaker and add upgrade/rollback features to create a enterprise ready Hyperledger Fabric deployment.
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
-- ...
+- https://github.com/sanusatyadarshi
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+- Arun S M 
+https://chat.hyperledger.org/direct/arsulegai 
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+- https://github.com/sanusatyadarshi/hyperledger-fabric-on-k8s-production
