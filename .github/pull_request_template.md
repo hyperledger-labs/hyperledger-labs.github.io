@@ -6,4 +6,4 @@
 - [ ] Copy the short description of the proposal as the description of the PR
 - [ ] Remove this checklist section
 - [ ] Submit your PR and the labs stewards will review your proposal
-
+- [ ] Ask your sponsor confirm sponsorship to the stewards (eg; with a comment on the PR)
