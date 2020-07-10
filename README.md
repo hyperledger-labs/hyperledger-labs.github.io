@@ -35,7 +35,7 @@ The labs stewards will then review your proposal.
 
 ## Bringing in an existing repository
 
-By default the Lab stewards will create a new respository for you to
+By default the Lab stewards will create a new repository for you to
 start from but if you have an existing github repo you would like to
 bring to your proposed lab you have the option to request for that
 repo to be reused instead. This is however only possible if every
