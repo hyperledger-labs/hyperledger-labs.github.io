@@ -13,15 +13,15 @@ Deploying applications using plain Docker containers has many issues such as :
 2. No monitoring, alerts, etc.
 3. Not scalable, no easy way of spreading containers among VM’s
 
-The solution to all these is the Kubernetes, which undoubtedly is the future of container orchestration. Kubernetes (also known as k8s or “kube”) is an open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+A solution to all these is Kubernetes. Kubernetes (also known as k8s or “kube”) is an open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
 Kubernetes is a good fit for blockchain networks often running on multiple clouds and on-premise. Blockchain networks require different types of nodes - validators, bootnodes, and normal network nodes, so these arrangements can be easily configured for a particular cluster.
 
-Currently it's possible to deploy Besu on Kubernetes using Helm Charts or in kubectl. The purpose of the project is to wrap everything under Kubernetes operator, so one can provide the operator the desired state of Besu, and let it reach & maintain that state.
+Currently it's possible to deploy Besu on Kubernetes using Helm Charts or in kubectl. The purpose of the lab is to wrap everything under Kubernetes operator, so one can provide the operator the desired state of Besu, and let it reach & maintain that state.
 
-This project directly affects the Hyperledger Besu Project. The basic operator structure & framework could be used to develop operators for other Hyperledger products.
+This lab directly affects the Hyperledger Besu Project. The basic operator structure & framework could be used to develop operators for other Hyperledger products.
 
-Details : [Project Google Doc](https://docs.google.com/document/d/1GdBv62g8dsASe4QSESar5JZNzMq2gq5L5onEqJa2HFg/edit?usp=sharing)
+Details : [Lab Google Doc](https://docs.google.com/document/d/1GdBv62g8dsASe4QSESar5JZNzMq2gq5L5onEqJa2HFg/edit?usp=sharing)
 
 # Initial Committers
 - https://github.com/Sumaid
