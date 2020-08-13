@@ -5,16 +5,13 @@ blockchain-carbon-accounting
 CO2 emissions accounting calculations using Hyperledger Fabric 
 
 # Scope of Lab
-In recent years, consumers, businesses, and investors have become increasingly aware of climate change and are looking for positive action to stop it.  
-For these initiatives to succeed, multiple parties including institutional investors, major corporations, supply chain partners, environmentalist groups, 
-government regulators, and the general public must now work together, sometimes for the first time.  
-This new collaboration in turn requires exchanging data and building trust across traditional boundaries.  
+In recent years, consumers, businesses, and investors have become increasingly aware of climate change and are looking for positive action to stop it.  For these initiatives to succeed, multiple parties including institutional investors, major corporations, supply chain partners, environmentalist groups, government regulators, and the general public must now work together, sometimes for the first time.  This new collaboration in turn requires exchanging data and building trust across traditional boundaries.  
 
 We are looking to use blockchain technology, such as Hyperledger Fabric, to create collaboration on CO2 emissions and climate change by creating an open source
 framework for accounting for CO2 emissions.  We believe Hyperledger Fabric could help automate data gathering at scale, maintain audit trails where no central
 authorities exist, and build trust through transparency and open source.   
 
-For more details, see [Carbon Accounting and Certification Working Group|https://wiki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Working+Group]
+For more details, see [Carbon Accounting and Certification Working Group](https://wiki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Working+Group)
 
 # Initial Committers
 - https://github.com/opentaps
@@ -26,4 +23,4 @@ _Provide the name of your sponsor. A sponsor is required and must be a maintaine
 - https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
-None
+- https://github.com/opentaps/blockchain-carbon-accounting
