@@ -1,5 +1,5 @@
 # Lab Name
-_Enter the name of your lab here._
+blockchain-carbon-accounting
 
 # Short Description
 _Provide a short description of your lab. This will be used for the Github repository's description._
