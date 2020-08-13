@@ -2,21 +2,28 @@
 blockchain-carbon-accounting
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+CO2 emissions accounting calculations using Hyperledger Fabric 
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+In recent years, consumers, businesses, and investors have become increasingly aware of climate change and are looking for positive action to stop it.  
+For these initiatives to succeed, multiple parties including institutional investors, major corporations, supply chain partners, environmentalist groups, 
+government regulators, and the general public must now work together, sometimes for the first time.  
+This new collaboration in turn requires exchanging data and building trust across traditional boundaries.  
+
+We are looking to use blockchain technology, such as Hyperledger Fabric, to create collaboration on CO2 emissions and climate change by creating an open source
+framework for accounting for CO2 emissions.  We believe Hyperledger Fabric could help automate data gathering at scale, maintain audit trails where no central
+authorities exist, and build trust through transparency and open source.   
+
+For more details, see [Carbon Accounting and Certification Working Group|https://wiki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Working+Group]
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
-- ...
+- https://github.com/opentaps
+- https://github.com/jwickers
+- https://github.com/rybalko
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
 - https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+None
