@@ -17,6 +17,7 @@ For more details, see [Carbon Accounting and Certification Working Group](https:
 - https://github.com/opentaps
 - https://github.com/jwickers
 - https://github.com/rybalko
+- https://github.com/udosson
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
