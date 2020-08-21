@@ -9,8 +9,6 @@ The Business Partner Agent is a domain-specific controller and extension for Ari
 
 The project consists of a backend written in Java that provides domain-specific APIs for integration in enterprise systems, as well as a simple reference user interface.
 
-![Business Partner Agent](./images/businessPartnerAgent.png "Business Partner Agent")
-
 # Initial Committers
 - https://github.com/etschelp
 - https://github.com/frank-bee
