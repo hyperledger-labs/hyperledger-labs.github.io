@@ -56,7 +56,7 @@ Combination of Private data implicit collections/Key-level endorsement policies 
 
 # Sponsor
 
-_yet to find one_
+[Vipin Bharathan](vipinsun@gmail.com) - Chair of the Identity Working Group
 
 # Pre-existing repository
 
