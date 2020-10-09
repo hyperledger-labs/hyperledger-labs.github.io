@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pluggable Hedera Consensus Service
+parent: Labs
+---
 # Lab Name
 Pluggable Hedera Consensus Service
 

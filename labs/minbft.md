@@ -1,5 +1,9 @@
+---
+layout: default
+title: MinBFT
+parent: Labs
+---
 # Lab Name
-
 MinBFT
 
 # Short Description

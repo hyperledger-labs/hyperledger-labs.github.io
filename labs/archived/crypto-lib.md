@@ -1,3 +1,8 @@
+---
+layout: default
+title: crypto-lib
+parent: Archived Labs
+---
 # Lab Name
 crypto-lib
 

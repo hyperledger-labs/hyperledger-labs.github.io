@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab Proposal Document
+parent: Labs
+---
 # Lab Name
 blockchain-carbon-accounting
 

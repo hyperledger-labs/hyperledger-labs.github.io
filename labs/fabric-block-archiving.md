@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Fabric Block Archiving
+parent: Labs
+---
 # Lab Name
 Hyperledger Fabric Block Archiving
 

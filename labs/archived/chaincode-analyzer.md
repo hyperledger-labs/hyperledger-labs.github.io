@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chaincode Analyzer
+parent: Archived Labs
+---
 # Lab Name
 Chaincode Analyzer
 

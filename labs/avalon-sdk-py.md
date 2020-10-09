@@ -1,3 +1,8 @@
+---
+layout: default
+title: Avalon SDK Python
+parent: Labs
+---
 # Lab Name
 avalon-sdk-py
 

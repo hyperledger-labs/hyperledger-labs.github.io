@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modern Pharmacy Management
+parent: Labs
+---
 # Lab Name
 Modern Pharmacy Management
 

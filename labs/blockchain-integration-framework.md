@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blockchain Integration Framework
+parent: Labs
+---
 # Lab Name
 Blockchain Integration Framework
 

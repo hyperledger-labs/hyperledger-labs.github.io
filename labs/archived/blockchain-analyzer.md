@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blockchain Analyzer
+parent: Archived Labs
+---
 # Lab Name
 Blockchain Analyzer
 

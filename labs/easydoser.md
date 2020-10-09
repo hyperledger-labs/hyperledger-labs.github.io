@@ -1,3 +1,8 @@
+---
+layout: default
+title: EasyDoser
+parent: Labs
+---
 # Lab Name
 EasyDoser
 
