@@ -1,7 +1,7 @@
 repository:
   name: hyperledger-labs.github.io
   description: Hyperledger Labs
-  homepage: https://hyperledger-labs.github.io/
+  homepage: https://labs.hyperledger.org/
   default_branch: master
   has_downloads: false
   has_issues: true
