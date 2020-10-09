@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gardener
+parent: Archived Labs
+---
 # Lab Name
 Gardener
 

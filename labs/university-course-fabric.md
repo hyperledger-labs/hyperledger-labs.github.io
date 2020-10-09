@@ -1,3 +1,8 @@
+---
+layout: default
+title: University Course Fabric
+parent: Labs
+---
 # Lab Name
 University Course Fabric 
 

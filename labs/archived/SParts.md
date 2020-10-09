@@ -1,3 +1,8 @@
+---
+layout: default
+title: SParts
+parent: Archived Labs
+---
 # Lab Name
 
 SParts

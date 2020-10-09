@@ -1,3 +1,8 @@
+---
+layout: default
+title: Keyhole Fabric API Gateway
+parent: Labs
+---
 # Lab Name
 Keyhole Fabric API Gateway
 

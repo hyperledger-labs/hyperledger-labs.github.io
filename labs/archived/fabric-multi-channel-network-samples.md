@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fabric Multi Channel Network Samples
+parent: Archived Labs
+---
 # Lab Name
 Fabric Multi Channel Network Samples
 

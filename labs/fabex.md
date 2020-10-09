@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fabex
+parent: Labs
+---
 # Lab Name
 Fabex
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inter Carrier Settlements
+parent: Archived Labs
+---
 # Lab Name
 Inter Carrier Settlements
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fabric Docs ML
+parent: Archived Labs
+---
 # Lab Name
 Fabric Docs ML
 

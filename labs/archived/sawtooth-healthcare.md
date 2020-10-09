@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sawtooth Healthcare
+parent: Archived Labs
+---
 # Lab Name
 Sawtooth Healthcare.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: fabric-vms-provision
+parent: Archived Labs
+---
 # Lab Name
 fabric-vms-provision
 

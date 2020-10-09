@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Fabric WebAssembly chaincode
+parent: Labs
+---
 # Lab Name
 Hyperledger Fabric WebAssembly chaincode
 

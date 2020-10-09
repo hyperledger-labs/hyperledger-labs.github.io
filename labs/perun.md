@@ -1,5 +1,9 @@
+---
+layout: default
+title: Perun
+parent: Labs
+---
 # Lab Name
-
 Perun
 
 # Short Description

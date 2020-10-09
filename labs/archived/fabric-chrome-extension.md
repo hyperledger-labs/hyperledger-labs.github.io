@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Fabric Chrome Extension
+parent: Archived Labs
+---
 # Lab Name
 Hyperledger Fabric Chrome Extension
 

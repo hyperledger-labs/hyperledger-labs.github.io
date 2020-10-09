@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cordentity
+parent: Archived Labs
+---
 # Lab Name
 Cordentity
 

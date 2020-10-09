@@ -1,3 +1,8 @@
+---
+layout: default
+title: Besu Operator
+parent: Labs
+---
 # Lab Name
 Besu Operator
 
