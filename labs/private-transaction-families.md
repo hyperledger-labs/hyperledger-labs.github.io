@@ -1,5 +1,9 @@
+---
+layout: default
+title: private-transaction-families
+parent: Labs
+---
 # Lab Name
-
 private-transaction-families
 
 # Short Description

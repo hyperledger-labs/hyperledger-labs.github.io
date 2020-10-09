@@ -1,3 +1,8 @@
+---
+layout: default
+title: Business Partner Agent
+parent: Labs
+---
 # Lab Name
 Business Partner Agent
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Proof of Elapsed Time 2
+parent: Archived Labs
+---
 # Lab Name
 Proof of Elapsed Time 2
 

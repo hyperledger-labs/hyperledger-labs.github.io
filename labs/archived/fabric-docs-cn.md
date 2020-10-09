@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fabric Docs CN
+parent: Archived Labs
+---
 # Lab Name
 Fabric Docs CN
 

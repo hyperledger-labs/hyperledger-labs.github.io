@@ -1,5 +1,9 @@
+---
+layout: default
+title: Private Data Objects
+parent: Labs
+---
 # Lab Name
-
 Private Data Objects
 
 # Short Description

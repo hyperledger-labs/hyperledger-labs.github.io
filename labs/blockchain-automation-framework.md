@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blockchain Automation Framework
+parent: Labs
+---
 # Lab Name
 Blockchain Automation Framework
 

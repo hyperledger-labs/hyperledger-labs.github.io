@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Fabric Consortium Management
+parent: Archived Labs
+---
 # Lab Name
 Hyperledger Fabric Consortium Management
 

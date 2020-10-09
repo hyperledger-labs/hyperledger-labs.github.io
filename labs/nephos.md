@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nephos
+parent: Labs
+---
 # Lab Name
 Nephos
 

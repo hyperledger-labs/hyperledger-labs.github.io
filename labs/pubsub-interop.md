@@ -1,3 +1,8 @@
+---
+layout: default
+title: PubSub Interop
+parent: Labs
+---
 # Lab Name
 PubSub Interop
 

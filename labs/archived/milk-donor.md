@@ -1,3 +1,8 @@
+---
+layout: default
+title: Donor Milk Transparency and Traceability
+parent: Archived Labs
+---
 # Lab Name
 Donor Milk Transparency and Traceability
 

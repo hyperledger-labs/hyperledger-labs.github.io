@@ -1,3 +1,8 @@
+---
+layout: default
+title: solidity2chaincode
+parent: Archived Labs
+---
 # Lab Name
 solidity2chaincode
 

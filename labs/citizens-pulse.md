@@ -1,5 +1,9 @@
+---
+layout: default
+title: Citizens Pulse
+parent: Labs
+---
 # Lab Name
-
 Citizens Pulse
 
 # Short Description

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Patient Consent
+parent: Archived Labs
+---
 # Lab Name
 
 Patient Consent

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Fabric Lightweight Client
+parent: Archived Labs
+---
 # Lab Name
 Hyperledger Fabric Lightweight Client
 

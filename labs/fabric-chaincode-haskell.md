@@ -1,5 +1,9 @@
+---
+layout: default
+title: Hyperledger Fabric Haskell Chaincode
+parent: Labs
+---
 # Lab Name
-
 Hyperledger Fabric Haskell Chaincode
 
 # Short Description

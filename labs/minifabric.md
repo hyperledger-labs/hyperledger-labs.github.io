@@ -1,3 +1,8 @@
+---
+layout: default
+title: Minifabric
+parent: Labs
+---
 # Lab Name
 Minifabric
 

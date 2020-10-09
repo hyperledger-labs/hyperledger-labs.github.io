@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blockchain Verifier
+parent: Labs
+---
 # Lab Name
 Blockchain Verifier
 

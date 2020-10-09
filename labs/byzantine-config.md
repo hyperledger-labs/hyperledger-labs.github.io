@@ -1,3 +1,8 @@
+---
+layout: default
+title: Byzantine-Config
+parent: Labs
+---
 # Lab Name
 _Byzantine-Config_
 

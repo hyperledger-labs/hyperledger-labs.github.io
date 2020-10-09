@@ -1,3 +1,8 @@
+---
+layout: default
+title: solang
+parent: Labs
+---
 # Lab Name
 solang
 

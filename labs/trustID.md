@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: TrustID
+parent: Labs
+---
 # Lab Name
 TrustID
 

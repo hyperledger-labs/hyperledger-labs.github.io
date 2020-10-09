@@ -1,3 +1,8 @@
+---
+layout: default
+title: fabric-client-flutter
+parent: Archived Labs
+---
 # Lab Name
 fabric-client-flutter
 

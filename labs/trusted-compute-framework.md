@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trusted Compute Framework
+parent: Labs
+---
 # Lab Name
 Trusted Compute Framework
 

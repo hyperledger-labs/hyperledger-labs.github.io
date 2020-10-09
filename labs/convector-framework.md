@@ -1,3 +1,8 @@
+---
+layout: default
+title: Convector Framework
+parent: Labs
+---
 # Lab Name
 Convector Framework
 

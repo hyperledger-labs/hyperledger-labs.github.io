@@ -1,4 +1,8 @@
 title: "Hyperledger Labs"
 description: "Start here to propose a Hyperledger Lab"
 show_downloads: "false"
-theme: jekyll-theme-cayman
+has_children: true
+has_toc: true
+# Switch next two lines for local debugging
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs

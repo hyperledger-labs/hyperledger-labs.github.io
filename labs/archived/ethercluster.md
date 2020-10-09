@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ethercluster
+parent: Archived Labs
+---
 # Lab Name
 Ethercluster
 

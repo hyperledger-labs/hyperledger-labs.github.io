@@ -1,3 +1,8 @@
+---
+layout: default
+title: fabric-server-node
+parent: Labs
+---
 # Lab Name
 fabric-server-node
 

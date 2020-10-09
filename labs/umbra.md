@@ -1,5 +1,10 @@
+---
+layout: default
+title: Umbra
+parent: Labs
+---
 # Lab Name
-Umbra -- Logo is a [tesseract](https://en.wikipedia.org/wiki/Tesseract)
+Umbra
 
 # Short Description
 This lab is to make running Hyperledger distributed ledgers under the
@@ -7,6 +12,8 @@ This lab is to make running Hyperledger distributed ledgers under the
 research internship during the summer of 2018 and seeks to provide a tool for
 doing research on consensus algorithms, smart contracts, scaling and other
 blockchain related research topics.
+
+Logo is a [tesseract](https://en.wikipedia.org/wiki/Tesseract)
 
 # Scope of Lab
 The scope is to make modifications to Shadow as well as to construct Shadow

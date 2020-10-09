@@ -1,3 +1,8 @@
+---
+layout: default
+title: z-mix
+parent: Archived Labs
+---
 # Lab Name
 z-mix
 

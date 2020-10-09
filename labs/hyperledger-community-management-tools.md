@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Community Management Tools
+parent: Labs
+---
 # Lab Name
 Hyperledger Community Management Tools
 

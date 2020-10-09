@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hyperledger Fabric Based Access Control
+parent: Labs
+---
 # Lab Name
 Hyperledger Fabric Based Access Control
 

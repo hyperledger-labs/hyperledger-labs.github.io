@@ -1,3 +1,8 @@
+---
+layout: default
+title: eThaler
+parent: Labs
+---
 # Lab Name
 eThaler
 

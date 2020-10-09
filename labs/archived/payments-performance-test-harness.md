@@ -1,3 +1,8 @@
+---
+layout: default
+title: Payments Performance Test Harness
+parent: Archived Labs
+---
 # Lab Name
 Payments Performance Test Harness.
 
