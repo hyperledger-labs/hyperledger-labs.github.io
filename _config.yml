@@ -1,8 +1,17 @@
 title: "Hyperledger Labs"
+logo: "/hyperledger-logo.png"
+url: "https://labs.hyperledger.org"
 description: "Start here to propose a Hyperledger Lab"
 show_downloads: "false"
 has_children: true
 has_toc: true
+aux_links:
+  "GitHub":
+    - "//github.com/hyperledger-labs"
+  "Wiki":
+    - "//wiki.hyperledger.org/display/labs"
+  "Chat":
+    - "//chat.hyperledger.org/channel/labs"
 # Switch next two lines for local debugging
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
