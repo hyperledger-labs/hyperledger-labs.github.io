@@ -21,7 +21,7 @@ For more details, see [Carbon Accounting and Certification Working Group](https:
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+- Artem Barger (BARTEM@il.ibm.com) - TSC Member
 
 # Pre-existing repository
 - https://github.com/opentaps/blockchain-carbon-accounting
