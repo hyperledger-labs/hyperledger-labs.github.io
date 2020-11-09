@@ -1,32 +1,22 @@
----
-layout: default
-title: Lab Proposal Document
-parent: Labs
----
 # Lab Name
-blockchain-carbon-accounting
+_Enter the name of your lab here._
 
 # Short Description
-CO2 emissions accounting calculations using Hyperledger Fabric 
+_Provide a short description of your lab. This will be used for the Github repository's description._
 
 # Scope of Lab
-In recent years, consumers, businesses, and investors have become increasingly aware of climate change and are looking for positive action to stop it.  For these initiatives to succeed, multiple parties including institutional investors, major corporations, supply chain partners, environmentalist groups, government regulators, and the general public must now work together, sometimes for the first time.  This new collaboration in turn requires exchanging data and building trust across traditional boundaries.  
-
-We are looking to use blockchain technology, such as Hyperledger Fabric, to create collaboration on CO2 emissions and climate change by creating an open source
-framework for accounting for CO2 emissions.  We believe Hyperledger Fabric could help automate data gathering at scale, maintain audit trails where no central
-authorities exist, and build trust through transparency and open source.   
-
-For more details, see [Carbon Accounting and Certification Working Group](https://wiki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Working+Group)
+_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
 
 # Initial Committers
-- https://github.com/opentaps
-- https://github.com/jwickers
-- https://github.com/rybalko
-- https://github.com/udosson
+_Enter the Github IDs for the set of initial committers._
+- https://github.com/<user_id1>
+- https://github.com/<user_id2>
+- ...
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- Artem Barger (BARTEM@il.ibm.com) - Hyperledger Fabric maintainer
+- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
-- https://github.com/opentaps/blockchain-carbon-accounting
+_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
+- https://github.com/<your_repo>
