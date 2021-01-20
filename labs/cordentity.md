@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cordentity
-parent: Archived Labs
+parent: Labs
 ---
 # Lab Name
 Cordentity
@@ -22,8 +22,8 @@ Indy, for decentralized identity, with the R3 Corda Platform. This
 lab creates interoperability of two purpose-built ledger
 technologies, each with a focus on privacy. Corda is designed to
 enable private transact and Indy is a ledger built specifically for
-self-sovereign identity. The integrated platforms reinforce each
-other and allows building complicated scenarios.
+self-sovereign identity. The integrated platforms extend each
+other and allow to build comprehensive end-to-end scenarios.
 
 It is often required to prove identity assertions without necessarily
 wanting to reveal the underlying data. For example, an individual may 
@@ -32,11 +32,9 @@ disclose their actual date of birth. Hyperledger Indy uses zero
 knowledge proofs to enable this functionality, allowing someone prove 
 a statement is true while preserving confidentiality.
 
-# Initial Committers
-- https://github.com/voddan
+# The project is maintained by
 - https://github.com/alkopnin
-- https://github.com/jeremiah
-- https://github.com/abaaz
+- https://github.com/machochol
 
 # Sponsor
 - https://github.com/dcmiddle - Dan Middleton (dan.middleton@intel.com) - Hyperledger TSC Chair
