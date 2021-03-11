@@ -44,3 +44,11 @@ commit in your existing repo is signed-off so there is no
 not the case, you will need to bring your code by squashing all of 
 your commits into a single first commit made against your new lab 
 repo with your sign-off.
+
+## License requirement
+
+All Hyperledger software must be made available under an [Apache 2.0 license](LICENSE).
+This applies to Labs. Please, make sure to license all incoming code
+and new code accordingly.
+
+
