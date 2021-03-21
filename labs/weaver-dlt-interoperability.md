@@ -35,9 +35,15 @@ A platform, a protocol suite, and a set of tools, to enable interoperation for d
 - https://github.com/knarayan
 - https://github.com/dhinakaran2705
 - https://github.com//Yining-Hu
+- https://github.com/Vinayaka-Pandit
+- https://github.com/hyp0th3rmi4
 
 # Sponsor
 - https://github.com/lehors - TSC Member
+
+# Former Members
+- https://github.com/ChanderG
+- https://github.com/dushyantbehl
 
 # Pre-existing repository
 N/A
