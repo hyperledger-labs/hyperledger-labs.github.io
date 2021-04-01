@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Proposal Document
+title: Blockchain Carbon Accounting
 parent: Labs
 ---
 # Lab Name
