@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Proposal Document
+title: Weaver DLT Interoperability
 parent: Labs
 ---
 # Lab Name
