@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Proposal Document
+title: Mir-BFT
 parent: Labs
 ---
 # Lab Name
