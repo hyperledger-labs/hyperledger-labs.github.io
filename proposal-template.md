@@ -4,7 +4,7 @@ title: Lab Proposal Document
 parent: Labs
 ---
 # Lab Name
-_Enter the name of your lab here._
+_Enter the name of your lab here. Also, change line 3 of this file to reflect the short name of your project._
 
 # Short Description
 _Provide a short description of your lab. This will be used for the Github repository's description._
