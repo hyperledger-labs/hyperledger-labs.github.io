@@ -14,10 +14,10 @@ and save it into the labs subdirectory under the name of your lab,
 such as mynewlab.md. It is expected that your lab repository will have
 the same name so keep that in mind.
 
-3. In the Proposal Template, there is an entry for sponsor(s). The sponsor(s) are responsible for reviewing the proposal. Sponsors do not have a responsibility beyond this; ongoing work like contributing code or reviews is not tied to their role as sponsors. In reviewing the proposal, the sponsor(s) make sure that the proposal is cogent, and novel (in conception, proposed execution, or interested community). 
-To find sponsors 
-        a. the proposers can use their connections to existing projects and ask maintainers
-        b. find working groups or projects with affinities to the proposed lab and pitch the project (good to have the template already filled out) in associated channels and or mailing lists. The WG chairs emails, the maintainers contacts etc. can be found on the wiki or github. Make personal appeals if you can.
+3. In the Proposal Template, there is an entry for sponsor(s). Although not required, proposers are encouraged to seek a sponsor who can help them create ties with the rest of the Hyperledger community and ensure that the proposal is cogent and novel (in conception, proposed execution, or interested community).<br/>
+To find sponsors:
+        a) use your connections to existing projects and ask maintainers,
+        b) find working groups or projects with affinities to the proposed lab and pitch the project (good to have the template already filled out) in associated channels and/or mailing lists. The WG chairs emails, the maintainers contacts etc can be found on the wiki or github. Make personal appeals if you can. Every repository contains a MAINTAINERS file that lists the current maintainers with their contact information and you can reach them all by posting to the [Maintainers list](https://lists.hyperledger.org/g/maintainers).
 
 4. Commit your changes with proper sign-off. This means that your commit
 log message must contain a line that looks like the following one,
@@ -31,7 +31,7 @@ log message or add it afterwards with `git commit --amend -s`.
 
 5. Submit a Pull Request.
 
-The labs stewards will then review your proposal.
+The labs stewards will then review your proposal. Like sponsors, stewards do not have a responsibility beyond this; ongoing work like contributing code or reviews is not tied to their role as stewards. In reviewing the proposal, the stewards make sure that the proposal is cogent and novel (in conception, proposed execution, or interested community).
 
 ## Bringing in an existing repository
 
@@ -47,8 +47,13 @@ repo with your sign-off.
 
 ## License requirement
 
-All Hyperledger software must be made available under an [Apache 2.0 license](LICENSE).
+All Hyperledger software must be made available under an [Apache 2.0
+license](LICENSE).
 This applies to Labs. Please, make sure to license all incoming code
-and new code accordingly.
+and new code accordingly, and ensure that all commits are made with
+proper sign-off so that no [DCO](https://developercertificate.org/)
+related issue is introduced.
 
+## Code of Conduct
 
+All Hyperledger community members must adhere to the [Code of Conduct](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct).
