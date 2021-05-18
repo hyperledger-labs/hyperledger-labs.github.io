@@ -3,9 +3,9 @@ YUI
 * Note: Japanese word to represent knot, join and connect
 
 # Short Description
-YUI is a project to achieve interoperability between multiple heterogeneous ledgers. The project provides modules and middleware for cross-chain communication as well as modules and tools for cross-chain application development, including an explorer to track status and events for cross-chain environment.
+YUI is a lab to achieve interoperability between multiple heterogeneous ledgers. YUI provides modules and middleware for cross-chain communication as well as modules and tools for cross-chain application development, including an explorer to track status and events for cross-chain environments.
 
-For cross-chain communication, the design of project is based on Inter Blockchain Communication (IBC) protocol by Cosmos project, with extensions to support various Hyperledger project.
+For cross-chain communication, the design of YUI is based on Inter Blockchain Communication (IBC) protocol by Cosmos project, with extensions to support various Hyperledger projects.
 
 Modules for cross-chain application development includes one that implements a protocol for atomic operations between ledgers, such as atomic swap of tokens.
 
@@ -23,7 +23,7 @@ In addition, we aim to apply the method not only to the permissioned chains, but
 This enables application developers to develop chain agnostic protocols.
 
 ### Support arbitrary data transfer and computation
-Developer can design and implement the specific protocol for its cross-chain application, not limited to token transfer use case.
+Developers can design and implement the specific protocol for its cross-chain application, not limited to token transfer use case.
 
 ### Avoid adding components that introduce additional trust (apart from individual blockchains)
 Introducing such components may decrease the level of security of a system as it would be bounded by the lowest component in the system.
@@ -69,10 +69,4 @@ Various software to support the development of cross-chain systems
 - https://github.com/datachainlab/ibc-solidity
 - https://github.com/datachainlab/corda-ibc
 
-
-# Contributors
-- https://github.com/storiumi
-- https://github.com/haifengxi
-- https://github.com/harrietcao
-- https://github.com/zhangyelong
-- https://github.com/HuLaTown
+<!--Contributors should be listed in maintainers.md -->
