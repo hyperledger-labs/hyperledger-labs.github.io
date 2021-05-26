@@ -31,7 +31,7 @@ The scope of this lab is to deliver the `Fabric Smart Client` (FSC, for short), 
 A `business process` is a collection of `related, structured activities` carried by `business parties` in which a specific sequence of steps serves a particular `business goal`. In other words, a business process is an `interactive protocol` among `business parties` each of which has its own `business view` (or simply `view`) of the process. A `view` is then the sequence of steps that a business party must execute to serve a particular `business goal`.
 FSC aims to offer a comfortable environment to build such interactive protocols backed by the Hyperledger Fabric blockchain.
 
-FSC will consist of multiple SDKs each of which provides a set of API and services that can be either used directly by FSC developers, to build their applications, or by other SDKs. A network node that runs the FSC stack is called `FSC node`. FSC nodes form an `FSC network` that will leave on a side of one or more Fabric networks.
+FSC will consist of multiple SDKs each of which provides a set of API and services that can be either used directly by FSC developers, to build their applications, or by other SDKs. A network node that runs the FSC stack is called `FSC node`. FSC nodes form an `FSC network` that will live on a side of one or more Fabric networks.
 
 These are the first two SDKs that will form the FSC backbone:
 - The `View SDK` is the core of FSC. It offers API and services to allow FSC nodes:
