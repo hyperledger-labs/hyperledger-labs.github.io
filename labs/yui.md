@@ -1,3 +1,8 @@
+---
+layout: default
+title: YUI
+parent: Labs
+---
 # Lab Name
 YUI
 * Note: Japanese word to represent knot, join and connect
