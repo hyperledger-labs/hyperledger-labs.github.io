@@ -30,13 +30,11 @@ For more Information see the current production documentation here: https://clou
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/ptippett
-- https://github.com/varad
-- https://github.com/dshuffman
-- ...
+- https://github.com/varadgit
+- https://github.com/dshuffma-ibm
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/enyeart  - Role King of HLF
+- https://github.com/enyeart  - Fabric Maintainer
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. N/A.
