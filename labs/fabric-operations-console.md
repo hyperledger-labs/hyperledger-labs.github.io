@@ -15,14 +15,14 @@ Hyperledger Fabric Management and Operations Console used in IBM's IBM Blockchai
 When coupled with GRPC web, the console provides the following high level function:
 
 - Ability to import and manage all Hyperledger Fabric Components from a single web console, no matter where they are located.
-- Maintain complete control over identities, ledger, and smart contracts.
-- Join Peers to Channels, view channel membership, individual transactions and channel details.
-- Register view, delete and re-enroll CA Users.
+- Maintain complete control over identities, channels, and smart contracts.
+- Join Peers to Channels and view channel membership as well as individual transactions and channel details.
+- Register, view, delete, and re-enroll CA Users.
 - View Ordering cluster and node information as well as view and modify consortium and channel membership.
-- View and modify channel capabilites and ordering service parmaters.
+- View and modify channel capabilites and ordering service parameters.
 - Install and Instantiate chaincode.  Supports both 1.x and 2.x Lifecycle.
 - View, Create, Import and Export Organizations and Identities.
-- Role Based Access Control in UI to tightly control which Console users can do what.
+- Role Based Access Control in UI to tightly control which Console users can perform which operations.
 
 For more Information see the current production documentation here: https://cloud.ibm.com/docs/blockchain-sw-252?topic=blockchain-sw-252-ibp-console-govern
 
