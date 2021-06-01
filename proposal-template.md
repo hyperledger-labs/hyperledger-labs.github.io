@@ -29,12 +29,12 @@ For more Information see the current production documentation here: https://clou
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
-- https://github.com/ptippett
-- https://github.com/varadgit
-- https://github.com/dshuffma-ibm
+- [Varad Ramamoorthy](https://github.com/varadgit)
+- [David Huffman](https://github.com/dshuffma-ibm)
+- [Paul Tippett](https://github.com/ptippett)
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/denyeart  - Fabric Maintainer
+- [Dave Enyeart](https://github.com/denyeart)  - Hyperledger TSC Member
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. N/A.
