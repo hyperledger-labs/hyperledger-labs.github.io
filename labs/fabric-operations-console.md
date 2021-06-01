@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fabric Operations Console
-[//]: "parent: Labs"
+parent: labs
 ---
 # Lab Name
 Fabric Operations Console
