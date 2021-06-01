@@ -35,6 +35,6 @@ _Enter the Github IDs for the set of initial committers._
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
-- https://github.com/enyeart  - Fabric Maintainer
+- https://github.com/denyeart  - Fabric Maintainer
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. N/A.
