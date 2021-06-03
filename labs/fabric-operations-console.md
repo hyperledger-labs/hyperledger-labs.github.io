@@ -7,10 +7,10 @@ parent: labs
 Fabric Operations Console
 
 # Short Description
-Hyperledger Fabric Operations Console code used in IBM's IBM Blockchain Platform Offering.
+Hyperledger Fabric Operations Console code used in the IBM Blockchain Platform Offering.
 
 # Scope of Lab
-Hyperledger Fabric Operations Console used in IBM's IBM Blockchain Platform Offering.
+Hyperledger Fabric Operations Console used in the IBM Blockchain Platform Offering.
 
 The console provides the following high level function:
 
@@ -24,7 +24,7 @@ The console provides the following high level function:
 - View, Create, Import and Export Organizations and Identities.
 - Role Based Access Control in UI to tightly control which Console users can perform which operations.
 
-The console relies on [GRPC web](https://grpc.io/docs/platforms/web/) to allow GRPC based communication with Orderers and Peers via Node.js.  Managmeent of Certificate Authorities is done via REST API so does not reqiure a GRPC Web Instance.
+The console relies on [GRPC web](https://grpc.io/docs/platforms/web/) to allow GRPC based communication with Orderers and Peers via Node.js.  Management of Certificate Authorities is done via REST API and does not require a GRPC Web Instance.
 
 For more Information see the [documentation for the current IBM production offerings](https://cloud.ibm.com/docs/blockchain-sw-252?topic=blockchain-sw-252-ibp-console-govern) which are driven by the code in this Lab proposal.
 
@@ -38,4 +38,4 @@ _Enter the Github IDs for the set of initial committers._
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
 - [Dave Enyeart](https://github.com/denyeart)  - Hyperledger TSC Member
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. N/A.
+  N/A.
