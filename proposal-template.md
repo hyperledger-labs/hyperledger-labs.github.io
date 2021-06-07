@@ -1,30 +1,25 @@
 ---
 layout: default
-title: FireFly
-parent: Labs
+title: Lab Proposal Document
+[//]: # (parent: Labs)
 ---
 # Lab Name
-FireFly
+_Enter the name of your lab here._
+_Change line 3 of this file to reflect the short name of your project._
+_Change line 4 to read: "parent: Labs"_
 
 # Short Description
-FireFly is a multiparty system for enterprise data flows, powered by blockchain.
+_Provide a short description of your lab. This will be used for the Github repository's description._
 
 # Scope of Lab
-FireFly is designed to make building blockchain apps quick and easy, by allowing developers to focus on business logic, instead of infrastructure and cryptography. Enterprise use cases often require a mix of off-chain and on-chain activities to implement a use case end-to-end. FireFly provides a set of pre-integrated runtimes and an API to build event-driven, multi-party applications with a combination of off-chain data flows and on-chain transactions.
-
-FireFly is designed to be completely modular, allowing components at each layer to be swapped out for a different implementation, including the messaging system, the database, and even the blockchain itself.
-
+_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
 
 # Initial Committers
-- https://github.com/peterbroadhurst
-- https://github.com/nguyer
-- https://github.com/gabriel-indik
-- https://github.com/shorsher
-- https://github.com/awrichar
+_Enter the Github IDs for the set of initial committers._
+- https://github.com/<user_id1>
+- https://github.com/<user_id2>
+- ...
 
-# Pre-existing repositories
-- https://github.com/kaleido-io/firefly
-- https://github.com/kaleido-io/firefly-cli
-- https://github.com/kaleido-io/firefly-ui
-- https://github.com/kaleido-io/ethconnect
-- https://github.com/kaleido-io/firefly-dataexchange-https
+# Pre-existing repository
+_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
+- https://github.com/<your_repo>
