@@ -10,7 +10,7 @@ Hyperledger Fabric Operator for Kubernetes
 Manage Hyperledger Fabric components at scale with a Kubernetes Operator.
 
 # Scope of Lab
-There's a gap to deploy a Hyperledger Fabric network in Kubernetes, this project automates to automate the deployment.
+I think there's a gap to deploy a Hyperledger Fabric network in Kubernetes, this project automates to automate the deployment.
 
 The work will be focused on automating the creation of peers, orderers and CAs.
 
