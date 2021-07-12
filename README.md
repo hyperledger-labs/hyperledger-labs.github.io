@@ -16,8 +16,8 @@ the same name so keep that in mind.
 
 3. In the Proposal Template, there is an entry for sponsor(s). Although not required, proposers are encouraged to seek a sponsor who can help them create ties with the rest of the Hyperledger community and ensure that the proposal is cogent and novel (in conception, proposed execution, or interested community).<br/>
 To find sponsors:
-        a) use your connections to existing projects and ask maintainers,
-        b) find working groups or projects with affinities to the proposed lab and pitch the project (good to have the template already filled out) in associated channels and/or mailing lists. The WG chairs emails, the maintainers contacts etc can be found on the wiki or github. Make personal appeals if you can. Every repository contains a MAINTAINERS file that lists the current maintainers with their contact information and you can reach them all by posting to the [Maintainers list](https://lists.hyperledger.org/g/maintainers).
+   1. use your connections to existing projects and ask maintainers,
+   2. find working groups or projects with affinities to the proposed lab and pitch the project (good to have the template already filled out) in associated channels and/or mailing lists. The WG chairs emails, the maintainers contacts etc can be found on the wiki or github. Make personal appeals if you can. Every repository contains a MAINTAINERS file that lists the current maintainers with their contact information and you can reach them all by posting to the [Maintainers list](https://lists.hyperledger.org/g/maintainers).
 
 4. Commit your changes with proper sign-off. This means that your commit
 log message must contain a line that looks like the following one,
@@ -39,10 +39,10 @@ By default the Lab stewards will create a new repository for you to
 start from but if you have an existing github repo you would like to
 bring to your proposed lab you have the option to request for that
 repo to be reused instead. This is however only possible if every
-commit in your existing repo is signed-off so there is no 
-[DCO](https://developercertificate.org/) related issues. If that is 
-not the case, you will need to bring your code by squashing all of 
-your commits into a single first commit made against your new lab 
+commit in your existing repo is signed-off so there is no
+[DCO](https://developercertificate.org/) related issues. If that is
+not the case, you will need to bring your code by squashing all of
+your commits into a single first commit made against your new lab
 repo with your sign-off.
 
 ## License requirement
@@ -56,4 +56,5 @@ related issue is introduced.
 
 ## Code of Conduct
 
-All Hyperledger community members must adhere to the [Code of Conduct](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct).
+All Hyperledger community members must adhere to the
+[Code of Conduct](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct).
