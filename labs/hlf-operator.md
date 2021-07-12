@@ -10,11 +10,11 @@ Hyperledger Fabric Operator for Kubernetes
 Manage Hyperledger Fabric components at scale with a Kubernetes Operator.
 
 # Scope of Lab
-I think there's a gap to deploy a Hyperledger Fabric network in Kubernetes, this project automates to automate the deployment.
+There is a gap in the Hyperledger Fabric network deployment on Kubernetes. The proposal is to automate the deployment using the concept of Kubernetes Operators.
 
 The work will be focused on automating the creation of peers, orderers and CAs.
 
-I have some ideas I would like to share such as developing a User Interface, and I think this could be integrated natively with the [fabric-operations-console](https://github.com/hyperledger-labs/fabric-operations-console) which was recently released.
+The proposal is for the deployment of a Hyperledger Fabric network on Kubernetes. This proposal can be integrated natively with the [fabric-operations-console](https://github.com/hyperledger-labs/fabric-operations-console) which was recently released.
 
 # Initial Committers
 Github IDs for the set of initial committers.
@@ -22,7 +22,7 @@ Github IDs for the set of initial committers.
 - https://github.com/dviejokfs
 
 # Sponsor
-- https://github.com/dviejopomata
+No sponsors
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
