@@ -4,7 +4,7 @@ title: Besu Operator
 parent: Labs
 ---
 # Lab Name
-Besu Operator
+[Besu Operator](https://github.com/hyperledger-labs/besu-operator)
 
 # Short Description
 Kubernetes operator to provide an easier way of packaging, deploying, and managing Hyperledger Besu network.

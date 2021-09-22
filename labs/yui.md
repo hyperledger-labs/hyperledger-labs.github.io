@@ -4,7 +4,8 @@ title: YUI
 parent: Labs
 ---
 # Lab Name
-YUI
+[YUI](https://github.com/hyperledger-labs/yui-relayer)
+
 * Note: Japanese word to represent knot, join and connect
 
 # Short Description

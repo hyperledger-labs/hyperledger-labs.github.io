@@ -4,7 +4,7 @@ title: University Course Fabric
 parent: Labs
 ---
 # Lab Name
-University Course Fabric 
+[University Course Fabric](https://github.com/hyperledger-labs/university-course)
 
 # Short Description
 Build a university course on Hyperledger technologies, with emphasis on Hyperledger Fabric.

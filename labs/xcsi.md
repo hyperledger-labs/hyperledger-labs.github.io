@@ -4,7 +4,7 @@ title: xcsi
 parent: Labs
 ---
 # Lab Name
-xcsi
+[xcsi](https://github.com/hyperledger-labs/xcsi)
 
 # Short Description
 Cross chain settlement instruction

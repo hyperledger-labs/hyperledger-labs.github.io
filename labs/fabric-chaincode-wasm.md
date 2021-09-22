@@ -4,7 +4,7 @@ title: Hyperledger Fabric WebAssembly chaincode
 parent: Labs
 ---
 # Lab Name
-Hyperledger Fabric WebAssembly chaincode
+[Hyperledger Fabric WebAssembly chaincode](https://github.com/hyperledger-labs/fabric-chaincode-wasm)
 
 # Short Description
 The project aims to integrate WebAssembly in Hyperledger Fabric, which will give chaincode developers a wider variety of languages to choose from when constructing their smart contracts.

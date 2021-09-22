@@ -4,7 +4,7 @@ title: solang
 parent: Labs
 ---
 # Lab Name
-solang
+[solang](https://github.com/hyperledger-labs/solang)
 
 # Short Description
 A Solidity to wasm compiler written in rust 

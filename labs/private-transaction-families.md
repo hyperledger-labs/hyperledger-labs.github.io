@@ -4,7 +4,7 @@ title: private-transaction-families
 parent: Labs
 ---
 # Lab Name
-private-transaction-families
+[private-transaction-families](https://github.com/hyperledger-labs/private-transaction-families)
 
 # Short Description
 

@@ -4,7 +4,7 @@ title: Avalon SDK Python
 parent: Labs
 ---
 # Lab Name
-avalon-sdk-py
+[avalon-sdk-py](https://github.com/hyperledger-labs/avalon-sdk-py)
 
 # Short Description
 avalon-sdk-py is the Python SDK for Hyperleder Avalon.

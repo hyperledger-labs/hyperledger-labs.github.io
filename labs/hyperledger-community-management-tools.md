@@ -4,7 +4,7 @@ title: Hyperledger Community Management Tools
 parent: Labs
 ---
 # Lab Name
-Hyperledger Community Management Tools
+[Hyperledger Community Management Tools](https://github.com/hyperledger-labs/hyperledger-community-management-tools)
 
 # Short Description
 Hyperledger Community Management Tools

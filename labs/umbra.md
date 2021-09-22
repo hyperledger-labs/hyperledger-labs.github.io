@@ -4,7 +4,7 @@ title: Umbra
 parent: Labs
 ---
 # Lab Name
-Umbra
+[Umbra](https://github.com/hyperledger-labs/umbra)
 
 # Short Description
 This lab is to make running Hyperledger distributed ledgers under the

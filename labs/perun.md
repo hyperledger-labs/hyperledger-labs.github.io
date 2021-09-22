@@ -4,7 +4,7 @@ title: Perun
 parent: Labs
 ---
 # Lab Name
-Perun
+[Perun](https://github.com/hyperledger-labs/go-perun)
 
 # Short Description
 

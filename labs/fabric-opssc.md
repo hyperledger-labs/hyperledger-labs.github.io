@@ -4,7 +4,7 @@ title: Operations Smart Contract for Hyperledger Fabric
 parent: Labs
 ---
 # Lab Name
-Operations Smart Contract for Hyperledger Fabric
+[Operations Smart Contract for Hyperledger Fabric](https://github.com/hyperledger-labs/fabric-opssc)
 
 # Short Description
 Operations Smart Contract (OpsSC) is a smart contract-based system operation tool for Hyperledger Fabric-based systems,

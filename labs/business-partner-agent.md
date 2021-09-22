@@ -4,7 +4,7 @@ title: Business Partner Agent
 parent: Labs
 ---
 # Lab Name
-Business Partner Agent
+[Business Partner Agent](https://github.com/hyperledger-labs/business-partner-agent)
 
 # Short Description
 The Business Partner Agent allows to manage and exchange master data between organizations.

@@ -4,7 +4,7 @@ title: Keyhole Fabric API Gateway
 parent: Labs
 ---
 # Lab Name
-Keyhole Fabric API Gateway
+[Keyhole Fabric API Gateway](https://github.com/hyperledger-labs/keyhole-fabric-api-gateway)
 
 # Short Description
 Enables client access to Hyperledger Fabric blockchain network through RESTful API's.

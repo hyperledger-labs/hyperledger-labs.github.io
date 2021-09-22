@@ -5,7 +5,7 @@ parent: Labs
 ---
 
 # Lab Name
-_HL Starter Kit_
+[HL Starter Kit](https://github.com/hyperledger-labs/HL-StarterKit)
 
 # Short Description
 

@@ -4,7 +4,7 @@ title: Modern Pharmacy Management
 parent: Labs
 ---
 # Lab Name
-Modern Pharmacy Management
+[Modern Pharmacy Management](https://github.com/hyperledger-labs/modern-pharmacy-management)
 
 # Short Description
 This Lab will focus on leveraging blockchain to transform and modernize prescriptions management by enabling flexibility and managing fraud.

@@ -4,7 +4,7 @@ title: FireFly
 parent: Labs
 ---
 # Lab Name
-FireFly
+[FireFly](https://github.com/hyperledger-labs/firefly)
 
 # Short Description
 FireFly is a multiparty system for enterprise data flows, powered by blockchain.

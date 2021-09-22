@@ -4,7 +4,7 @@ title: dancap
 parent: Labs
 ---
 # Lab Name
-dancap
+[dancap](https://github.com/hyperledger-labs/dancap)
 
 # Short Description
 A lab for exploring trusted execution attestation API and deployment options for Hyperledger Avalon.

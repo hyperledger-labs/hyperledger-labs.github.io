@@ -4,7 +4,7 @@ title: Pluggable Hedera Consensus Service
 parent: Labs
 ---
 # Lab Name
-Pluggable Hedera Consensus Service
+[Pluggable Hedera Consensus Service](https://github.com/hyperledger-labs/pluggable-hcs)
 
 # Short Description
 The Pluggable HCS Lab demonstrates the ability of a Hyperledger Fabric network to connect to the Hedera Consensus Service running on a publicly accessible testnet.

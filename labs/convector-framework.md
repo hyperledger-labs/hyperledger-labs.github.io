@@ -4,7 +4,7 @@ title: Convector Framework
 parent: Labs
 ---
 # Lab Name
-Convector Framework
+[Convector Framework](https://github.com/hyperledger-labs/convector)
 
 # Short Description
 Convector is a Model/Controller fullstack JavaScript framework to improve and speed up the development experience of clean, scalable and robust Smart Contract Systems. The developer focuses on the EDApps (Enterprise Decentralized Applications) and contractual relationships of participants rather than in lower level blockchain details.

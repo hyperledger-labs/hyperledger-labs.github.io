@@ -4,7 +4,7 @@ title: Fabex
 parent: Labs
 ---
 # Lab Name
-Fabex
+[Fabex](https://github.com/hyperledger-labs/fabex)
 
 # Short Description
 The aim of this tool is to provide microservice which augments and index the ledger of Hyperledger Fabric and to provide additional set of complex queries APIs to extract provenance information out of the ledger.

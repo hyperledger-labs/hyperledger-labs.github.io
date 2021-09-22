@@ -4,7 +4,7 @@ title: Hyperledger Fabric Based Access Control
 parent: Labs
 ---
 # Lab Name
-Hyperledger Fabric Based Access Control
+[Hyperledger Fabric Based Access Control](https://github.com/hyperledger-labs/hyperledger-fabric-based-access-control)
 
 # Short Description
 A Hyperledger Fabric Based Access Control system to mediate access control flow from centralized applications.

@@ -4,7 +4,7 @@ title: Blockchain Verifier
 parent: Labs
 ---
 # Lab Name
-Blockchain Verifier
+[Blockchain Verifier](https://github.com/hyperledger-labs/blockchain-verifier)
 
 # Short Description
 A tool to check and verify the integrity of ledgers and the correctness of smart contracts

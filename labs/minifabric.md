@@ -4,7 +4,7 @@ title: Minifabric
 parent: Labs
 ---
 # Lab Name
-Minifabric
+[Minifabric](https://github.com/hyperledger-labs/minifabric)
 
 # Short Description
 Minifabric is a deployment, development, administration and learning tool for people who

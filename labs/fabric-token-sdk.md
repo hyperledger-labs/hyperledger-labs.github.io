@@ -5,7 +5,7 @@ parent: Labs
 ---
 # Lab Name
 
-Hyperledger Fabric Token SDK
+[Hyperledger Fabric Token SDK](https://github.com/hyperledger-labs/fabric-token-sdk)
 
 # Short Description
 

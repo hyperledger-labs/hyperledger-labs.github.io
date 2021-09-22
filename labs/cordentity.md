@@ -4,7 +4,7 @@ title: Cordentity
 parent: Labs
 ---
 # Lab Name
-Cordentity
+[Cordentity](https://github.com/hyperledger-labs/cordentity)
 
 # Short Description
 The Cordentity app integrates Indy capabilities into the Corda platform.

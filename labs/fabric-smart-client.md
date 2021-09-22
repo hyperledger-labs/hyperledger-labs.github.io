@@ -5,7 +5,7 @@ parent: Labs
 ---
 # Lab Name
 
-Hyperledger Fabric Smart Client
+[Hyperledger Fabric Smart Client](https://github.com/hyperledger-labs/fabric-smart-client)
 
 # Short Description
 

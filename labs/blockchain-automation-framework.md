@@ -4,7 +4,7 @@ title: Blockchain Automation Framework
 parent: Labs
 ---
 # Lab Name
-Blockchain Automation Framework
+[Blockchain Automation Framework](https://github.com/hyperledger-labs/blockchain-automation-framework)
 
 # Short Description
 An automation framework for rapidly and consistently deploying production-ready DLT platforms

@@ -5,7 +5,7 @@ parent: Labs
 ---
 # Lab Name
 
-Mir-BFT
+[Mir-BFT](https://github.com/hyperledger-labs/mirbft)
 
 # Short Description
 

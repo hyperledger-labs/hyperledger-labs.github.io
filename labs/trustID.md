@@ -4,7 +4,7 @@ title: TrustID
 parent: Labs
 ---
 # Lab Name
-TrustID
+[TrustID](https://github.com/hyperledger-labs/trustid)
 
 # Short Description
 Decentralized Identity solution compatible with different Hyperledger platforms.

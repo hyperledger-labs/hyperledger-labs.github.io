@@ -4,7 +4,7 @@ title: Blockchain Carbon Accounting
 parent: Labs
 ---
 # Lab Name
-blockchain-carbon-accounting
+[blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)
 
 # Short Description
 CO2 emissions accounting calculations using Hyperledger Fabric 

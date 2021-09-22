@@ -4,7 +4,7 @@ title: Private Data Objects
 parent: Labs
 ---
 # Lab Name
-Private Data Objects
+[Private Data Objects](https://github.com/hyperledger-labs/private-data-objects)
 
 # Short Description
 

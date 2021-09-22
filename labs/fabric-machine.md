@@ -4,7 +4,7 @@ title: Fabric Machine
 parent: Labs
 ---
 # Lab Name
-Fabric Machine
+[Fabric Machine](https://github.com/hyperledger-labs/fabric-machine)
 
 # Short Description
 FPGA-based hardware acceleration for Hyperledger Fabric

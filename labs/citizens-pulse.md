@@ -4,7 +4,7 @@ title: Citizens Pulse
 parent: Labs
 ---
 # Lab Name
-Citizens Pulse
+[Citizens Pulse](https://github.com/hyperledger-labs/citizens-pulse)
 
 # Short Description
 

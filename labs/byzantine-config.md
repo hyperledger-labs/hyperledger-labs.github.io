@@ -4,7 +4,7 @@ title: Byzantine-Config
 parent: Labs
 ---
 # Lab Name
-_Byzantine-Config_
+[Byzantine-Config](https://github.com/hyperledger-labs/byzantine-config)
 
 # Short Description
 _GUI based executable application that allows Hyperledger Fabric (HLF) configuration blocks to be viewed and updated transactions created for channel configuration, adding new organizations, and generating crypto material._

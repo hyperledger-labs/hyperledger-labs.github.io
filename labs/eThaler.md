@@ -4,7 +4,7 @@ title: eThaler
 parent: Labs
 ---
 # Lab Name
-eThaler
+[eThaler](https://github.com/hyperledger-labs/eThaler)
 
 # Short Description
 Model a sample CBDC  in TTF and implement in Besu   

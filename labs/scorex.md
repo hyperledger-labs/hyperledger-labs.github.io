@@ -4,7 +4,7 @@ title: ScoreX
 parent: Labs
 ---
 # Lab Name
-ScoreX
+[ScoreX](https://github.com/hyperledger-labs/scorex)
 
 # Short Description
 

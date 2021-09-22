@@ -4,7 +4,7 @@ title: MinBFT
 parent: Labs
 ---
 # Lab Name
-MinBFT
+[MinBFT](https://github.com/hyperledger-labs/minbft)
 
 # Short Description
 

@@ -4,7 +4,7 @@ title: PubSub Interop
 parent: Labs
 ---
 # Lab Name
-PubSub Interop
+[PubSub Interop](https://github.com/hyperledger-labs/pubsub-interop)
 
 # Short Description
 A blockchain interoperability solution for permissioned blockchain networks based on a publish/subscribe pattern.
