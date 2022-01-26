@@ -17,7 +17,7 @@ _Enter the scope of the lab. This should include enough information to allow the
 ## Overall
 As the picture above, it uses kubernetes(as kind) as infrastructure, integrated with monitoring and open tracing(or say open telemetry).
 - It supports user deploy a target network(as test-network for asset transform for Fabric), or called as SUT(system under test).
-- It supports any traffic generator as Tape for Hyperledger Fabric, keep sending traffic to the traget network/SUT.
+- It supports any traffic generator such as Tape for Hyperledger Fabric, keep sending traffic to the target network/SUT.
 Performance researcher able to use this project to do research with steps below:
 1. Start sanbox with k8s integrated with monitoring and open telemetry
 1. Deploy the SUT onto k8s infrastructure.
