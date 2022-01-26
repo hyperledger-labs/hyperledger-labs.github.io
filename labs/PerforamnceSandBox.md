@@ -25,7 +25,7 @@ Performance researcher able to use this project to do research with steps below:
 1. Monitoring and Analyzing test result from Dash board/open telemetry result.
 1. Changes local source code(for ex Fabric), make local docker image and redeploy the SUT.
 
-It will extend existing PSWG published parper with monitoring and open telemetry. As the right side in the above figure, we can see the perforamnce test model puslished in perviously by PSWG, with SUT, traffic generator and observers.
+It will extend existing PSWG published paper with monitoring and open telemetry. As the right side in the above figure, we can see the performance test model published in previously by PSWG, with SUT, traffic generator and observers.
 
 ## Flexible is considered and discussed:
 - Migration from Kind to other k8s platform. In this project, we will use k8s as infrastructure, hence it is easy to migrate to any other k8s based infrastructure.
