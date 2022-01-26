@@ -49,7 +49,7 @@ It will extend existing PSWG published parper with monitoring and open telemetry
 # Pre-existing repository
 N/A
 
-So far the code a in some local branch, so it is not applied with repo transfer.
+So far the code is in some local branch, so it is not applied with repo transfer.
 For POC demo, please ref link below:
 https://www.bilibili.com/video/BV1d3411s7vq/
 
