@@ -33,7 +33,7 @@ It will extend existing PSWG published paper with monitoring and open telemetry.
 - Traffic generator, so far deployed demo with Tape, as it is k8s development. It can be replaced with Caliper or Jmeter. Tape is a sample performance tool for Hyperledger Fabric without SDK(close to blockchain network itself). Caliper is based on Hyperledger Fabric SDK(more close to application level). For Jmeter, assuming you expose RESTFUL endpoint to enduser. You may need use Jmeter to create traffic as end to end performance research.
 - Size of SUT, you are able to scale the size for SUT, as it is blockchain based on k8s.
 
-## Summary scope of this project
+## Summary scope of this lab
 - [ ] Start kind with monitoring system.
 - [ ] Dashboard for monitoring system.
 - [ ] Deploy SUT.
