@@ -7,7 +7,7 @@ parent: Labs
 PerformanceSandBox
 
 # Short Description
-The Performance Sandbox Project is a Sandbox project for Hyperledger Projects Performance research usage. It allows easy use of performance related works with this sandbox project.
+The Performance Sandbox is a Sandbox for Hyperledger Projects Performance research usage. It allows easy use of performance related works with this sandbox lab.
 
 # Scope of Lab
 _Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
