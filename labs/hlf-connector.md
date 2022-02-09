@@ -10,7 +10,7 @@ Hyperledger Fabric Connector
 Integrate with Hyperledger Fabric using REST and Kafka and Block and Chaincode Event emitter.
 
 # Scope of Lab
-This component is design to integrate Hyperledger Fabric with enterprise systems using REST and Kafka messaging (Including Azure EventHub) with support for PDC and Transient.
+This component is designed to integrate Hyperledger Fabric with enterprise systems using REST and Kafka messaging (Including Azure EventHub) with support for PDC and Transient.
 
 This component will involve both tranactional (like data ingestion) and administration (like channel update) related features.
 
@@ -18,7 +18,7 @@ This component will involve both tranactional (like data ingestion) and administ
 Github IDs for the set of initial committers.
 - https://github.com/anandbanik
 - https://github.com/jopuneet
-- ...
+
 
 # Sponsor
 
