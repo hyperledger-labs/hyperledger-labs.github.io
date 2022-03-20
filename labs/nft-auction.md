@@ -1,13 +1,13 @@
 ---
 layout: default
-title: nft-auction
+title: NFT Auction App
 parent: Labs
 ---
 # Lab Name
-NFT Auction App on Hyperledger Fabric
+nft-auction
 
 # Short Description
-NFT Auction application lets user to create NFTs and auction them off to other users in a marketplace model
+NFT Auction application lets user to create NFTs and auction them off to other users in a marketplace model using Hyperledger Fabric
 
 # Scope of Lab
 This lab uses hyperledger fabric as the underlying ledger technology to create a auction market. This helps the developer to vizualize how the NFT concept can be extended to private blockchains like Hyperledger Fabric
