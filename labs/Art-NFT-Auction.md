@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ArtNFTAuction
-[]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Art NFT Auction App on Hyperledger Fabric
@@ -16,7 +16,6 @@ The application uses Hyperledger 2.X version in its current form
 # Initial Committers
 - https://github.com/sahinul-haque
 - https://github.com/DilipManjunatha
-- https://github.com/pks85uee
 
 # Sponsor
 
