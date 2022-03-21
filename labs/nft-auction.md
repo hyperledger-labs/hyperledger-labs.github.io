@@ -4,7 +4,7 @@ title: NFT Auction App
 parent: Labs
 ---
 # Lab Name
-nft-auction
+[nft-auction](https://github.com/hyperledger-labs/nft-auction)
 
 # Short Description
 NFT Auction application lets user to create NFTs and auction them off to other users in a marketplace model using Hyperledger Fabric
