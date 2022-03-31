@@ -24,7 +24,7 @@ https://github.com/kkanish/
 
 # Sponsor
 Sandy Aggarwal (sandy.aggarwal.apps@gmail.com)
-Role: MESIG-GAMING Lead
+Role: MESIG-GAMING Lead 
 
 # Pre-existing repository
 None, but will be checking in new code wih proper dco sign-off
