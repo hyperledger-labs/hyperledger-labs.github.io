@@ -18,7 +18,6 @@ https://wiki.hyperledger.org/display/MESIG/MESIG+-+Gaming+Subgroup
 https://wiki.hyperledger.org/display/MESIG/MESIG-Gaming%3A+Develop+a+Prototype+Game
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
 https://github.com/sandywalls
 https://github.com/kkanish/
 - ...
