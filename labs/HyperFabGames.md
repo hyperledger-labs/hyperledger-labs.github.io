@@ -20,7 +20,6 @@ https://wiki.hyperledger.org/display/MESIG/MESIG-Gaming%3A+Develop+a+Prototype+G
 # Initial Committers
 https://github.com/sandywalls
 https://github.com/kkanish/
-- ...
 
 # Sponsor
 Sandy Aggarwal (sandy.aggarwal.apps@gmail.com)
