@@ -1,3 +1,8 @@
+---
+layout: default
+title: Aries Wrapper For Fabric
+parent: Labs
+---
 # Aries Wrapper For Fabric
 
 # Description
