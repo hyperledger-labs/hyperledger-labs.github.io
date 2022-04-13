@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PubSub Interop
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [PubSub Interop](https://github.com/hyperledger-labs/pubsub-interop)

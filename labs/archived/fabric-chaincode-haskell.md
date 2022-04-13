@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Fabric Haskell Chaincode
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Hyperledger Fabric Haskell Chaincode](https://github.com/hyperledger-labs/fabric-chaincode-haskell)

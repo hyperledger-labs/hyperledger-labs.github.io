@@ -1,7 +1,7 @@
 ---
 layout: default
 title: xcsi
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [xcsi](https://github.com/hyperledger-labs/xcsi)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Fabric WebAssembly chaincode
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Hyperledger Fabric WebAssembly chaincode](https://github.com/hyperledger-labs/fabric-chaincode-wasm)

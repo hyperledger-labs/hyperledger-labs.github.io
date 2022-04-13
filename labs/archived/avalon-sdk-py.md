@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avalon SDK Python
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [avalon-sdk-py](https://github.com/hyperledger-labs/avalon-sdk-py)

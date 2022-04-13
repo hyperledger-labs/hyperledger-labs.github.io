@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Besu Operator
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Besu Operator](https://github.com/hyperledger-labs/besu-operator)

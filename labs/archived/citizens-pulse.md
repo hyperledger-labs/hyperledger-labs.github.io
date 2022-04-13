@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Citizens Pulse
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Citizens Pulse](https://github.com/hyperledger-labs/citizens-pulse)
@@ -32,7 +32,7 @@ Combination of Private data implicit collections/Key-level endorsement policies 
 
 ### Overview
 
-![alt text](./images/citizens-pulse/citizens-pulse-architecture.png)
+![alt text](../images/citizens-pulse/citizens-pulse-architecture.png)
 
 ## High-level workflow:
 
@@ -47,11 +47,11 @@ Combination of Private data implicit collections/Key-level endorsement policies 
 
 ## Web User Interface
 
-![alt text](./images/citizens-pulse/citizens-pulse-web-demo.gif)
+![alt text](../images/citizens-pulse/citizens-pulse-web-demo.gif)
 
 ## Mobile Interface
 
-<img src="./images/citizens-pulse/citizens-pulse-mob1.png" width="250"/> <img src="./images/citizens-pulse/citizens-pulse-mob2.png" width="250"/> <img src="./images/citizens-pulse/citizens-pulse-mob3.png" width="250"/>
+<img src="../images/citizens-pulse/citizens-pulse-mob1.png" width="250"/> <img src="../images/citizens-pulse/citizens-pulse-mob2.png" width="250"/> <img src="../images/citizens-pulse/citizens-pulse-mob3.png" width="250"/>
 
 # Initial Committers
 

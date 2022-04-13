@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blockchain Automation Framework
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Blockchain Automation Framework](https://github.com/hyperledger-labs/blockchain-automation-framework)
@@ -12,7 +12,7 @@ An automation framework for rapidly and consistently deploying production-ready 
 # Scope of Lab
 Blockchain Automation Framework delivers an automation framework for rapidly and consistently deploying production-ready DLT platforms to cloud infrastructure.
 
-![What is Blockchain Automation Framework?](./images/blockchain-automation-framework-overview.png "What is Blockchain Automation Framework?")
+![What is Blockchain Automation Framework?](../images/blockchain-automation-framework-overview.png "What is Blockchain Automation Framework?")
 
 Blockchain Automation Framework makes use of Ansible, Helm, and Kubernetes to deploy production DLT networks. Specifically, it makes use of Ansible for configuration of the network by DevOps Engineers. It then uses Helm charts as instructions for deploying the necessary components to Kubernetes. Kubernetes was chosen to allow for Blockchain Automation Framework to deploy the DLT networks to any cloud that supports Kubernetes.
 
@@ -21,12 +21,12 @@ Blockchain Automation Framework initially supports Hyperledger Fabric and Corda.
 ## Hyperledger Fabric
 For Hyperledger Fabric, we use the official Docker containers provided by that project. A number of different Ansible scripts will allow you to either create a new network (across clouds) or join an existing network.
 
-![Blockchain Automation Framework - Fabric](./images/blockchain-automation-framework-fabric.png "Blockchain Automation Framework for Hyperledger Fabric")
+![Blockchain Automation Framework - Fabric](../images/blockchain-automation-framework-fabric.png "Blockchain Automation Framework for Hyperledger Fabric")
 
 ## Corda
 For Corda, we build Docker containers from the Corda source. A number of different Ansible scripts will allow you to either create a new network (across clouds) or join an existing network.
 
-![Blockchain Automation Framework - Corda](./images/blockchain-automation-framework-corda.png "Blockchain Automation Framework for Corda")
+![Blockchain Automation Framework - Corda](../images/blockchain-automation-framework-corda.png "Blockchain Automation Framework for Corda")
 
 # Initial Committers
 - [tkuhrt](https://github.com/tkuhrt)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nephos
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 Nephos

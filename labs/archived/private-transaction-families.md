@@ -1,7 +1,7 @@
 ---
 layout: default
 title: private-transaction-families
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [private-transaction-families](https://github.com/hyperledger-labs/private-transaction-families)
