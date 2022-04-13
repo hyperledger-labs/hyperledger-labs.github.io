@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Fabric Block Archiving
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Hyperledger Fabric Block Archiving](https://github.com/hyperledger-labs/fabric-block-archiving)

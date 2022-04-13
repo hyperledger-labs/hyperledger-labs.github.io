@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modern Pharmacy Management
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Modern Pharmacy Management](https://github.com/hyperledger-labs/modern-pharmacy-management)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Byzantine-Config
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Byzantine-Config](https://github.com/hyperledger-labs/byzantine-config)

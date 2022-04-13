@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Fabric Based Access Control
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Hyperledger Fabric Based Access Control](https://github.com/hyperledger-labs/hyperledger-fabric-based-access-control)

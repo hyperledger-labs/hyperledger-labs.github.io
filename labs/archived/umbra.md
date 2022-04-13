@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Umbra
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Umbra](https://github.com/hyperledger-labs/umbra)

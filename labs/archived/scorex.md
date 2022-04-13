@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ScoreX
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [ScoreX](https://github.com/hyperledger-labs/scorex)

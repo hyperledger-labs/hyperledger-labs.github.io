@@ -1,7 +1,7 @@
 ---
 layout: default
 title: eThaler
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [eThaler](https://github.com/hyperledger-labs/eThaler)

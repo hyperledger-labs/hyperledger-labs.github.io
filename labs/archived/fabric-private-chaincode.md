@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Fabric Private Chaincode
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 Hyperledger Fabric Private Chaincode 
