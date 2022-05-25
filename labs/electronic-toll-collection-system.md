@@ -14,6 +14,12 @@ Derived from the current technical situation, the development of an interface ca
 
 In order to comply with transparency in the transactions carried out and if it is necessary to request information directly from the private network to reconcile information that the regulatory entity may question, where the HyperLedger Fabric blockchain will be its main source of information, NEAR blockchain will be used to public for the issuance of delivery official document receipt and receive of requested information, generating document as NFT, and can be used as unique proof, using IPFS as a file storage system, where in the same way the integrity of the generated document can be protected.
 
+The government information is very sensible, and the message ETC is a root information to create invoice where federal institutions receive incomes and after they need to make a payments to operators companies by services of leasing from IoT devices, and adminstration payments too.
+
+As we can see, ETC message is very important to make concilian information to differents participants with some confusions about charges made or authorities whom receive incomes from differents operators companies.
+
+Hyperledger fabric has a important role to keep and save information with principal objective message ETC, acomplish with this, inmutability, integrity and to government and some private companies, they can have control about their own information.
+
 With the foregoing, the acquisition of the NEAR Token by the client is determined to carry out requests to extract information directly from the private blockchain, said fee will be to meet transaction expenses for the creation of receipt delivery receipt; a web portal will be created where the transfer of funds can be made, which will be able to interact with the smart contract developed in NEAR.
 
 Once the transfer of funds for the acquisition of information from the company/operator, a temporary channel will be created that will expose the corresponding information of the applicant, said information extracted from the private blockchain network.
