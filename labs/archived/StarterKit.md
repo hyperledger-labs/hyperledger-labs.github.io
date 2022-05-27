@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HL Starter Kit
-parent: Labs
+parent: Archived Labs
 ---
 
 # Lab Name

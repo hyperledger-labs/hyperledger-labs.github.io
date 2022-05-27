@@ -45,6 +45,13 @@ not the case, you will need to bring your code by squashing all of
 your commits into a single first commit made against your new lab
 repo with your sign-off.
 
+
+## Archiving
+
+Stewards are responsible for curating the set of labs, archiving (see below) those that become dormant or unresponsive for an extended period (3+ months), or are explicitly deemed by the committers to be deprecated/obsoleted.
+
+Deprecated, obsoleted, or dormant labs (as defined above) [will be marked as "archived" in GitHub](https://github.com/hyperledger-archives/iroha-scala/blob/ec206117d2bea6bdb73d14c35bc46092f82ebb3f/.github/settings.yaml#L8); that signifies that the lab is no longer maintained. Archived labs are read-only, and they can be moved back out of the [archives](https://github.com/hyperledger-labs/hyperledger-labs.github.io/tree/main/labs/archived), if there is interest in reviving them.
+
 ## License requirement
 
 All Hyperledger software must be made available under an [Apache 2.0

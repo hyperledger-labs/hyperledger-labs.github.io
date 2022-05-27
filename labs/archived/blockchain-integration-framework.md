@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blockchain Integration Framework
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 Blockchain Integration Framework
@@ -27,7 +27,7 @@ This lab project proposes an alternative to these models, and it is designed spe
 ## How Does It Work?
 Blockchain Integration Framework introduces an “interoperability validator” overlay network for each of the interoperable blockchains. Interoperability validators are known or broadly discoverable by the ecosystem and are typically participants already taking part in the governance or consensus. Interoperability validators will collectively handle export requests from local nodes by verifying against their version of the ledger (steps 1 to 3). Each request is answered by a (configurable) minimum quorum of validator signatures necessary or rejected as fast as possible (steps 4 and 5). The network can continue working even if some of the validators are down, or not participating, but assuming the minimum quorum can be guaranteed. Messages certified by a distributed ledger’s transfer validators can be delivered by any secure off-chain communication system (step 6). A proof coming from a foreign distributed ledger can be verified against the public keys of the transfer validators of that foreign distributed ledger either locally by the recipient or using an on-chain logic –- typically smart-contracts (step 7 and 8)
 
-![High-Level Workflow](./images/blockchain-integration-framework-high-level-workflow.png "Interoperability between two different DLTs")
+![High-Level Workflow](../images/blockchain-integration-framework-high-level-workflow.png "Interoperability between two different DLTs")
 
 ## Future Work
 * Integrate Hyperledger Indy to manage the interoperability validator identities across the different blockchains

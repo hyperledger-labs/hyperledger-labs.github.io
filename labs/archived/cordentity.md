@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cordentity
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Cordentity](https://github.com/hyperledger-labs/cordentity)

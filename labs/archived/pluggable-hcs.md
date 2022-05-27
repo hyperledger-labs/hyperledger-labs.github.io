@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pluggable Hedera Consensus Service
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Pluggable Hedera Consensus Service](https://github.com/hyperledger-labs/pluggable-hcs)

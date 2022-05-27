@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Keyhole Fabric API Gateway
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Keyhole Fabric API Gateway](https://github.com/hyperledger-labs/keyhole-fabric-api-gateway)

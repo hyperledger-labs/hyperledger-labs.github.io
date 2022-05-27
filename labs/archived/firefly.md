@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FireFly
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [FireFly](https://github.com/hyperledger-labs/firefly)
