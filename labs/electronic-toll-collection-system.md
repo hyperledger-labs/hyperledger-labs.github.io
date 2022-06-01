@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transparency in the Interoperability of the National Electronic Toll(ETC) network
-[//]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Transparency in the Interoperability of the National Electronic Toll(ETC) network
