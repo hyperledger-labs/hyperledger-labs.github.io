@@ -44,7 +44,6 @@ The benefits of the solution are several, where the most important are:
 
 # Initial Committers
 - https://github.com/nikoturin
-- ...
 
 # Sponsor
 NA
