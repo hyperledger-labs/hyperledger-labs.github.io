@@ -43,7 +43,6 @@ The benefits of the solution are several, where the most important are:
 
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
 - https://github.com/nikoturin
 - ...
 
