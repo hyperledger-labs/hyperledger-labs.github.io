@@ -39,7 +39,7 @@ The benefits of the solution are several, where the most important are:
 5.- Information on control figures can be uploaded every month end.
 
 
-![INTER-OPERABILIDAD-WorkFlow_ ETC_ NEAR - GATEWAY (4)](https://user-images.githubusercontent.com/11085724/169954095-848c83e5-613a-4297-8376-84a7a0866d75.jpg)
+![INTER-OPERABILIDAD-WorkFlow_ ETC_ NEAR - GATEWAY (4)](https://github.com/nikoturin/electronic-toll-collection-system/blob/main/labs/images/electronic-toll-collection-system.jpg)
 
 
 # Initial Committers
