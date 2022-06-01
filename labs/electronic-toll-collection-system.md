@@ -18,7 +18,7 @@ The government information is very sensible, and the message ETC is a root infor
 
 As we can see, ETC message is very important to make concilian information to differents participants with some confusions about charges made or authorities whom receive incomes from differents operators companies.
 
-Hyperledger fabric has a important role to keep and save information with principal objective message ETC, acomplish with this, inmutability, integrity and to government and some private companies, they can have control about their own information.
+Hyperledger Fabric has an important role to keep and save information with principal objective message ETC, accomplish with this, immutability, integrity and to government and some private companies, they can have control about their own information.
 
 With the foregoing, the acquisition of the NEAR Token by the client is determined to carry out requests to extract information directly from the private blockchain, said fee will be to meet transaction expenses for the creation of receipt delivery receipt; a web portal will be created where the transfer of funds can be made, which will be able to interact with the smart contract developed in NEAR.
 
