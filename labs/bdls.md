@@ -17,6 +17,8 @@ BDLS consensus protocol is BFT protocol that has been submitted for consideratio
 # Initial Committers
 
 - https://github.com/ahmed82
+- https://github.com/yonggewang
+-
 
 
 # Sponsor
@@ -24,7 +26,6 @@ BDLS consensus protocol is BFT protocol that has been submitted for consideratio
 
 # Pre-existing repository
 
-- https://github.com/BDLS-bft/bdls (main repository)
-- https://github.com/BDLS-bft/bdls/blob/master/README.md (README)
+- https://github.com/yonggewang/bdls (main repository)
+- https://github.com/yonggewang/bdls/blob/master/README.md (README)
  
-https://github.com/BDLS-bft/bdls
