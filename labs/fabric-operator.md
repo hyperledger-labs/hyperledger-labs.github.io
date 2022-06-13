@@ -9,7 +9,7 @@ Hyperledger Fabric Operator
 # Short Description
 **fabric-operator** is an open-source, cloud-native [Kubernetes operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 for administering Hyperledger Fabric networks.  The operator follows the [CNCF Operator Pattern](https://github.com/cncf/tag-app-delivery/blob/main/operator-wg/whitepaper/Operator-WhitePaper_v1-0.md),
-delegating the minutia of performing repetitive, detailed configuration tasks to automated activities performed under
+delegating the minutiae of performing repetitive, detailed configuration tasks to automated activities performed under
 the guidance of software-based controllers.
 
 # Scope of Lab
@@ -24,10 +24,10 @@ platform for building enterprise-scale, permissioned blockchains solutions:
   spanning the space of open-source, community efforts to bring order to the chaos of Fabric administration.)
 
 
-- While early adopters of technology are more readily to accept some form of operational risk, enterprise consumers
+- While early adopters of technology are amenable to accept some form of operational risk, enterprise consumers
   of Fabric are hindered by both the disparity of administrative approach and access to a marketplace of technical
   contributors with expertise in Fabric administration.  Fabric operator provides a venue for the community to both 
-  coalesce on shared / best practices for Fabric administration, and some level of predictability for operational 
+  coalesce on shared / best practices for Fabric administration, and achieve a level of predictability for operational 
   support as realized by an open-source, production-grade, community operator.
 
 
@@ -36,7 +36,7 @@ platform for building enterprise-scale, permissioned blockchains solutions:
   (based on Docker Compose), rather than aligning with the ultimate production environment.  In addition to naturally
   aligning with modern "git-ops," continuous integration, and continuous delivery based models for change management,
   the operator enables a _local development workflow_ (e.g. run on kubernetes, but on your laptop...) in complete 
-  harmony with production deployments.
+  harmony with production deployments on private, hybrid, and public clouds.
 
 
 - In simple terms: working with Fabric is _hard._  The use of a production grade operator will reduce the learning 
@@ -59,22 +59,26 @@ are in order for key contributors:
 
 # Initial Committers
 
-- Mihir Shah
+- [Mihir Shah](https://github.com/mrshah-at-ibm)
 - [Dhyey Shah](https://github.com/dhyey20)
-- Saad Karim
-- Tammy Le
+- [Saad Karim](https://github.com/saad-karim)
+- [Tammy Le](https://github.com/letammyh)
 - [Ratnakar Asara](https://github.com/asararatnakar)
-- Jamie Min
-- [Gari Singh](https://www.linkedin.com/in/garisingh/)
+- [Gari Singh](https://github.com/mastersingh24)
 
 
 # Sponsors
 
-- [David Boswell](https://github.com/todo) - Hyperledger XYZ
-- [Hart Montgomery](https://github.com/todo) - Hyperledger XYZ 
-- [Ry Jones](https://github.com/todo) - Hyperledger XYZ
 - [Dave Enyeart](https://github.com/denyeart)  - Hyperledger TSC Member
 - [Arnaud LeHors](https://github.com/lehors)  - Hyperledger TSC Member
+- [Hart Montgomery](https://github.com/hartm) - Hyperledger Foundation
+- [Ry Jones](https://github.com/ryjones) - Hyperledger Foundation
+
+
+# Stewards
+
+- [David Boswell](mailto:dboswell@linuxfoundation.org) - Director of Ecosystem, Linux Foundation
+- [Josh Kneubuhl](https://github.com/jkneubuh) - IBM
 
 
 # Pre-existing repository
