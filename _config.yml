@@ -11,7 +11,7 @@ aux_links:
   "Wiki":
     - "//wiki.hyperledger.org/display/labs"
   "Chat":
-    - "//chat.hyperledger.org/channel/labs"
+    - "//discord.gg/hyperledger"
 # Switch next two lines for local debugging
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
