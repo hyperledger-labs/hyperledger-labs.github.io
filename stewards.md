@@ -16,7 +16,7 @@ Stewards
 **Emeritus Stewards**
 | Name | GitHub |
 |------|--------|
-| Bas van Oostveen | [trbs][trbs]
+| Bas van Oostveen | [trbs][trbs] |
 
 [trbs]: https://github.com/trbs
 
