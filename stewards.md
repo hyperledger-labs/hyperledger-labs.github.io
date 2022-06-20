@@ -6,11 +6,13 @@ Stewards
 | Name | GitHub |
 |------|--------|
 | Anand Banik | [anandbanik][anandbanik] |
+| Kamlesh Nagware | [knagware9][knagware9] |
 | Arnaud J Le Hors | [lehors][lehors] |
 | Tracy Kuhrt | [tkuhrt][tkuhrt] |
 | Vipin Bharathan | [vipinsun][vipinsun] |
 
 [anandbanik]: https://github.com/anandbanik
+[knagware9]: https://github.com/knagware9
 [lehors]: https://github.com/lehors
 [tkuhrt]: https://github.com/tkuhrt
 [vipinsun]: https://github.com/vipinsun
