@@ -7,10 +7,10 @@ parent: Labs
 Sunyar fabric
 
 # Short Description
-POLWINNO innovation center is committed to drive collaboration and innovations in the financial services industry. POLWINNO is affiliated by Behsazan Farda Holding; an IT company in banking ecosystem. Provide a short description of your lab. This will be used for the Github repository's description.
+Sunyar is a settlement distributed system based on Hyperledger fabric. This is a non-profit project for contributing charities to help needy people in a decentralized ecosystem.
 
 # Scope of Lab
-Sunyar is a charity project but polwinno's main goal is to distributed settlement.
+Sunyar is a settlement distributed system based on Hyperledger fabric. There are several usecased in banking usecased in settlement distributed systems. Our goal is to achieve an appropriate project on hyperledger fabric to solve other challenges and usecases on banking systems.
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
