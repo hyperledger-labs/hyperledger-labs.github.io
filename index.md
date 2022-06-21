@@ -40,7 +40,7 @@ log message or add it afterwards with `git commit --amend -s`.
 
 5. Submit a Pull Request.
 
-The labs stewards will then review your proposal. Like sponsors, stewards do not have a responsibility beyond this; ongoing work like contributing code or reviews is not tied to their role as stewards. In reviewing the proposal, the stewards make sure that the proposal is cogent and novel (in conception, proposed execution, or interested community).
+The [labs stewards](stewards) will then review your proposal. Like sponsors, stewards do not have a responsibility beyond this; ongoing work like contributing code or reviews is not tied to their role as stewards. In reviewing the proposal, the stewards make sure that the proposal is cogent and novel (in conception, proposed execution, or interested community).
 
 ## Bringing in an existing repository
 
