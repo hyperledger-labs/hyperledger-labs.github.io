@@ -13,9 +13,12 @@ Sunyar is a settlement distributed system based on Hyperledger fabric. This is a
 Sunyar is a settlement distributed system based on Hyperledger fabric. There are several usecased in banking usecased in settlement distributed systems. Our goal is to achieve an appropriate project on hyperledger fabric to solve other challenges and usecases on banking systems.
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
+https://github.com/sunyar-fabric
+https://github.com/sanazsasan
+https://github.com/ZankoMohammadzadeh
+https://github.com/saman136757
+https://github.com/mortezamahdavimz
+https://github.com/mmdhossein)
 - ...
 
 # Sponsor
