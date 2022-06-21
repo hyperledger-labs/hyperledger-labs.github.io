@@ -7,14 +7,6 @@ Parent: Labs
 # Learning Tokens
 
 # Short Description
-The idea for this Lab starts as Learning Tokens, a project at the Hyperledger Mentorship Program 2022 (https://wiki.hyperledger.org/display/INTERN/Learning+Tokens). 
-
-A valuable group of participants applied to a unique Mentee position. The selection process gathered a community interested in promoting learning and teaching process through tokens. Individual interviews allowed us to recognize their skills and disposition to continue working in this theme event if not selected as Mentee. 
-
-Hyperledger Mentorship Program suggested creating a Lab to provide a space where work can start and our open-source community can recognize their engagement.
-
-This is our proposal for that goal.
-
 Learning Tokens is a mechanism that uses the composable Interwork Alliance Token Taxonomy Framework (IWA TTF) to produce a Learning Token as a positive reinforcer that recognizes, registers, and rewards community engagement in collective learning and also certifies skills acquisition and competencies. 
 
 With IWA TTF, we define common token concepts with our requirements and particular behaviors, linking their base Token Classification Hierarchy with our Taxonomy of DLT/Blockchain Educational Opportunities as initial metadata for standard artifacts and control message descriptions.
