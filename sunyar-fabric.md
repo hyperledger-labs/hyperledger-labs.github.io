@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Sunyar
-[//]: # (parent: Labs)
+title: Sunyar fabric
+parent: Labs
 ---
 # Lab Name
-POLWINNO Innovation Center 
+Sunyar fabric
 
 # Short Description
 POLWINNO innovation center is committed to drive collaboration and innovations in the financial services industry. POLWINNO is affiliated by Behsazan Farda Holding; an IT company in banking ecosystem. Provide a short description of your lab. This will be used for the Github repository's description.
