@@ -10,7 +10,7 @@ Sunyar fabric
 Sunyar is a settlement distributed system based on Hyperledger fabric. This is a non-profit project for contributing charities to help needy people in a decentralized ecosystem.
 
 # Scope of Lab
-Sunyar is a settlement distributed system based on Hyperledger fabric. There are several usecased in banking usecased in settlement distributed systems. Our goal is to achieve an appropriate project on hyperledger fabric to solve other challenges and usecases on banking systems.
+Sunyar is a distributed settlement platform, which can be used by charities for managing donation process. This can be done by an open-source platform, which can link to a distributed ledger for charities. The open-source platform helps them for automating their process and the distributed ledger can used for two main reasons: uniqueness of needy and their requirements, and transparent aid for them
 
 # Initial Committers
 - https://github.com/sunyar-fabric
