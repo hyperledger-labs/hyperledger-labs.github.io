@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mosaique
-# (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Mosaique Decentralized Workflows
@@ -19,6 +19,7 @@ The scope of Mosaique is to provide several useful features to blockchain projec
 
 # Initial Committers
 https://github.com/dave-promulgare
+
 https://github.com/volodyatan
 
 # Sponsor
