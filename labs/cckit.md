@@ -10,7 +10,7 @@ parent: Labs
 
 # Short Description
 
-Programming framework for building Hyperledger Fabric Golang on-chain (chaincode) and off-chain applications&
+Programming framework for building Hyperledger Fabric Golang on-chain (chaincode) and off-chain applications
 
 # Scope of Lab
 
