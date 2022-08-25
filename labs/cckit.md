@@ -41,7 +41,7 @@ off-chain applications:
 
 # Sponsor
 
-- https://github.com/C0rWin - HLF maintainer
+- https://github.com/C0rWin - HLF maintainer, Hyperledger TSC Member
 
 # Pre-existing repository
 
