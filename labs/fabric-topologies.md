@@ -33,7 +33,7 @@ More background and information on the scope of this proposed lab is provided at
 - [Taylor Trott](https://github.com/Enchilada3687)
 
 # Sponsor
-- [Andrew Boswell](dboswell@linuxfoundation.org) - Senior Director of Community Architecture, Linux Foundation
+- [David Boswell](dboswell@linuxfoundation.org) - Senior Director of Community Architecture, Linux Foundation
 - [David Enyeart](enyeart@us.ibm.com) - a TSC member, a maintainer of Hyperledger Fabric
 
 # Pre-existing repository
