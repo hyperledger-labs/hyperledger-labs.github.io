@@ -14,7 +14,7 @@ Software development kit for access and management of Hyperledger Fabric network
 
 # Scope of Lab
 
-The scope of this lab is to deliver the software development kit for access and management Hyperledger Fabric network:
+The scope of this lab is to deliver the software development kit for access and management of a Hyperledger Fabric network:
 
 * query and invoke chaincodes, using local configuration and service discovery
 * sdk for interacting with system chaincodes (csss, lscc, qscc, lifecycle)
