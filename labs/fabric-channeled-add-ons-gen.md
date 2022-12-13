@@ -22,7 +22,7 @@ organization per deployed channel. Fabric admins employ the user management feat
 sharing for end-users per add-on app generated.
 
 
-- Add-on: **fabric-channeled-add-ons-gen** is provided is the context of generating browser add-on apps with business intelligence on dedicated 
+- Add-on: **fabric-channeled-add-ons-gen** is provided in the context of generating browser add-on apps with business intelligence on dedicated 
 Hyperledger Fabric channels. Backing browser interoperability for Fabric networks facilitates end-user interaction and
 experience.
 
