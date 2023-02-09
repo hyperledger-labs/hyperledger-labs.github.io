@@ -40,4 +40,3 @@ Though it's not in a state today to move directly - I wanted to start the discus
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
