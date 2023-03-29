@@ -10,12 +10,14 @@ Stewards
 | Arnaud J Le Hors | [lehors][lehors] |
 | Tracy Kuhrt | [tkuhrt][tkuhrt] |
 | Vipin Bharathan | [vipinsun][vipinsun] |
+| Nidhi Singh | [nidhi-singh02][nidhi-singh02] |
 
 [anandbanik]: https://github.com/anandbanik
 [knagware9]: https://github.com/knagware9
 [lehors]: https://github.com/lehors
 [tkuhrt]: https://github.com/tkuhrt
 [vipinsun]: https://github.com/vipinsun
+[nidhi-singh02]: https://github.com/nidhi-singh02
 
 **Emeritus Stewards**
 
