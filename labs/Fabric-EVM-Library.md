@@ -26,5 +26,5 @@ Listed below are the product repositories that are all components of this propos
 
 <ul> <li>https://github.com/theblockchainacademy/burrow</li>
 <li>https://github.com/theblockchainacademy/fabric-chaincode-evm</li>
-<li>https://github.com/theblockchainacademy/sawtooth-seth</li> </ul><br>
+<li>https://github.com/theblockchainacademy/sawtooth-seth</li>  </ul><br>
 
