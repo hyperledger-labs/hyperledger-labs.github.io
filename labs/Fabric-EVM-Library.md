@@ -21,7 +21,7 @@ This lab's scope is to provide the Hyperledger Fabric community with an Ethereum
 
 
 
-# Pre-existing repository>
+# Pre-existing repository
 Listed below are the product repositories that are all components of this proposal.
 
 <ul> <li>https://github.com/theblockchainacademy/burrow</li>
