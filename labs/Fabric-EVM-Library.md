@@ -19,7 +19,7 @@ This lab's scope is to provide the Hyperledger Fabric community with an Ethereum
 
 # Sponsor
 
-Bobbi Muscara (bobbi@ledgeracademy.com), Working Group (WG) member <br>
+Bobbi Muscara (bobbi@ledgeracademy.com), Technical Steering Committee (TSC) member <br>
 
 # Pre-existing repository
 Listed below are the product repositories that are all components of this proposal.
