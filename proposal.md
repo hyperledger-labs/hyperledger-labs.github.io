@@ -6,11 +6,11 @@ The current Hyperledger Project Lifecycle provides for projects to be started in
 
 Hyperledger can help build communities by gathering people sharing a common interest in developing blockchain related software. However the only way to currently do so is to submit a HIP and launch a formal project in Incubation. This is a relatively heavy process which implies a level of endorsement by Hyperledger that is not suitable for cases where projects are immature from a code-complete, production-quality, or community building perspective, or experimental.
 
-Labs will 1) lower the pressure on the TSC to start new projects and 2) allow for work to be done within a legal framework that eases transition to a project in Incubation in cases where this ends up being the chosen path for the lab. In particular, this includes enforcement of the use of the Apache Software License and sign-offs on all contributions.
+Labs will 1) lower the pressure on the TOC to start new projects and 2) allow for work to be done within a legal framework that eases transition to a project in Incubation in cases where this ends up being the chosen path for the lab. In particular, this includes enforcement of the use of the Apache Software License and sign-offs on all contributions.
 
 This new space will allow teams to experiment with new frameworks or new modules without promise of stable code or MVP. It is a space suitable for innovation and testing of ideas.
 
-Examples of possible labs: projects too early for TSC approval as an incubator because there’s not a lot of code; demos; documentation examples; sample code from hackathons, research projects, etc. 
+Examples of possible labs: projects too early for TOC approval as an incubator because there’s not a lot of code; demos; documentation examples; sample code from hackathons, research projects, etc.
 
 Hyperledger Labs have similarities with the Apache Labs and the W3C Community Groups.
 
@@ -18,20 +18,20 @@ Hyperledger Labs have similarities with the Apache Labs and the W3C Community Gr
 
 Code from Labs is code provided “AS-IS”, shared with the Hyperledger community (and beyond) without guarantee of any kind. Labs may either have the ambition to someday become a project or not. It is also fine for this ambition to change over time.
 
-Either way, there is no guarantee that a lab will become an incubated or fully-fledged project. If at any point a lab wants to enter Incubation and become a project, a HIP will need to be submitted for TSC consideration.
+Either way, there is no guarantee that a lab will become an incubated or fully-fledged project. If at any point a lab wants to enter Incubation and become a project, a HIP will need to be submitted for TOC consideration.
 
-Conversely, it is not required to go through a lab for a project to be proposed for Incubation. Going through a lab is an option, not a requirement. Projects deemed sufficiently mature may be proposed for Incubation to the TSC by submitting a HIP.
+Conversely, it is not required to go through a lab for a project to be proposed for Incubation. Going through a lab is an option, not a requirement. Projects deemed sufficiently mature may be proposed for Incubation to the TOC by submitting a HIP.
 
 ## Governance
 
-Labs are not directly controlled by the TSC. Labs are proposed and run by the community. They can be created by a simple request (done by submitting a Pull Request) to the [labs Stewards](stewards) (see below), who should perform due diligence on proposed labs before adding them.
+Labs are not directly controlled by the TOC. Labs are proposed and run by the community. They can be created by a simple request (done by submitting a Pull Request) to the [labs Stewards](stewards) (see below), who should perform due diligence on proposed labs before adding them.
 
 
 In particular, the [labs Stewards](stewards) are responsible for ensuring that:
 
 1. The scope of the proposed lab fits within Hyperledger’s mission;
 2. The proposed name is appropriate (e.g., not too generic, confusing, or conflicting with other labs or projects, etc);
-3. Proposers have a Sponsor (i.e. a maintainer of one of the Hyperledger projects, a TSC member or a WG chair);
+3. Proposers have a Sponsor (i.e. a maintainer of one of the Hyperledger projects, a TOC member or a WG chair);
 4. Proposers need to be active members of the Hyperledger technical community (as defined in Section 4.a.ii of the Hyperledger Charter).
 
 
@@ -43,17 +43,17 @@ Stewards are not responsible for
 1. Technical review
 2. Maintaining or managing individual labs
 
-[labs Stewards](stewards) act in oversight to ensure legal compliance, etc., and will produce a quarterly hyperledger-labs-wide “project” report to the TSC, following a slightly revised template. To help the community understand the status of the different labs, Stewards will also be responsible for curating the set of labs, moving to an archives space (see below) those that become dormant or unresponsive for an extended period (6+ months), or are explicitly deemed by the committers to be deprecated/obsoleted.
+[labs Stewards](stewards) act in oversight to ensure legal compliance, etc., and will produce a quarterly hyperledger-labs-wide “project” report to the TOC, following a slightly revised template. To help the community understand the status of the different labs, Stewards will also be responsible for curating the set of labs, moving to an archives space (see below) those that become dormant or unresponsive for an extended period (6+ months), or are explicitly deemed by the committers to be deprecated/obsoleted.
 
-In case of issue with the [labs Stewards](stewards), requesters and/or committers can appeal to the TSC for arbitration.
+In case of issue with the [labs Stewards](stewards), requesters and/or committers can appeal to the TOC for arbitration.
 
-The [labs Stewards](stewards) will be members of the Hyperledger Community Architect(s) and subsequently any volunteer approved by the TSC. The initial list of Lab Stewards is:
+The [labs Stewards](stewards) will be members of the Hyperledger Community Architect(s) and subsequently any volunteer approved by the TOC. The initial list of Lab Stewards is:
 
 * Arnaud Le Hors
 * Vipin Bharathan
 * Tracy Kuhrt
 
-Stewards are to serve for as long as they desire and can fulfill the responsibilities, short of being removed by decision of the TSC such as in case of a violation of the code of conduct.
+Stewards are to serve for as long as they desire and can fulfill the responsibilities, short of being removed by decision of the TOC such as in case of a violation of the code of conduct.
 
 
 Labs need not necessarily adopt a strict or formal governance model, though for labs that intend to become a project someday they would be advised to do so. In any case, some minimal and non-zero responsiveness from the lab committers is expected. 

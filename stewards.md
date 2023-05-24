@@ -27,4 +27,4 @@ Stewards
 [trbs]: https://github.com/trbs
 [anandbanik]: https://github.com/anandbanik
 
-If you are interested in volunteering to become a Hyperledger Lab Steward, please send an email to [the TSC mailing list](https://lists.hyperledger.org/g/tsc) at [tsc@lists.hyperledger.org](mailto:tsc@lists.hyperledger.org).
+If you are interested in volunteering to become a Hyperledger Lab Steward, please send an email to [the TOC mailing list](https://lists.hyperledger.org/g/toc) at [toc@lists.hyperledger.org](mailto:toc@lists.hyperledger.org).
