@@ -41,8 +41,8 @@ As such, the emphasis of the Lab is more weighted towards documentation and a ve
 # Sponsors
 
 - https://github.com/VRamakrishna - Venkatraman Ramakrishna - Member of the Technical Oversight Committee (TOC) for 2023 and Maintainer of the Cacti project.
-- Susumu Toriumi (susumu.toriumi@datachain.jp) - Hyperledger Yui
+- Susumu Toriumi (susumu.toriumi@datachain.jp) - Maintainer, Hyperledger Lab Yui
 
 # Pre-existing repository
 
-- https://github.com/AdharaProjects/Crosschain-Interop
+- https://github.com/AdharaProjects/Crosschain-Interop 
