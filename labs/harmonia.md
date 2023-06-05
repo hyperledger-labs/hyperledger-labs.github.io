@@ -28,15 +28,15 @@ As such, the emphasis of the Lab is more weighted towards documentation and a ve
 
 # Initial Committers
 
-- https://github.com/coeniebeyers
-- https://github.com/eierina
-- https://github.com/fenryka
-- https://github.com/gendal
-- https://github.com/petermunnings
-- https://github.com/MarkOldfield
-- https://github.com/MicheleCullinan
-- https://github.com/mkrielza
-- https://github.com/r3domfox
+- https://github.com/coeniebeyers - Adhara
+- https://github.com/eierina - R3
+- https://github.com/fenryka - R3
+- https://github.com/gendal - R3
+- https://github.com/MarkOldfield - R3
+- https://github.com/MicheleCullinan - Adhara
+- https://github.com/mkrielza - Adhara
+- https://github.com/petermunnings - Adhara
+- https://github.com/r3domfox - R3
 
 # Sponsors
 
