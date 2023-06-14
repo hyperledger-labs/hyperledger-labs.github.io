@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Convector Framework
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Convector Framework](https://github.com/hyperledger-labs/convector)

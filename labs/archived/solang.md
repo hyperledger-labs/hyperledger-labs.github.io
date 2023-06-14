@@ -1,7 +1,7 @@
 ---
 layout: default
 title: solang
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [solang](https://github.com/hyperledger-labs/solang)
