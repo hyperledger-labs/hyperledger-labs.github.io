@@ -19,7 +19,7 @@ This lab's scope is to provide the Hyperledger Fabric and Sawtooth communities w
 
 # Sponsor
 
-Bobbi Muscara (bobbi@ledgeracademy.com), Technical Steering Committee (TSC) member. <br>
+Bobbi Muscara (bobbi@ledgeracademy.com), Technical Oversight Committee (TOC) member. <br>
 
 # Pre-existing repository
 Listed below are the product repositories that are all components of this proposal.
