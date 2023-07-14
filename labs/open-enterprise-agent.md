@@ -5,7 +5,7 @@ parent: Labs
 ---
 # Open Enterprise Agent
 # Short Description
-The Open Enterprise Agent is a software agent for building decentralised identity applications and services in line with W3C standards and Hyperledger Aries RFCs. Aiming to be blockchain agnostic and interoperable across two key technology ecosystems in SSI, it provides a scalable, robust, performant and user-friendly platform for building solutions and products based on it. Its REST API enables easy integration with any programming language, on top of a core built in Scala, a language well suited for building fault-tolerant, highly concurrent systems.
+The Open Enterprise Agent is a software agent for building decentralised identity applications and services in line with W3C standards and Hyperledger Aries RFCs. Aiming to be blockchain agnostic and interoperable across two key technology ecosystems in Self Sovereign Identity (SSI), it provides a scalable, robust, performant and user-friendly platform for building solutions and products based on it. Its REST API enables easy integration with any programming language, on top of a core built in Scala, a language well suited for building fault-tolerant, highly concurrent systems.
 
 # Scope of Lab
 The Open Enterprise Agent leverages the power of decentralized identity by supporting W3C standards, DIDComm v2, and Aries RFCs. It provides all the necessary features to ensure broad interoperability with SSI and web3 ecosystems. Notable high-level features of the Open Enterprise Agent include:
@@ -37,13 +37,13 @@ In summary, the Open Enterprise Agent is a versatile and powerful software agent
 ### CREDENTIAL TYPES SUPPORTED
 
 - W3C JWT-VC
-- Anoncreds
+- Anoncreds (under implementation)
 
 ### DID METHODS SUPPORTED
 
 - did:prism
 - did:peer
-- Other did-methods can be verified via a universal resolver
+- Other did-methods to be verified via a universal resolver (planned)
 
 ### COMMUNICATION SUPPORT
 
@@ -90,9 +90,8 @@ In summary, the Open Enterprise Agent is a versatile and powerful software agent
 - Lance Byrd - ([lance.byrd@rootsid.com](mailto:lance.byrd@rootsid.com)) - Aries DIDCommV2 WG member
 - Stephen Curran (swcurran@cloudcompass.ca) - ACA-Py Maintainer, Aries RFC Maintainer
 - Timo Glastra - ([timo@animo.id](mailto:timo@animo.id)) - Aries Framework JavaScript Maintainer, ACA-Py Contributor
-- Daniel Hardman - ([daniel.hardman@gmail.com](mailto:daniel.hardman@gmail.com)) - Lead of ToIP Trust Spanning Task Force, Primary editor ToIP ACDC Task Force, Aries RFC Maintainer
+- Daniel Hardman - ([daniel.hardman@gmail.com](mailto:daniel.hardman@gmail.com)) - Former Lead of ToIP Trust Spanning Task Force, Contributor ToIP ACDC Task Force, Aries RFC Maintainer
 - Darrell O’Donnell - ([darrell.odonnell@continuumloop.com](mailto:darrell.odonnell@continuumloop.com)) - Chair of ToIP Technology Stack WG, Chair of ToIP Technology Architecture Task Force & Lead of ToIP Trust Registry Task Force
 
 # Pre-existing repository
 - https://github.com/input-output-hk/atala-prism-building-blocks
-- For information, the code in this repository makes use of the logback library, which is licensed under GNU Lesser General Public License version 2.1 or Eclipse Public License v1.0 - https://github.com/qos-ch/logback (this repo should not be transfered to the HL Labs organisation)
