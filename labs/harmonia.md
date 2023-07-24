@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harmonia
-[//]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Harmonia

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BDLS
-[//]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 BDLS
