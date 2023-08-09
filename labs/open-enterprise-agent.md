@@ -24,9 +24,17 @@ In summary, the Open Enterprise Agent is a versatile and powerful software agent
 
 ### PLATFORM SUPPORT
 
-- Server
-- Kubernetes
-- Docker
+The Open Enterprise Agent is a Java Virtual Machine (JVM)-based application written in Scala. It is built with and designed for JDK 11, thus requiring a JVM compatible with version 11 of the Java SE Platform.
+
+The default build process packages the application inside a Docker container, which can be run on any physical or virtual host as well as in any container runtime environments that support Docker. This cross-platform build results in suitable images for both Linux and MacOS (linux/amd64 and linux/arm64).
+
+The list of supported platforms is as follows:
+
+- Container runtime environments that are Docker-compatible
+- Physical or virtual hosts running a Docker environment and are one of the following:
+  - Linux/amd64
+  - Linux/arm64
+- Any operating system that provides a compatible Java Virtual Machine (v11) [Note: By default, the application is not packaged or documented to be run in this way.]
 
 ### AGENT TYPES
 
