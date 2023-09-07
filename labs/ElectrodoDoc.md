@@ -1,3 +1,8 @@
+---
+layout: default
+title: Electrodo.Docs
+parent: Labs
+---
 # Lab Name 
 Electrodo.Docs
 
