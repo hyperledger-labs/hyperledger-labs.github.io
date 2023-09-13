@@ -29,8 +29,7 @@ The CC-Tools-Demo repository provides a template for CC-Tools, featuring configu
 - https://github.com/jamillepp
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the Hyperledger projects, a TOC member, or a WG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+- https://github.com/denyeart - Hyperledger Fabric Maintainer and Release Manager, TOC Member
 
 # Pre-existing repository
 - https://github.com/GoLedgerDev/cc-tools
