@@ -14,7 +14,7 @@ The CC-Tools project aims to provide an easy to use framework to develop Hyperle
 
 CC-Tools provides a relational-like definitions of asset types, datatype validation, also allowing the creation of custom types, Fabric events management and easy transaction definition, with built-in arguments validation and callers restriction. Some pre-defined transactions includes standard method to create, delete, update and read assets.
 
-The CC-Tools-Demo repository provides a template for CC-Tools, featuring configurations and examples of asset types, transactions and events usage. It also features scripts to easily start or upgrade a network and a rest server API written using GIN, which provides access to endpoints to communicate with the chaincode (with routes using `fabric-sdk-go` and `fabric-gateway`) and automatic subscrition to CC-Tools events.
+The CC-Tools-Demo repository provides a template for CC-Tools, featuring configurations and examples of asset types, transactions and events usage. It also features scripts to easily start or upgrade a network and a rest server API written using GIN, which provides access to endpoints to communicate with the chaincode (with routes using `fabric-sdk-go` and `fabric-gateway`) and automatic subscription to CC-Tools events.
 
 # Initial Committers
 - https://github.com/bandreghetti
