@@ -7,8 +7,6 @@ title: Agora Proposal Document
 Agora
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
-
 Agora serves as a specialized lab, purposefully designed to function as a secure and collaborative environment for the 
 implementation and advancement of cryptography libraries and software. 
 Much like the ancient Greek agora served as a gathering place for assemblies and open markets, this lab is tailored 
@@ -22,8 +20,6 @@ Although the code aspires to represent optimized, production-ready software, we 
 It falls upon the end user to conduct their own due diligence and collaborate with our lab maintainers to enhance and deliver improved products to the market.
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
-
 The lab's scope encompasses the development and nurturing of cryptography libraries and programs, fostering a secure and collaborative space for these endeavors. Our mission aligns with the Greek agora's spirit, providing a platform for the creation, refinement, and dissemination of cryptographic protocols. These protocols are intended not only for experimentation but also for integration into real-world applications. While our primary focus is on facilitating the production use of cryptography, we also welcome research-oriented contributions.
 
 Within this scope, the lab's purpose extends to include existing libraries that are already in use within production systems. 
@@ -39,15 +35,12 @@ corporation as their own. They may fork and maintain their own copies and deriva
 is retained here.
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
 - https://github.com/mikelodder7
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the Hyperledger projects, a TOC member, or a WG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
 - Stephen Curran - https://github.com/swcurran
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
 - https://github.com/mikelodder7/blsful
 - https://github.com/mikelodder7/gennaro-dkg
 - https://github.com/mikelodder7/unknown_order
