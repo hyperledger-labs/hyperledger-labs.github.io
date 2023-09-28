@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agora Proposal Document
-[//]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Agora
