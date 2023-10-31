@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AI FAQ for Hyperledger Ecosystem
-[//]:# (parent: Labs)
+parent: Labs
 ---
 
 # aifaq
