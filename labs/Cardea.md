@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cardea Proposal Document
+title: Cardea
 parent: Labs
 ---
 # Lab Name
