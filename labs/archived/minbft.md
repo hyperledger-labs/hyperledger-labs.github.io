@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MinBFT
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [MinBFT](https://github.com/hyperledger-labs/minbft)
