@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Minifabric
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Minifabric](https://github.com/hyperledger-labs/minifabric)
