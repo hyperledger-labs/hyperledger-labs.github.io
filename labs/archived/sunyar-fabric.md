@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sunyar fabric
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 Sunyar fabric

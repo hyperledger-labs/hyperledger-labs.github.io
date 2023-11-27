@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NFT Community Footprint
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 nft-community-footprint

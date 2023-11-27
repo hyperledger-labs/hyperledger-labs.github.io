@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Topologies for Hyperledger Fabric
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Topologies for Hyperledger Fabric](https://github.com/hyperledger-labs/fabric-topologies)

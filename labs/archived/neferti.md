@@ -1,7 +1,7 @@
 ---
 layout: default
 title: neferti
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 neferti

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NFT Auction App
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [nft-auction](https://github.com/hyperledger-labs/nft-auction)
