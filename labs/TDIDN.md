@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TDIDN
-parent: Labs #(parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Telecom Decentralized Identities Network
