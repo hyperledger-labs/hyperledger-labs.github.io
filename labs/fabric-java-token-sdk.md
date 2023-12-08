@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lab Proposal Document
-[//]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 Fabric Token Java SDK.
