@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fabric Tocken Java SDK
+title: Fabric Token Java SDK
 parent: Labs
 ---
 # Lab Name
