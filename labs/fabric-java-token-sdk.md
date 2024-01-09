@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Proposal Document
+title: Fabric Tocken Java SDK
 parent: Labs
 ---
 # Lab Name
