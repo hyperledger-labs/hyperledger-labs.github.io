@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dancap
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [dancap](https://github.com/hyperledger-labs/dancap)

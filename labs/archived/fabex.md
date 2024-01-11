@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fabex
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Fabex](https://github.com/hyperledger-labs/fabex)

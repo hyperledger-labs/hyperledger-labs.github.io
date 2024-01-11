@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EasyDoser
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 EasyDoser

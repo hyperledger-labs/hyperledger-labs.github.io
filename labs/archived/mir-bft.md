@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mir-BFT
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HyperFabGames
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 HyperFabGames

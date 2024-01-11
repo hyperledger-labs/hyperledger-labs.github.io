@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TrustID
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [TrustID](https://github.com/hyperledger-labs/trustid)
