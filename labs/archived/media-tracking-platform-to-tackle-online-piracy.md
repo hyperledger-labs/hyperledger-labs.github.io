@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Media Tracking Platform to Tackle Online Piracy
-parent: Labs
+parent: Archived Labs
 ---
 
 # Lab Name
-Media Tracking Platform to Tackle Online Piracy
+[Media Tracking Platform to Tackle Online Piracy](https://github.com/hyperledger-labs/Media-Tracking-Platform-to-Tackle-Online-Piracy)
 
 # Short Description
 A distributed system with a blockchain ledger maintaining information on the copyrighted content provided by the legal owner of such content that could be accessed by our crawler as a sample to identify content similar to it on unauthorized websites. The crawler will index the URL and IP address of the platform hosting the content illegally. It notifies the concerned owner of the content, who verifies whether the content belongs to them. Post verification, the illegal distributor or the content can be taken down from the internet.

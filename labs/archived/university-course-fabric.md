@@ -1,7 +1,7 @@
 ---
 layout: default
 title: University Course Fabric
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [University Course Fabric](https://github.com/hyperledger-labs/university-course)
