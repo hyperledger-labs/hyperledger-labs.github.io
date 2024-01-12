@@ -4,7 +4,7 @@ title: microfab
 parent: Labs
 ---
 # Lab Name
-microfab
+[microfab](https://github.com/hyperledger-labs/microfab)
 
 # Short Description
 Microfab is a containerized Hyperledger Fabric runtime for use in development environments.

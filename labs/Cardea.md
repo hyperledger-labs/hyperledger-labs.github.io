@@ -6,6 +6,18 @@ parent: Labs
 # Lab Name
 Cardea
 
+* [cardea](https://github.com/hyperledger-labs/cardea)
+* [cardea.app](https://github.com/hyperledger-labs/cardea.app)
+* [cardea-docker](https://github.com/hyperledger-labs/cardea-docker)
+* [cardea-primary-verifier-ui](https://github.com/hyperledger-labs/cardea-primary-verifier-ui)
+* [cardea-health-issuer-ui](https://github.com/hyperledger-labs/cardea-health-issuer-ui)
+* [cardea-secondary-verifier-ui](https://github.com/hyperledger-labs/cardea-secondary-verifier-ui)
+* [cardea-health-issuer-controller](https://github.com/hyperledger-labs/cardea-health-issuer-controller)
+* [cardea-primary-verifier-controller](https://github.com/hyperledger-labs/cardea-primary-verifier-controller)
+* [cardea-mobile-agent](https://github.com/hyperledger-labs/cardea-mobile-agent)
+* [cardea-mobile-secondary-verifier-agent](https://github.com/hyperledger-labs/cardea-mobile-secondary-verifier-agent)
+* [cardea-secondary-verifier-controller](https://github.com/hyperledger-labs/cardea-secondary-verifier-controller)
+
 # Short Description
 Cardea is a complete ecosystem for the exchange of privacy-preserving digital credentials, currently open sourced as a project in Linux Foundation Public Health (LFPH).
 

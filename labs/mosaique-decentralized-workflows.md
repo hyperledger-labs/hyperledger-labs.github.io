@@ -4,7 +4,7 @@ title: Mosaique
 parent: Labs
 ---
 # Lab Name
-Mosaique Decentralized Workflows
+[Mosaique Decentralized Workflows](https://github.com/hyperledger-labs/mosaique-decentralized-workflows)
 
 # Short Description
 Mosaique provides an approach to build decentralized workflows for permissioned blockchain applications.  Mosaique has built-in governance workflows using mosaique itself.  The systems uses state machines for the workflow logic and json templates to make those state machines data-driven.  The goal is to allow non-programmers develop and analyze their decentralized workflows and to deploy without having to change smart contract code.

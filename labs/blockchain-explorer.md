@@ -4,7 +4,7 @@ title: Blockchain Explorer
 parent: Labs
 ---
 # Lab Name
-Blockchain Explorer
+[Blockchain Explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 
 # Short Description
 Blockchain Explorer is a simple, powerful, easy-to-use, well-maintained, open-source utility to browse activity 

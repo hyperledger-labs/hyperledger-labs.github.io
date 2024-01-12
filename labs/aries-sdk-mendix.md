@@ -4,7 +4,7 @@ title: Aries SDK for Mendix
 parent: Labs
 ---
 # Lab Name
-Aries SDK for Mendix low-code platform
+[Aries SDK for Mendix low-code platform](https://github.com/hyperledger-labs/aries-sdk-mendix)
 
 # Short Description
 Aries SDK for Mendix is a wrapper implementation of [Hyperledger / Aries-Framework-Javascript](https://github.com/hyperledger/aries-framework-javascript). [Mendix](https://www.mendix.com/) is an industry leading, all-in-one, low-code application development platform that helps organizations build multi-experience, enterprise grade applications at scale.

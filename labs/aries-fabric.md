@@ -4,7 +4,7 @@ title: Aries Wrapper For Fabric
 parent: Labs
 ---
 # Aries Wrapper For Fabric
-
+[Aries Wrapper For Fabric](https://github.com/hyperledger-labs/aries-fabric-wrapper)
 # Description
 
 Self-Sovereign Identity (SSI) is a mechanism which allows you to keep your identity under your control and at the same time also prove your identity to a verifier without revealing it. SSI applications are typically built using Hyperledger Aries, which depends on Indy as a Distributed Ledger and Ursa as a cryptography library. Currently, the most used Blockchain platform is Hyperledger Fabric. And the businesses that are building solutions using Fabric want to have some sort of identity verification to be done in their platform. This is the reason, why this project has come into existence. Once done it would enable Aries to interact with Fabric as a ledger, which would then enable SSI applications to be built on top of Fabric.

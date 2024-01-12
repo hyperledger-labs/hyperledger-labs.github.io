@@ -4,7 +4,7 @@ title: Documentation Template
 parent: Labs
 ---
 # Lab Name
-documentation-template
+[documentation-template](https://github.com/hyperledger-labs/documentation-template)
 
 # Short Description
 Template for creating project documentation

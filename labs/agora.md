@@ -6,6 +6,9 @@ parent: Labs
 # Lab Name
 Agora
 
+* [Unknown Order](https://github.com/hyperledger-labs/agora-unknown_order)
+* [Glass Pumpkin](https://github.com/hyperledger-labs/agora-glass_pumpkin)
+
 # Short Description
 Agora serves as a specialized lab, purposefully designed to function as a secure and collaborative environment for the 
 implementation and advancement of cryptography libraries and software. 

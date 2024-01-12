@@ -6,7 +6,7 @@ parent: Labs
 
 # aifaq
 
-AI FAQ for Hyperledger Ecosystem
+[AI FAQ for Hyperledger Ecosystem](https://github.com/hyperledger-labs/aifaq)
 
 # Short Description
 

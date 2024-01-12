@@ -4,7 +4,7 @@ title: Hyperledger Fabric Connector
 parent: Labs
 ---
 # Lab Name
-Hyperledger Fabric Connector
+[Hyperledger Fabric Connector](https://github.com/hyperledger-labs/hlf-connector)
 
 # Short Description
 Integrate with Hyperledger Fabric using REST and Kafka and Block and Chaincode Event emitter.

@@ -4,7 +4,7 @@ title: Benchmarking Cross-Chain Bridges
 parent: Labs
 ---
 # Lab Name
-Benchmarking Cross-Chain Bridges
+[Benchmarking Cross-Chain Bridges](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges)
 
 # Short Description
 Systematic comparison between cross-chain bridge aggregators.

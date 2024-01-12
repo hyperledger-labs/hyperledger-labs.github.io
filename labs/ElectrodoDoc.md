@@ -4,7 +4,7 @@ title: Electrodo.Docs
 parent: Labs
 ---
 # Lab Name 
-Electrodo.Docs
+[Electrodo.Docs](https://github.com/hyperledger-labs/Electrodo.Docs)
 
 # Short Description 
 

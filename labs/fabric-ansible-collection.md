@@ -4,7 +4,7 @@ title: fabric-ansible-collection
 parent: Labs
 ---
 # Lab Name
-Fabric Ansible Collection
+[Fabric Ansible Collection](https://github.com/hyperledger-labs/fabric-ansible-collection)
 
 # Short Description
 An Ansible Collection create and manage Hyperledger Fabric networks

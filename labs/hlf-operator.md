@@ -4,7 +4,7 @@ title: Hyperledger Fabric Operator for Kubernetes
 parent: Labs
 ---
 # Lab Name
-Hyperledger Fabric Operator for Kubernetes
+[Hyperledger Fabric Operator for Kubernetes](https://github.com/hyperledger-labs/fabric-operator)
 
 # Short Description
 Manage Hyperledger Fabric components at scale with a Kubernetes Operator.

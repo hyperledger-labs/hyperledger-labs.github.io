@@ -4,7 +4,7 @@ title: TDIDN
 parent: Labs
 ---
 # Lab Name
-Telecom Decentralized Identities Network
+[Telecom Decentralized Identities Network](https://github.com/hyperledger-labs/TDIDN)
 
 # Short Description
 TDIDN develops a decentralized identity and smart contract system for telecom. It focuses on DID-based authentication, privacy control, and efficient solutions for blacklist management, SLAs, and billing using CDRs.

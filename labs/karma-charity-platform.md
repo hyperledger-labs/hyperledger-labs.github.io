@@ -4,7 +4,7 @@ title: Karma Charity Foundation Platform
 parent: Labs
 ---
 # Lab Name
-karma-charity-platform
+[karma-charity-platform](https://github.com/hyperledger-labs/karma-charity-platform)
 
 # Short Description
 Blockchain-based charity foundation platform.

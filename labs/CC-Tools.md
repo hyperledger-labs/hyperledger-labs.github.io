@@ -6,6 +6,10 @@ parent: Labs
 # Lab Name
 CC-Tools
 
+* [cc-tools-demo](https://github.com/hyperledger-labs/cc-tools-demo)
+* [cc-tools](https://github.com/hyperledger-labs/cc-tools)
+* [cc-tools docs](https://github.com/hyperledger-labs/cc-tools-doc)
+
 # Short Description
 The CC-Tools package provides a relational-like framework for programming Hyperledger Fabric chaincodes.
 

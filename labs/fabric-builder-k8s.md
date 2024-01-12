@@ -4,7 +4,7 @@ title: Hyperledger Fabric Chaincode Builder for Kubernetes
 parent: Labs
 ---
 # Lab Name
-Hyperledger Fabric Chaincode Builder for Kubernetes
+[Hyperledger Fabric Chaincode Builder for Kubernetes](https://github.com/hyperledger-labs/fabric-builder-k8s)
 
 # Short Description
 External builder enabling Hyperledger Fabric peers to launch containerized chaincode using Kubernetes.

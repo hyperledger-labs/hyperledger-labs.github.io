@@ -8,6 +8,7 @@ parent: Labs
 
 [CCKit](https://github.com/hyperledger-labs/cckit)
 
+
 # Short Description
 
 Programming framework for building Hyperledger Fabric Golang on-chain (chaincode) and off-chain applications

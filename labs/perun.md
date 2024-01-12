@@ -6,6 +6,16 @@ parent: Labs
 # Lab Name
 [Perun](https://github.com/hyperledger-labs/go-perun)
 
+* [perun-eth-backend](https://github.com/hyperledger-labs/perun-eth-backend)
+* [perun-node](https://github.com/hyperledger-labs/perun-node)
+* [perun-rs](https://github.com/hyperledger-labs/perun-rs)
+* [perun-credential-payment](https://github.com/hyperledger-labs/perun-credential-payment)
+* [perun-eth-contracts](https://github.com/hyperledger-labs/perun-eth-contracts)
+* [perun-cosmwasm-contract](https://github.com/hyperledger-labs/perun-cosmwasm-contract)
+* [perun-doc](https://github.com/hyperledger-labs/perun-doc)
+* [perun-cosmwasm-backend](https://github.com/hyperledger-labs/perun-cosmwasm-backend)
+* [perun-proposals](https://github.com/hyperledger-labs/perun-proposals)
+
 # Short Description
 
 Blockchain-agnostic State Channels framework.

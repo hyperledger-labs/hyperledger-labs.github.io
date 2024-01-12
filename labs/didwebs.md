@@ -6,6 +6,8 @@ parent: Labs
 
 # did:webs DID Method Implementation
 
+[did:webs resolver](https://github.com/hyperledger-labs/did-webs-resolver)
+
 ## Short Description
 
 This Hyperledger Labs project is a reference implementation of the **`did:webs`

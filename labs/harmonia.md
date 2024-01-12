@@ -4,7 +4,7 @@ title: Harmonia
 parent: Labs
 ---
 # Lab Name
-Harmonia
+[Harmonia](https://github.com/hyperledger-labs/harmonia)
 
 # Short Description
 Harmonia, a Hyperledger Lab, is a repo and mailing list dedicated to capturing the unique constraints and requirements faced by regulated blockchain networks seeking to interoperate, underpinned by a set of design documents, protocol definitions and sample code.

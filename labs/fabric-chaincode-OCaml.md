@@ -4,7 +4,7 @@ title: fabric-chaincode-OCaml
 parent: Labs
 ---
 # Lab Name
-fabric-chaincode-OCaml
+[fabric-chaincode-OCaml](https://github.com/hyperledger-labs/fabric-chaincode-ocaml)
 
 # Short Description
 Hyperledger Fabric Packages for OCaml Chaincode

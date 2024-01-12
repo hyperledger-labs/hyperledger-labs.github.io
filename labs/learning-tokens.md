@@ -4,7 +4,7 @@ title: Learning Tokens
 parent: Labs
 ---
 
-# Learning Tokens
+# [Learning Tokens](https://github.com/hyperledger-labs/learning-tokens)
 
 # Short Description
 Learning Tokens is a mechanism that uses the composable Interwork Alliance Token Taxonomy Framework (IWA TTF) to produce a Learning Token as a positive reinforcer that recognizes, registers, and rewards community engagement in collective learning and also certifies skills acquisition and competencies. 

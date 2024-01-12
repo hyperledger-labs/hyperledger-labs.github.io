@@ -4,7 +4,7 @@ title: Fabric Token Java SDK
 parent: Labs
 ---
 # Lab Name
-Fabric Token Java SDK.
+[Fabric Token Java SDK.](https://github.com/hyperledger-labs/Fabric-Token-Java-SDK)
 
 # Short Description
 This project has the objective to create and provide a java interface to the project [Fabric Token SDK](https://github.com/hyperledger-labs/fabric-token-sdk)

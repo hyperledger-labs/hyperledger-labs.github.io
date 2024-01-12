@@ -4,7 +4,7 @@ title: Fabric Channeled Add-ons Gen
 parent: Labs
 ---
 # Lab Name
-Fabric Channeled Add-ons Gen
+[Fabric Channeled Add-ons Gen](https://github.com/hyperledger-labs/fabric-channeled-add-ons-gen)
 
 # Short Description
 **fabric-channeled-add-ons-gen** is an open-source generator for Hyperledger Fabric add-on apps in dedicated channels.

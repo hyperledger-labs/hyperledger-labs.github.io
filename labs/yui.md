@@ -6,6 +6,11 @@ parent: Labs
 # Lab Name
 [YUI](https://github.com/hyperledger-labs/yui-relayer)
 
+* [yui-corda-ibc](https://github.com/hyperledger-labs/yui-corda-ibc)
+* [yui-fabric-ibc](https://github.com/hyperledger-labs/yui-fabric-ibc)
+* [yui-ibc-solidity](https://github.com/hyperledger-labs/yui-ibc-solidity)
+* [yui-docs](https://github.com/hyperledger-labs/yui-docs)
+
 * Note: Japanese word to represent knot, join and connect
 
 # Short Description

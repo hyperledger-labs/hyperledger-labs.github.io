@@ -4,7 +4,7 @@ title: Fablo
 parent: Labs
 ---
 # Lab Name
-Fablo
+[Fablo](https://github.com/hyperledger-labs/fablo)
 
 # Short Description
 Setting up and running a custom Hyperledger Fabric network is hard. The main goal of Fablo is to make this process easy, straightforward and accessible. It transforms a single configuration file to running network.

@@ -5,7 +5,9 @@ parent: Labs
 ---
 # Lab Name
 
-Orion
+[Orion](https://github.com/hyperledger-labs/orion-server)
+
+* [orion-sdk-go](https://github.com/hyperledger-labs/orion-sdk-go)
 
 # Short Description
 

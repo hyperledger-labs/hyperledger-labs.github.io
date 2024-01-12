@@ -4,7 +4,7 @@ title: Fabric Operator
 parent: Labs
 ---
 # Lab Name
-Hyperledger Fabric Operator
+[Hyperledger Fabric Operator](https://github.com/hyperledger-labs/fabric-operator)
 
 # Short Description
 **fabric-operator** is an open-source, cloud-native [Kubernetes operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
