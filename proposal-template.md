@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Lab Proposal Document
-[//]: # (parent: Labs)
+title: Hyperledger Splice Proposal
+[//]: # "parent: Labs"_
 ---
 # Hyperledger Splice
-_Enter the name of your lab here._
-_Change line 3 of this file to reflect the short name of your project._
-_Change line 4 to read: "parent: Labs"_
 
 # Short Description
 _Provide a short description of your lab. This will be used for the Github repository's description._
