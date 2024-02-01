@@ -66,11 +66,13 @@ Any group operating a Canton synchronizer may accept and implement new versions 
 ## Architecture
 The following diagrams show how the Hyperledger Splice applications interact with the Daml platform from Digital Asset.
 
-![SV Node Architecture](Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(2).jpg))
+![SV Node Architecture](Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(2).jpg)
+
+![Validator Node Architecture](Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(2).jpg)
 
 ### Notes:
-	The Validator module contains the Wallet module and the Traffic Acquisition module.
-	The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app. 
+The Validator module contains the Wallet module and the Traffic Acquisition module.
+The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app. 
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
