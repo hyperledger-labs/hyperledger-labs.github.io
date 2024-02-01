@@ -81,7 +81,7 @@ The SV App module contains the Amulet smart contract code and the Amulet configu
 - ...
 
 # Sponsor
-https://github.com/tkuhrt - Chair of the Hyperledger Technical Oversight Committee
+https://github.com/tkuhrt - Tracy Kuhrt, Chair of the Hyperledger Technical Oversight Committee
 
 # Pre-existing repository
 We have an existing repository. We plan to copy code from that repository to the new Hyperledger Splice repository over the next few weeks, instead of transferring the repository itself. 
