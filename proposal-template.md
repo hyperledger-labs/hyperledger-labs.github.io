@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Splice Proposal
-[//]: # "parent: Labs"_
+[//]: # parent: Labs_
 ---
 # Hyperledger Splice
 
