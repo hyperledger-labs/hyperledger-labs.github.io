@@ -19,7 +19,7 @@ Daml is a platform built by Digital Asset designed for deploying blockchains and
 The Canton blockchain guarantees secure state synchronization between participant nodes by running a per-transaction consensus protocol using encrypted messages through a synchronization infrastructure called synchronizers (or sometimes synchronization domains). Synchronizers serve three functions: <br>
 * guaranteeing consistent message order and timestamps among stakeholders; <br>
 * guaranteeing delivery of messages to the stakeholders; and <br>
-* aggregating validation confirmations from stakeholders that the proposed transactions use valid inputs and produce valid outputs. <br> <br>
+* aggregating validation confirmations from stakeholders that the proposed transactions use valid inputs and produce valid outputs. <br> <p>
 Together these allow ordered, two-phase atomic transaction processing, with confirmation of transaction validation and transaction commits. Canton does this while keeping data private to the stakeholders in each transaction. <br> <p>
 Daml applications may choose any Canton synchronizer on a per-transaction basis to help them advance the shared blockchain state that forms on the participant nodes. The collection of all Daml applications that synchronize their state via the Canton protocol, and the set of Canton synchronizers they use to do this, together form the Canton Network. <br> <p>
 Operating groups may charge a fee for traffic that uses their synchronizer. The fee may be metered in USD per megabyte, and levied via an on-chain payment utility. This utility is an implementation of the Hyperledger Splice reference application called Amulet. <br> <p>
