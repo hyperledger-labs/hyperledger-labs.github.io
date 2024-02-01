@@ -75,8 +75,8 @@ The Validator module contains the Wallet module and the Traffic Acquisition modu
 The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app. 
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
+
+- https://github.com/waynecollier-da
 - https://github.com/<user_id2>
 - ...
 
