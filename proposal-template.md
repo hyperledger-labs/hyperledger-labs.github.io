@@ -45,9 +45,9 @@ Hyperledger Splice’s interlocking system of incentives and fees includes:<br>
 * Handles for amulet users, to make it easy to find counterparties on chain and exchange amulets with them. <br>
 
 ## Status
-The code that forms Hyperledger Splice was first implemented in June 2023 as part of a TestNet synchronizer operated by the members of an initial Super Validator Collective. The TestNet synchronizer has operated continuously since that time, with regular tests and software upgrades, using the code proposed for Hyperledger Splice to implement its operations, governance and payment applications. In late December, Digital Asset and 46 separate financial institutions demonstrated 30 decentralized application deployments that synchronized roughly 350 financial transactions via the TestNet synchronizer. <br>
-The collective operating this TestNet currently includes Digital Asset and three other organizations, with four additional organizations currently in the process of applying to join. <br>
-Digital Asset has funded an engineering team to develop the Hyperledger Splice reference applications. Digital Asset is working to build a team of collaborators who can decentralize responsibility for further development as part of the Hyperledger Open Source Software process. <br>
+The code that forms Hyperledger Splice was first implemented in June 2023 as part of a TestNet synchronizer operated by the members of an initial Super Validator Collective. The TestNet synchronizer has operated continuously since that time, with regular tests and software upgrades, using the code proposed for Hyperledger Splice to implement its operations, governance and payment applications. In late December, Digital Asset and 46 separate financial institutions demonstrated 30 decentralized application deployments that synchronized roughly 350 financial transactions via the TestNet synchronizer. <br> <p>
+The collective operating this TestNet currently includes Digital Asset and three other organizations, with four additional organizations currently in the process of applying to join. <br> <p>
+Digital Asset has funded an engineering team to develop the Hyperledger Splice reference applications. Digital Asset is working to build a team of collaborators who can decentralize responsibility for further development as part of the Hyperledger Open Source Software process. <br> <p>
 
 ## Solution
 Hyperledger Splice consists of:
