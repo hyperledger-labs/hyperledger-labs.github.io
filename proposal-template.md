@@ -68,7 +68,7 @@ The following diagrams show how the Hyperledger Splice applications interact wit
 
 ![SV Node Architecture](Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(2).jpg)
 
-![Validator Node Architecture](Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(2).jpg)
+![Validator Node Architecture](Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(3).jpg)
 
 ### Notes:
 The Validator module contains the Wallet module and the Traffic Acquisition module.
