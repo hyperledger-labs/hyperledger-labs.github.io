@@ -81,9 +81,7 @@ _Enter the Github IDs for the set of initial committers._
 - ...
 
 # Sponsor
-
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+https://github.com/tkuhrt - Chair of the Hyperledger Technical Oversight Committee
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+We have an existing repository. We plan to copy code from that repository to the new Hyperledger Splice repository over the next few weeks, instead of transferring the repository itself. 
