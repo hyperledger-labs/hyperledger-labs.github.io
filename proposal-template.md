@@ -83,8 +83,7 @@ The SV App module contains the Amulet smart contract code and the Amulet configu
 # Initial Committers
 
 - https://github.com/waynecollier-da
-- https://github.com/<user_id2>
-- ...
+- https://github.com/isegall-da
 
 # Sponsor
 https://github.com/tkuhrt - Tracy Kuhrt, Chair of the Hyperledger Technical Oversight Committee
