@@ -13,7 +13,8 @@ Reference applications for funding, operating, and incentivizing the use of a de
 Hyperledger Splice is a set of reference applications designed to allow entities to operate, fund, and govern publicly available Canton synchronizers that provide connectivity and interoperability infrastructure for the Canton Network, as well as to provide bootstrapping rewards and incentives to early users of that service. The Canton Network is the set of all applications built using the Daml blockchain application platform that form shared blockchain state via the Canton Protocol. 
 A virtual Canton Service Provider (vCSP), henceforth “operating group” is a group of entities that collectively operate a deployment of a decentralized Canton synchronizer. Hyperledger Splice introduces a reference method for operating a publicly available decentralized synchronizer, using what Splice calls a Super Validator Collective (SVC) as the operating group.  Super Validators in the Collective operate nodes in a decentralized Canton synchronizer. The group of Super Validators in the Collective together operate the nodes in a decentralized Canton synchronizer, and act both individually and collectively to configure, monitor and govern the synchronizer.  
 Hyperledger Splice aims to help operating groups create a transparent economic ecosystem that will, over time, fund operations of and extensions to multiple public synchronization services in the Canton Network.
-Context
+
+##Context
 Daml is a platform built by Digital Asset designed for deploying blockchains and developing blockchain applications. It includes a smart contract language, a set of APIs for calling smart contract code, a transaction processing engine, a query-optimized database for accessing smart contract state, and development tooling including an SDK. The open source and enterprise distributions of Daml also include a blockchain protocol, Canton, that creates synchronized state among nodes running the Daml platform. 
 The Canton blockchain guarantees secure state synchronization between participant nodes by running a per-transaction consensus protocol using encrypted messages through a synchronization infrastructure called synchronizers (or sometimes synchronization domains). Synchronizers serve three functions: 
 guaranteeing consistent message order and timestamps among stakeholders; 
@@ -40,11 +41,13 @@ Tools for using amulets as a payment utility, including a secure payment redirec
 Rewards denominated in amulets which strongly incentivize early providers of synchronization infrastructure, application providers who make solutions available in the early stages of the network, and Validator operators, who  run blockchain nodes in the early stages of the network. 
 Traffic acquisition tooling that allows users to purchase access to synchronization infrastructure using amulets. 
 Handles for amulet users, to make it easy to find counterparties on chain and exchange amulets with them. 
-Status
+
+##Status
 The code that forms Hyperledger Splice was first implemented in June 2023 as part of a TestNet synchronizer operated by the members of an initial Super Validator Collective. The TestNet synchronizer has operated continuously since that time, with regular tests and software upgrades, using the code proposed for Hyperledger Splice to implement its operations, governance and payment applications. In late December, Digital Asset and 46 separate financial institutions demonstrated 30 decentralized application deployments that synchronized roughly 350 financial transactions via the TestNet synchronizer. 
 The collective operating this TestNet currently includes Digital Asset and three other organizations, with four additional organizations currently in the process of applying to join. 
 Digital Asset has funded an engineering team to develop the Hyperledger Splice reference applications. Digital Asset is working to build a team of collaborators who can decentralize responsibility for further development as part of the Hyperledger Open Source Software process. 
-Solution
+
+##Solution
 Hyperledger Splice consists of:
 Daml models defining the behavior of amulets, including their use as a means of payment for traffic across a decentralized synchronizer, and their use as an incentive mechanism to encourage early adoption of Canton synchronization infrastructure. Amulet behaviors include a minting rate and a burn rate, and various fee mechanisms. These Daml models consist of complex smart contract code written in the Daml language. The minting rate describes a configurable issuance curve over time, while the burn rate consists of several fees paid by destroying (“burning”) amulets to reduce its total supply. Minted amulets are distributed as rewards to synchronizer operating groups, application providers, and Canton participant node operators (“Validators”). 
 Five reference applications that provide the foundation for configuring and implementing an incentivizing economic ecosystem using amulets. Each application includes Daml models, automation elements and UI components: 
@@ -57,9 +60,13 @@ Amulet behaviors are controlled by the underlying Daml models. These models can 
 The Amulet models expose a large number of configuration variables to the Governance app (fifty-five variables in the current version). These allow synchronizer operating groups to use the Governance app to modify minting and burning behaviors, including but not limited to issuance curves, issuance round timing, fees, and rewards. This makes it possible to separate the governance of a particular implementation of the Amulet reference application from development of the Hyperledger Splice code base. 
 We expect that contributors interested in Hyperledger Splice may contribute, for example, extensions to the APIs for the reference applications, including extensions to Amulet Wallet and the Payment Scan; extensions and enhancements to the Synchronizer Governance application; changes to Traffic Acquisition behavior and APIs, and enhanced UI features in the Wallet and the Name Service. These will be accepted based on the Hyperledger Foundation process for open source projects. 
 Any group operating a Canton synchronizer may accept and implement new versions of the Hyperledger Splice reference applications at its own discretion. The amulet configuration used by any Canton synchronizer operating group can be made publicly available (visible) by that operating group. 
-Architecture
-The following diagrams show how the Hyperledger Splice applications interact with the Daml platform from Digital Asset. 
-Notes:
+
+##Architecture
+The following diagrams show how the Hyperledger Splice applications interact with the Daml platform from Digital Asset.
+
+![
+
+### Notes:
 	The Validator module contains the Wallet module and the Traffic Acquisition module.
 	The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app. 
 
@@ -70,7 +77,7 @@ _Enter the Github IDs for the set of initial committers._
 - ...
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the Hyperledger projects, a TOC member, or a WG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
+
 - https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
