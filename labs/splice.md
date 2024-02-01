@@ -72,9 +72,9 @@ Any group operating a Canton synchronizer may accept and implement new versions 
 ## Architecture
 The following diagrams show how the Hyperledger Splice applications interact with the Daml platform from Digital Asset.<br>
 
-![SV Node Architecture](./images/splice/Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(2).jpg)
+![SV Node Architecture](./images/Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice-1.jpg)
 
-![Validator Node Architecture](./images/splice/Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice%20(3).jpg)
+![Validator Node Architecture](./images/Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice-2.jpg)
 
 ### Notes:
 The Validator module contains the Wallet module and the Traffic Acquisition module.<br>
