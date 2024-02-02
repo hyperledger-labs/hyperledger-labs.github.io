@@ -72,9 +72,9 @@ Any group operating a Canton synchronizer may accept and implement new versions 
 ## Architecture
 The following diagrams show how the Splice applications interact with the Daml platform from Digital Asset.<br>
 
-![SV Node Architecture](./images/Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice-1.jpg)
+![SV Node Architecture](./images/Super%20Validator%20Architecture%20Diagram%20for%20Splice-1.jpg)
 
-![Validator Node Architecture](./images/Super%20Validator%20Architecture%20Diagram%20for%20Hyperledger%20Splice-2.jpg)
+![Validator Node Architecture](./images/Super%20Validator%20Architecture%20Diagram%20for%20Splice-2.jpg)
 
 ### Notes:
 The Validator module contains the Wallet module and the Traffic Acquisition module.<br>
@@ -89,4 +89,4 @@ The SV App module contains the Amulet smart contract code and the Amulet configu
 https://github.com/tkuhrt - Tracy Kuhrt, Chair of the Hyperledger Technical Oversight Committee
 
 # Pre-existing repository
-We have an existing private repository. We plan to copy code from that repository to the new Hyperledger Splice repository in the first few weeks after the project has been approved, instead of transferring the repository itself. 
+We have an existing private repository. We plan to copy code from that repository to the new Splice repository in the first few weeks after the project has been approved, instead of transferring the repository itself. 
