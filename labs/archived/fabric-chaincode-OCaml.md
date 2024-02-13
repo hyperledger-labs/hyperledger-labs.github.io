@@ -1,7 +1,7 @@
 ---
 layout: default
 title: fabric-chaincode-OCaml
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [fabric-chaincode-OCaml](https://github.com/hyperledger-labs/fabric-chaincode-ocaml)
