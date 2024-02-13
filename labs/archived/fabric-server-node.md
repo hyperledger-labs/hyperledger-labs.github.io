@@ -1,7 +1,7 @@
 ---
 layout: default
 title: fabric-server-node
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 fabric-server-node

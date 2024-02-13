@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BDLS
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [BDLS](https://github.com/hyperledger-labs/bdls)

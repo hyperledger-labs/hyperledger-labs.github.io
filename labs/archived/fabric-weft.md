@@ -1,7 +1,7 @@
 ---
 layout: default
 title: weft
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [_Fabric Weft._](https://github.com/hyperledgendary/weft)

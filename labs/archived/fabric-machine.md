@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fabric Machine
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Fabric Machine](https://github.com/hyperledger-labs/fabric-machine)

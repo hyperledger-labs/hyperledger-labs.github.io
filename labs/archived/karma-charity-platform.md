@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Karma Charity Foundation Platform
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [karma-charity-platform](https://github.com/hyperledger-labs/karma-charity-platform)

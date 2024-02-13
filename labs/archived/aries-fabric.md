@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aries Wrapper For Fabric
-parent: Labs
+parent: Archived Labs
 ---
 # Aries Wrapper For Fabric
 [Aries Wrapper For Fabric](https://github.com/hyperledger-labs/aries-fabric-wrapper)

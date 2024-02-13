@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Business Partner Agent
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Business Partner Agent](https://github.com/hyperledger-labs/business-partner-agent)

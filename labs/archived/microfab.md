@@ -1,7 +1,7 @@
 ---
 layout: default
 title: microfab
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [microfab](https://github.com/hyperledger-labs/microfab)

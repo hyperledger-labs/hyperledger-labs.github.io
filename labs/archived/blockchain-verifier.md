@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blockchain Verifier
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Blockchain Verifier](https://github.com/hyperledger-labs/blockchain-verifier)
