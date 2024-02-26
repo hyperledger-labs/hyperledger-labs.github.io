@@ -10,7 +10,7 @@ parent: Labs
 Automated Gateways is a secure solution which can make Contract-Call interoperability happen between Hyperledger Fabric networks with minimal efforts. 
 
 # Scope of Lab
-By utilizing three smart contracts as the foundation of authentication and authorization, the Automated Gateways module provides a simple and secure method for Hyperledger fabrics to exchange services and data. When a user integrates this module into their code and deploys three predetermined smart contracts, they can grant access to their services to other Hyperledger fabrics. Moreover, they can access services from smart contracts deployed on other Hyperledger fabrics. Through this method, various Hyperledger fabrics can connect and utilize each other's services.
+By utilizing three smart contracts as the foundation of authentication and authorization, the Automated Gateways module provides a simple and secure method for Hyperledger Fabric networks to exchange services and data. When a user integrates this module into their code and deploys three predetermined smart contracts, they can grant access to their services to other Hyperledger Fabric networks. Moreover, they can access services from smart contracts deployed on other Hyperledger Fabric networks. Through this method, various Hyperledger Fabric networks can connect and utilize each other's services.
 
 The module offers users both an API and a CLI. With these tools, users can grant access to their services to other blockchains and invoke services on external blockchains.
 
