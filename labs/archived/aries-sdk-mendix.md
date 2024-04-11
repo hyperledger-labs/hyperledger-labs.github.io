@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aries SDK for Mendix
-parent: Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Aries SDK for Mendix low-code platform](https://github.com/hyperledger-labs/aries-sdk-mendix)
