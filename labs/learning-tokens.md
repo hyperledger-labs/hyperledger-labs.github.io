@@ -43,8 +43,27 @@ https://github.com/Jmarvin-12
 
 https://github.com/AlfonsoGovela
 
+https://github.com/TanjinAlam
+
 # Sponsor
 https://github.com/vipinsun - Chair of the Capital Markets Special Interest Group and the Identity Working Group
 
 # Pre-existing repository
-None yet.
+[hyperledger-lab-learning-token](https://github.com/hyperledger-labs/learning-tokens)
+
+
+# Web portal 
+[www.learningtoken.org](https://learningtokens.org/)
+
+
+# Contact Us 
+
+Alfonso Govela, Linux Foundation Mentor (alfonsogovela@mac.com)
+
+Tanjin Alam, Linux Foundation Mentee 2023; Linux Foundation
+Mentor (piash.tanjin@gmail.com)
+
+# Publication
+
+https://www.gbbc.io/news/gbbc-and-hyperledger-foundation-release-learning-tokens-special-report
+
