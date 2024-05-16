@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stewards
+nav_order: 5
+---
+
 Stewards
 ========
 
@@ -27,4 +33,4 @@ Stewards
 [knagware9]: https://github.com/knagware9
 [vipinsun]: https://github.com/vipinsun
 
-If you are interested in volunteering to become a Hyperledger Lab Steward, please send an email to [the TOC mailing list](https://lists.hyperledger.org/g/toc) at [toc@lists.hyperledger.org](mailto:toc@lists.hyperledger.org).
+If you are interested in becoming a Hyperledger Lab Steward, please see [Becoming a Lab Steward](./governance#becoming-a-lab-steward) in the governance document.

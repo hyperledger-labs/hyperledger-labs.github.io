@@ -11,6 +11,16 @@ Labs are not directly controlled by the TOC. Labs are proposed and run by the co
 
 In case of issue with the [labs stewards](stewards), requesters and/or committers can appeal to the TOC for arbitration.
 
+## Becoming a Lab Steward
+
+If you are interested in volunteering to become a Hyperledger Lab Steward, please send an email to [the TOC mailing list](https://lists.hyperledger.org/g/toc) at [toc@lists.hyperledger.org](mailto:toc@lists.hyperledger.org). The email should contain:
+1. Name
+2. GitHub ID
+3. Your involvement within the Hyperledger community
+4. Why you want to become a lab steward
+
+The TOC will then vote at an upcoming meeting to determine if your request is approved.
+
 ## Labs Stewards Responsibilities
 
 The labs stewards are responsible for:
