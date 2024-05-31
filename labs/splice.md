@@ -1,4 +1,10 @@
+---
+layout: default
+title: Splice
+parent: Labs
+---
 # Splice
+[Splice](https://github.com/hyperledger-labs/splice)
 
 # Short Description
 
@@ -114,3 +120,15 @@ The following diagram shows how the Splice applications interact with the Daml p
 The Validator module contains the Wallet module and the Traffic Acquisition module.
 
 The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app. 
+
+
+# Initial Committers
+
+- https://github.com/waynecollier-da
+- https://github.com/isegall-da
+
+# Sponsor
+https://github.com/tkuhrt - Tracy Kuhrt, Chair of the Hyperledger Technical Oversight Committee
+
+# Pre-existing repository
+We have an existing private repository. We plan to copy code from that repository to the new Splice repository in the first few weeks after the project has been approved, instead of transferring the repository itself.
