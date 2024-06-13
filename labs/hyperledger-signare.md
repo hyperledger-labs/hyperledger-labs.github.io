@@ -22,6 +22,9 @@ The purpose of Hyperledger Signare is to provide a FIPS 140-2 Level 2 compliant 
 
 https://github.com/nano-adhara
 https://github.com/chookly314
+https://github.com/Jserrano27
+https://github.com/gynura
+https://github.com/ArturoGarciaRegueiro
 https://github.com/mkrielza
 https://github.com/coeniebeyers
 
