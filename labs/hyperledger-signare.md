@@ -31,7 +31,7 @@ https://github.com/coeniebeyers
 
 # Sponsor
  
-- Susumu Toriumi (susumu.toriumi@datachain.jp) - Maintainer, YUI
+- https://github.com/storiumi, Susumu Toriumi (susumu.toriumi@datachain.jp) - Maintainer, YUI
  
 # Pre-existing repository
 
