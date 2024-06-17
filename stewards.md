@@ -15,11 +15,13 @@ Stewards
 | Nidhi Singh | [nidhi-singh02][nidhi-singh02] |
 | Marcus Brandenburger | [mbrandenburger][mbrandenburger] |
 | Alvaro Picazo | [alvaropicazo][alvaropicazo] |
+| Esteban Garcia | [essbante-io][essbante-io] |
 
 [tkuhrt]: https://github.com/tkuhrt
 [nidhi-singh02]: https://github.com/nidhi-singh02
 [mbrandenburger]: https://github.com/mbrandenburger
 [alvaropicazo]: https://github.com/alvaropicazo
+[essbante-io]: https://github.com/essbante-io
 
 **Emeritus Stewards**
 
