@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Lab Proposal Document
-[//]: # (parent: Labs)
+title: VS Code Plugin for Chaincode Developers
+parent: Labs
 ---
 # Lab Name
-_Enter the name of your lab here._
-_Change line 3 of this file to reflect the short name of your project._
-_Change line 4 to read: "parent: Labs"_
+VS Code Plugin for Chaincode Developers
+
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+A VS code extension and toolbox to debugging a chaincode. The extension once installed can be used by developers of chaincode to run and debug from their IDE, to understand how their chaincode behaves.
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+Hyperledger Fabric chaincode developers often have to repeat the same steps to set up their environment and deploy code for debugging. This process can be tedious and time-consuming. If the IDE had a built-in debugging interface, it could automate these tasks, making the developer's job easier and faster.
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
