@@ -1,12 +1,16 @@
 ---
 layout: default
 title: Open Enterprise Agent
-parent: Labs
+parent: Archived Labs
 ---
 # Open Enterprise Agent
 
 [Open Enterprise Agent](https://github.com/hyperledger-labs/open-enterprise-agent)
+
 # Short Description
+
+Open Enterprise Agent became [Identus](https://github.com/hyperledger/identus).
+
 The Open Enterprise Agent is a software agent for building decentralised identity applications and services in line with W3C standards and Hyperledger Aries RFCs. Aiming to be blockchain agnostic and interoperable across two key technology ecosystems in Self Sovereign Identity (SSI), it provides a scalable, robust, performant and user-friendly platform for building solutions and products based on it. Its REST API enables easy integration with any programming language, on top of a core built in Scala, a language well suited for building fault-tolerant, highly concurrent systems.
 
 # Scope of Lab
