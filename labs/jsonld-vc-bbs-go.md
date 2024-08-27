@@ -10,7 +10,7 @@ JsonLD VC BBS Go
 Golang implementation of W3C JSON-LD BBS credentials
 
 # Scope of Lab
-This library fits into The Linux Foundation Decentralized-Trust branch. It implements issuance, verification, proof generation of [W3C JSON-LD](https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/) credentials in Golang. The initially supported standards are  `BbsBlsSignature2020` and `BbsBlsSignatureProof2020`. Later we will add new standards as they are adopted.
+This library implements issuance, verification, proof generation of [W3C JSON-LD ZKP with BBS+ Verifiable Credentials](https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/) credentials in Golang. The initially supported standards are  `BbsBlsSignature2020` and `BbsBlsSignatureProof2020`. Later we will add new standards as they are adopted.
 
 # Initial Committers
 - https://github.com/iliecirciumaru, Ilie Circiumaru
