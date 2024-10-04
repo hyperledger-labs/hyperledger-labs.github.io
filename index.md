@@ -66,4 +66,4 @@ related issue is introduced.
 ## Code of Conduct
 
 All Hyperledger community members must adhere to the
-[Code of Conduct](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct).
+[Code of Conduct](https://lf-decentralized-trust.github.io/governance/governing-documents/code-of-conduct.html#code-of-conduct).
