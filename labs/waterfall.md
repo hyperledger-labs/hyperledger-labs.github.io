@@ -50,6 +50,6 @@ and the GNU General Public License v3.0 (GPL-3.0) respectively. The code written
 under the Apache License v2.0.
 
 To address the licensing concerns, we will refactor the code to eliminate direct dependencies on GPL-3.0 libraries,
-ensuring compatibilitywith the Apache License v2.0. Additionally, for LGPL-3.0 dependencies,
+ensuring compatibility with the Apache License v2.0. Additionally, for LGPL-3.0 dependencies,
 we will implement dynamic linking by creating Golang interfaces.
 
