@@ -48,7 +48,7 @@ Paladin supports token implementations that obey these basic principles:
 
 # Sponsor
 
-https://github.com/jimthematrix - Jim Zhang, member of the Hyperledger Technical Oversight Committee
+https://github.com/jimthematrix - Jim Zhang, member of the Hyperledger Technical Advisory Council
 
 # Pre-existing repositories
 
