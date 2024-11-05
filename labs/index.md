@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Archived Labs
-nav_order: 4
+title: Active Labs
+nav_order: 3
 has_children: true
 has_toc: true
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Archived Labs
+# Active Labs

@@ -1,4 +1,4 @@
-# Hyperledger Labs
+# Original Proposal for Hyperledger Labs
 
 The current Hyperledger Project Lifecycle provides for projects to be started in Incubation and graduate from there to Active projects. This proposal aims at providing a space (i.e., GitHub repos) where work can easily be started without the creation of a project.
 
