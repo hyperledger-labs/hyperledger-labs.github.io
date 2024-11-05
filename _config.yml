@@ -1,17 +1,15 @@
-title: "Hyperledger Labs"
-logo: "/hyperledger-logo.png"
-url: "https://labs.hyperledger.org"
-description: "Start here to propose a Hyperledger Lab"
+title: "LF Decentralized Trust Labs"
+logo: "/lf-decentralized-trust-logo.svg"
+url: "https://LF-Decentralized-Trust-labs.github.io"
+description: "Start here to propose a LF Decentralized Trust Lab"
 show_downloads: "false"
 has_children: true
 has_toc: true
 aux_links:
   "GitHub":
-    - "//github.com/hyperledger-labs"
-  "Wiki":
-    - "//wiki.hyperledger.org/display/labs"
+    - "//github.com/LF-Decentralized-Trust-labs"
   "Chat":
-    - "//discord.gg/hyperledger"
+    - "//discord.lfdecentralizedtrust.org"
 # Switch next two lines for local debugging
-# theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs

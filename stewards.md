@@ -39,4 +39,4 @@ Stewards
 [knagware9]: https://github.com/knagware9
 [vipinsun]: https://github.com/vipinsun
 
-If you are interested in becoming a Hyperledger Lab Steward, please see [Becoming a Lab Steward](./governance#becoming-a-lab-steward) in the governance document.
+If you are interested in becoming a LF Decentralized Trust Lab Steward, please see [Becoming a Lab Steward](./governance#becoming-a-lab-steward) in the governance document.

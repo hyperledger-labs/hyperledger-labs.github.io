@@ -1,7 +1,7 @@
 repository:
-  name: hyperledger-labs.github.io
-  description: Hyperledger Labs
-  homepage: https://labs.hyperledger.org/
+  name: lf-decentralized-trust-labs.github.io
+  description: LF Decentralized Trust Labs
+  homepage: https://lf-decentralized-trust-labs.github.io
   default_branch: main
   has_downloads: false
   has_issues: true

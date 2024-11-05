@@ -1,6 +1,6 @@
-## Checklist for Hyperledger Lab Proposal PR
+## Checklist for LF Decentralized Trust Lab Proposal PR
 
-- [ ] Read [README.md](https://github.com/hyperledger-labs/hyperledger-labs.github.io/blob/master/README.md) carefully
+- [ ] Read [README.md](https://github.com/lf-decentralized-trust-labs/lf-decentralized-trust-labs.github.io/blob/master/README.md) carefully
 - [ ] Make sure your changes are committed with the proper sign-off
 - [ ] Use the labs name as the PR title
 - [ ] Copy the short description of the proposal as the description of the PR
