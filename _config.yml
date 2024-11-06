@@ -10,6 +10,7 @@ aux_links:
     - "//github.com/LF-Decentralized-Trust-labs"
   "Chat":
     - "//discord.lfdecentralizedtrust.org"
-# Switch next two lines for local debugging
 theme: just-the-docs
-#remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
