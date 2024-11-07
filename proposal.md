@@ -1,4 +1,10 @@
-# Original Proposal for Hyperledger Labs
+---
+layout: default
+title: Original Proposal for Labs
+---
+_**NOTE**: Labs was created when LF Decentralized Trust was still Hyperledger Foundation. As such, we have left all references to Hyperledger in this proposal._
+
+# Original Proposal for Labs
 
 The current Hyperledger Project Lifecycle provides for projects to be started in Incubation and graduate from there to Active projects. This proposal aims at providing a space (i.e., GitHub repos) where work can easily be started without the creation of a project.
 
